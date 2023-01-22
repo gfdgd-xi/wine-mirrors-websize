@@ -20,7 +20,7 @@ html = f"""<!DOCTYPE html>
 #    lists = json.loads(file.read())
 lists = requests.get("https://code.gitlink.org.cn/gfdgd_xi/wine-mirrors/raw/branch/master/information.json").json()
 for i in lists:
-    html += f"    <p><a href='https://code.gitlink.org.cn/gfdgd_xi/wine-mirrors/raw/branch/master/{i[1]}'>{i[0]}</a></p>"
+    html += f"    <p><a href='https://code.gitlink.org.cn/gfdgd_xi/wine-mirrors/raw/branch/master/{i[1]}'>{i[0]}</a></p>\n"
 html += f"""    <p><a href='https://gitee.com/gfdgd-xi-org/deep-wine-runner/stargazers'><img src='https://gitee.com/gfdgd-xi-org/deep-wine-runner/badge/star.svg?theme=dark' alt='star'></img></a><a href='https://gitee.com/gfdgd-xi-org/deep-wine-runner/members'><img src='https://gitee.com/gfdgd-xi-org/deep-wine-runner/badge/fork.svg?theme=dark' alt='fork'></img></a></p>
     <hr/>
     <h2>Wine 运行器</h2>
