@@ -31,7 +31,7 @@ html += f"""    <p><a href='https://gitee.com/gfdgd-xi-org/deep-wine-runner/star
 <script>
     window.onload = function(){{
         var d = new Date();
-        document.getElementById("copyright").innerHTML = "©2020~" + d.getFullYear() + "gfdgd xi、为什么您不喜欢熊出没和阿布呢";
+        document.getElementById("copyright").innerHTML = "©2020~" + d.getFullYear() + " gfdgd xi、为什么您不喜欢熊出没和阿布呢";
     }}
 </script>
 """
