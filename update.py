@@ -14,6 +14,9 @@ html = f"""<!DOCTYPE html>
 <body>
     <h1>Wine 列表（来自 Wine 运行器）</h1>
     <p>点击下方链接下载编译好的 7z 包</p>
+    <h3>推荐在 Wine 运行器内安装</h3>
+    <p><img src='images/截图_installwine_20230123094608.png'></p>
+    <hr/>
     <h3>更新时间：{datetime.datetime.now().year}年{datetime.datetime.now().month}月{datetime.datetime.now().day}日 {datetime.datetime.now().hour}:{datetime.datetime.now().minute}:{datetime.datetime.now().second}</h3>
 """
 #with open(f"information.json", "r") as file:
