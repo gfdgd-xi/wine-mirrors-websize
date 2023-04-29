@@ -29,12 +29,12 @@ html += f"""    <p><a href='https://gitee.com/gfdgd-xi-org/deep-wine-runner/star
     <h2>Wine 运行器</h2>
     <p style='overflow: auto;'><img src='https://gitee.com/gfdgd-xi-org/deep-wine-runner/widgets/widget_card.svg?colors=eae9d7,2e2f29,272822,484a45,eae9d7,747571'></p>
     <hr/>
-    <h1 id="copyright">©2020~{datetime.datetime.now().year} gfdgd xi、为什么您不喜欢熊出没和阿布呢</h1>
+    <h1 id="copyright">©2020~{datetime.datetime.now().year} gfdgd xi</h1>
 </body>
 <script>
     window.onload = function(){{
         var d = new Date();
-        document.getElementById("copyright").innerHTML = "©2020~" + d.getFullYear() + " gfdgd xi、为什么您不喜欢熊出没和阿布呢";
+        document.getElementById("copyright").innerHTML = "©2020~" + d.getFullYear() + " gfdgd xi";
     }}
 </script>
 """
