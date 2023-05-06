@@ -33,7 +33,7 @@
     ],
     [
         "wine-staging-8.7-debian10-x86_64",
-        "https://github.com/rain-gfd/wine-download/releases/download/wine-staging-8.7-debian10-x86_64/wine-staging-8.7-debian10-x86_64.7z"
+        "https://jihulab.com/gfdgd-xi/wine-mirrors/-/raw/main/wine-staging-8.7-debian10-x86_64.7z"
     ],
     [
         "wine-staging-8.7-debian10-amd64",
