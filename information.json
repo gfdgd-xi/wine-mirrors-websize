@@ -1,11 +1,11 @@
 [
     [
         "——————下面版本若标有debian10字样则代表是作者从上游拉取编译的——————",
-        "https://github.com/rain-gfd/wine-download/releases/download/egg/egg.7z"
+        "http://download0.wine.wine-runner.gfdgdxi.top/egg.7z"
     ],
     [
         "——————若没有则代表是从官方源拉取的——————",
-        "https://github.com/rain-gfd/wine-download/releases/download/egg/egg.7z"
+        "http://download0.wine.wine-runner.gfdgdxi.top/egg.7z"
     ],
     [
         "spark-wine8-8.0",
@@ -81,11 +81,11 @@
     ],
     [
         "wine-ce-8.5-aarch64",
-        "https://github.com/rain-gfd/wine-download/releases/download/wine-ce-8.5-aarch64/wine-ce-8.5-aarch64.7z"
+        "http://download0.wine.wine-runner.gfdgdxi.top/wine-ce-8.5-aarch64.7z"
     ],
     [
         "wine-ce-8.5-riscv64",
-        "https://github.com/rain-gfd/wine-download/releases/download/wine-ce-8.5-riscv64/wine-ce-8.5-riscv64.7z"
+        "http://download0.wine.wine-runner.gfdgdxi.top/wine-ce-8.5-riscv64.7z"
     ],
     [
         "wine-staging-8.4-debian10-x86_64",
@@ -101,7 +101,7 @@
     ],
     [
         "wine-ce-8.4-riscv64",
-        "https://github.com/rain-gfd/wine-download/releases/download/wine-ce-8.4-riscv64/wine-ce-8.4-riscv64.7z"
+        "http://download0.wine.wine-runner.gfdgdxi.top/wine-ce-8.4-riscv64.7z"
     ],
     [
         "wine-staging-8.4-ubuntu20.04-aarch64",
@@ -149,11 +149,11 @@
     ],
     [
         "wine-ce-8.2-riscv64",
-        "https://github.com/rain-gfd/wine-download/releases/download/wine-ce-8.2-riscv64/wine-ce-8.2-riscv64.7z"
+        "http://download0.wine.wine-runner.gfdgdxi.top/wine-ce-8.2-riscv64.7z"
     ],
     [
         "wine-ce-8.2-armhf",
-        "https://github.com/rain-gfd/wine-download/releases/download/wine-ce-8.2-armhf/wine-ce-8.2-armhf.7z"
+        "http://download0.wine.wine-runner.gfdgdxi.top/wine-ce-8.2-armhf.7z"
     ],
     [
         "wine-staging-8.1",
@@ -173,7 +173,7 @@
     ],
     [
         "wine-ce-8.1-armhf",
-        "https://github.com/rain-gfd/wine-download/releases/download/wine-ce-8.1-armhf/wine-ce-8.1-armhf.7z"
+        "http://download0.wine.wine-runner.gfdgdxi.top/wine-ce-8.1-armhf.7z"
     ],
     [
         "wine-staging-8.1-ubuntu20.04-aarch64",
@@ -193,7 +193,7 @@
     ],
     [
         "wine-ce-8.0-armhf",
-        "https://github.com/rain-gfd/wine-download/releases/download/wine-ce-8.0-armhf/wine-ce-8.0-armhf.7z"
+        "http://download0.wine.wine-runner.gfdgdxi.top/wine-ce-8.0-armhf.7z"
     ],
     [
         "wine-staging-8.0-rc5",
@@ -225,7 +225,7 @@
     ],
     [
         "wine-ce-8.0-rc5-armhf",
-        "https://github.com/rain-gfd/wine-download/releases/download/wine-ce-8.0-rc5-armhf/wine-ce-8.0-rc5-armhf.7z"
+        "http://download0.wine.wine-runner.gfdgdxi.top/wine-ce-8.0-rc5-armhf.7z"
     ],
     [
         "wine-staging-8.0-rc4",
@@ -249,7 +249,7 @@
     ],
     [
         "wine-ce-8.0-rc4-armhf",
-        "https://github.com/rain-gfd/wine-download/releases/download/wine-ce-8.0-rc4-armhf/wine-ce-8.0-rc4-armhf.7z"
+        "http://download0.wine.wine-runner.gfdgdxi.top/wine-ce-8.0-rc4-armhf.7z"
     ],
     [
         "wine-staging-8.0-rc3-debian10-x86_64",
@@ -429,7 +429,7 @@
     ],
     [
         "proton-4.2-i386",
-        "https://github.com/rain-gfd/wine-download/releases/download/proton-4.2-i386/proton-4.2-i386.7z"
+        "http://download0.wine.wine-runner.gfdgdxi.top/proton-4.2-i386.7z"
     ],
     [
         "wine-staging-4.21",
@@ -441,15 +441,15 @@
     ],
     [
         "proton-3.16-amd64",
-        "https://github.com/rain-gfd/wine-download/releases/download/proton-3.16-amd64/proton-3.16-amd64.7z"
+        "http://download0.wine.wine-runner.gfdgdxi.top/proton-3.16-amd64.7z"
     ],
     [
         "proton-3.16-i386",
-        "https://github.com/rain-gfd/wine-download/releases/download/proton-3.16-i386/proton-3.16-i386.7z"
+        "http://download0.wine.wine-runner.gfdgdxi.top/proton-3.16-i386.7z"
     ],
     [
         "proton-3.7-i386",
-        "https://github.com/rain-gfd/wine-download/releases/download/proton-3.7-i386/proton-3.7-i386.7z"
+        "http://download0.wine.wine-runner.gfdgdxi.top/proton-3.7-i386.7z"
     ],
     [
         "wine-staging-3.21",
