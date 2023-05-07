@@ -257,7 +257,7 @@
     ],
     [
         "lutris-fshack-7.2",
-        "https://github.com/rain-gfd/wine-download/releases/download/lutris-fshack-7.2/lutris-fshack-7.2.7z"
+        "http://download0.wine.wine-runner.gfdgdxi.top/lutris-fshack-7.2.7z"
     ],
     [
         "wine-staging-8.0-rc2-debian10-x86_64",
@@ -377,7 +377,7 @@
     ],
     [
         "lutris-6.4-i386",
-        "https://github.com/rain-gfd/wine-download/releases/download/lutris-6.4-i386/lutris-6.4-i386.7z"
+        "http://download0.wine.wine-runner.gfdgdxi.top/lutris-6.4-i386.7z"
     ],
     [
         "wine-stable-6.0.4",
