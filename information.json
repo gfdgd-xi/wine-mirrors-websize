@@ -56,6 +56,10 @@
         "https://jihulab.com/gfdgd-xi/wine-mirrors/-/raw/main/wine-staging-8.7-debian10-i386.7z"
     ],
     [
+        "wine-staging-8.8-ubuntu22.04-aarch64",
+        "https://github.com/rain-gfd/wine-download/releases/download/wine-staging-8.8-ubuntu22.04-aarch64/wine-staging-8.8-ubuntu22.04-aarch64.7z"
+    ],
+    [
         "wine-ce-8.7-amd64",
         "http://download0.wine.wine-runner.gfdgdxi.top/wine-ce-8.7-amd64.7z"
     ],
