@@ -397,7 +397,7 @@
     ],
     [
         "wine-stable-6.0.4",
-        "https://github.com/rain-gfd/wine-download/releases/download/wine-stable-6.0.4/wine-stable-6.0.4.7z"
+        "https://jihulab.com/gfdgd-xi/wine-mirrors/-/raw/main/wine-stable-6.0.4.7z"
     ],
     [
         "wine-staging-6.18",
@@ -453,7 +453,7 @@
     ],
     [
         "wine-stable-3.0.5",
-        "https://github.com/rain-gfd/wine-download/releases/download/wine-stable-3.0.5/wine-stable-3.0.5.7z"
+        "https://jihulab.com/gfdgd-xi/wine-mirrors/-/raw/main/wine-stable-3.0.5.7z"
     ],
     [
         "proton-3.16-amd64",
