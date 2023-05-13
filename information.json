@@ -57,7 +57,7 @@
     ],
     [
         "wine-staging-8.8-ubuntu22.04-aarch64",
-        "https://github.com/rain-gfd/wine-download/releases/download/wine-staging-8.8-ubuntu22.04-aarch64/wine-staging-8.8-ubuntu22.04-aarch64.7z"
+        "http://download0.wine.wine-runner.gfdgdxi.top/wine-staging-8.8-ubuntu22.04-aarch64.7z"
     ],
     [
         "wine-ce-8.7-amd64",
@@ -81,7 +81,7 @@
     ],
     [
         "wine-staging-8.6-ubuntu22.04-aarch64",
-        "https://github.com/rain-gfd/wine-download/releases/download/wine-staging-8.6-ubuntu22.04-aarch64/wine-staging-8.6-ubuntu22.04-aarch64.7z"
+        "http://download0.wine.wine-runner.gfdgdxi.top/wine-staging-8.6-ubuntu22.04-aarch64.7z"
     ],
     [
         "wine-staging-8.5-debian10-x86_64",
@@ -121,7 +121,7 @@
     ],
     [
         "wine-staging-8.4-ubuntu20.04-aarch64",
-        "https://github.com/rain-gfd/wine-download/releases/download/wine-staging-8.4-ubuntu20.04-aarch64/wine-staging-8.4-ubuntu20.04-aarch64.7z"
+        "http://download0.wine.wine-runner.gfdgdxi.top/wine-staging-8.4-ubuntu20.04-aarch64.7z"
     ],
     [
         "wine-staging-8.3",
@@ -161,7 +161,7 @@
     ],
     [
         "wine-staging-8.2-aarch64",
-        "https://github.com/rain-gfd/wine-download/releases/download/wine-staging-8.2-aarch64/wine-staging-8.2-aarch64.7z"
+        "http://download0.wine.wine-runner.gfdgdxi.top/wine-staging-8.2-aarch64.7z"
     ],
     [
         "wine-ce-8.2-riscv64",
@@ -193,7 +193,7 @@
     ],
     [
         "wine-staging-8.1-ubuntu20.04-aarch64",
-        "https://github.com/rain-gfd/wine-download/releases/download/wine-staging-8.1-ubuntu20.04-aarch64/wine-staging-8.1-ubuntu20.04-aarch64.7z"
+        "http://download0.wine.wine-runner.gfdgdxi.top/wine-staging-8.1-ubuntu20.04-aarch64.7z"
     ],
     [
         "wine-stable-8.0-debian10-x86_64",
@@ -232,12 +232,12 @@
         "https://github.com/rain-gfd/wine-download/releases/download/wine-staging-8.0-rc5-debian10-i386/wine-staging-8.0-rc5-debian10-i386.7z"
     ],
     [
-        "/wine-staging-8.0-rc5-ubuntu20.04-aarch64",
-        "https://github.com/rain-gfd/wine-download/releases/download/wine-staging-8.0-rc5-ubuntu20.04-aarch64//wine-staging-8.0-rc5-ubuntu20.04-aarch64.7z"
+        "wine-staging-8.0-rc5-ubuntu20.04-aarch64",
+        "http://download0.wine.wine-runner.gfdgdxi.top/wine-staging-8.0-rc5-ubuntu20.04-aarch64.7z"
     ],
     [
         "wine-staging-8.0-rc5-debian10-armv71",
-        "https://github.com/rain-gfd/wine-download/releases/download/wine-staging-8.0-rc5-debian10-armv71/wine-staging-8.0-rc5-debian10-armv71.7z"
+        "http://download0.wine.wine-runner.gfdgdxi.top/wine-staging-8.0-rc5-debian10-armv71.7z"
     ],
     [
         "wine-ce-8.0-rc5-armhf",
@@ -421,7 +421,7 @@
     ],
     [
         "wine-stable-5.0.4",
-        "https://github.com/rain-gfd/wine-download/releases/download/wine-stable-5.0.4/wine-stable-5.0.4.7z"
+        "https://jihulab.com/gfdgd-xi/wine-mirrors/-/raw/main/wine-stable-5.0.4.7z"
     ],
     [
         "wine-staging-5.22",
