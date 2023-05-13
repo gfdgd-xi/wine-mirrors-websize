@@ -28,6 +28,10 @@
         "https://github.com/rain-gfd/wine-download/releases/download/wine-stable-8.0.1-debian10-i386/wine-stable-8.0.1-debian10-i386.7z"
     ],
     [
+        "wine-staging-8.8-debian10-amd64",
+        "https://github.com/rain-gfd/wine-download/releases/download/wine-staging-8.8-debian-amd64/wine-staging-8.8-debian-amd64.7z"
+    ],
+    [
         "wine-stable-8.0",
         "https://github.com/rain-gfd/wine-download/releases/download/wine-stable-8.0/wine-stable-8.0.7z"
     ],
