@@ -424,6 +424,10 @@
         "https://jihulab.com/gfdgd-xi/wine-mirrors/-/raw/main/wine-stable-5.0.4.7z"
     ],
     [
+        "proton-5.0-debian10-amd64",
+        "http://download0.wine.wine-runner.gfdgdxi.top/proton-5.0-debian10-amd64.7z"
+    ],
+    [
         "proton-5.0-debian10-i386",
         "http://download0.wine.wine-runner.gfdgdxi.top/proton-5.0-debian10-i386.7z"
     ],
