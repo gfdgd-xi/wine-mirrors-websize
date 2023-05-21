@@ -44,6 +44,18 @@
         "https://github.com/rain-gfd/wine-download/releases/download/wine-staging-8.8-debian10-i386/wine-staging-8.8-debian10-i386.7z"
     ],
     [
+        "wine-ce-8.8-amd64",
+        "http://download0.wine.wine-runner.gfdgdxi.top/wine-ce-8.8-amd64.7z"
+    ],
+    [
+        "wine-ce-8.8-riscv64",
+        "http://download0.wine.wine-runner.gfdgdxi.top/wine-ce-8.8-riscv64.7z"
+    ],
+    [
+        "wine-staging-8.8-ubuntu22.04-aarch64",
+        "http://download0.wine.wine-runner.gfdgdxi.top/wine-staging-8.8-ubuntu22.04-aarch64.7z"
+    ],
+    [
         "wine-staging-8.7-debian10-x86_64",
         "https://jihulab.com/gfdgd-xi/wine-mirrors/-/raw/main/wine-staging-8.7-debian10-x86_64.7z"
     ],
@@ -54,10 +66,6 @@
     [
         "wine-staging-8.7-debian10-i386",
         "https://jihulab.com/gfdgd-xi/wine-mirrors/-/raw/main/wine-staging-8.7-debian10-i386.7z"
-    ],
-    [
-        "wine-staging-8.8-ubuntu22.04-aarch64",
-        "http://download0.wine.wine-runner.gfdgdxi.top/wine-staging-8.8-ubuntu22.04-aarch64.7z"
     ],
     [
         "wine-ce-8.7-amd64",
