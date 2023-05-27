@@ -44,6 +44,10 @@
         "https://github.com/rain-gfd/wine-download/releases/download/wine-staging-8.9-debian10-i386/wine-staging-8.9-debian10-i386.7z"
     ],
     [
+        "wine-staging-8.9-ubuntu22.04-aarch64",
+        "http://download0.wine.wine-runner.gfdgdxi.top/wine-staging-8.9-ubuntu22.04-aarch64.7z"
+    ],
+    [
         "wine-staging-8.8-debian10-amd64",
         "https://github.com/rain-gfd/wine-download/releases/download/wine-staging-8.8-debian-amd64/wine-staging-8.8-debian-amd64.7z"
     ],
