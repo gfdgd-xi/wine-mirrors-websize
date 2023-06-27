@@ -24,3 +24,5 @@ jobs:
           git config --global user.name "gfdgd-xi"
           git commit -m 更新
           git push
+          git remote set-url origin https://$GITEEUSER:$GITEEPASSWORD@gitee.com/gfdgd-xi/wine-mirrors-websize
+          git push
