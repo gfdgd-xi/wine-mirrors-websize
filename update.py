@@ -21,7 +21,7 @@ html = f"""<!DOCTYPE html>
 """
 #with open(f"information.json", "r") as file:
 #    lists = json.loads(file.read())
-lists = requests.get("http://wine.wine-runner.gfdgdxi.top/information.json").json()
+lists = requests.get("https://github.com/gfdgd-xi/wine-mirrors-websize/raw/master/information.json").json()
 for i in lists:
     html += f"    <p><a href='{i[1]}'>{i[0]}</a></p>\n"
 html += f"""    <p><a href='https://gitee.com/gfdgd-xi/deep-wine-runner/stargazers'><img src='https://gitee.com/gfdgd-xi/deep-wine-runner/badge/star.svg?theme=dark' alt='star'></img></a><a href='https://gitee.com/gfdgd-xi/deep-wine-runner/members'><img src='https://gitee.com/gfdgd-xi/deep-wine-runner/badge/fork.svg?theme=dark' alt='fork'></img></a></p>
