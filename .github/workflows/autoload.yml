@@ -1,11 +1,11 @@
-name: Building Wine 7z Package(daily)
-run-name: ${{ github.actor }} Building Wine 7z Package (daily)🚀
+name: Update Information
+run-name: ${{ github.actor }} Update Information🚀
 on: [push]
 jobs:
   Explore-GitHub-Actions:
     runs-on: ubuntu-latest
     steps:
-      - name: Building Wine
+      - name: Updating
         env: 
           GUSER: ${{ secrets.GUSER }}
           PASSWORD: ${{ secrets.PASSWORD }}
@@ -20,5 +20,7 @@ jobs:
           cd wine-mirrors-websize
           python3 update.py
           git add .
+          git config --global user.email "3025613752@qq.com"
+          git config --global user.name "gfdgd-xi"
           git commit -m 更新
           git push
