@@ -385,6 +385,22 @@
         "https://github.com/rain-gfd/wine-download/releases/download/wine-staging-8.0-rc1/wine-staging-8.0-rc1.7z"
     ],
     [
+        "wine-stable-7.0.2-debian10-x86_64",
+        "https://jihulab.com/gfdgd-xi/wine-mirrors-3/-/raw/main/wine-stable-7.0.2-debian10-x86_64.7z"
+    ],
+    [
+        "wine-staging-wow64-7.0.2-debian10-amd64",
+        "http://download0.wine.wine-runner.gfdgdxi.top/wine-staging-wow64-7.0.2-debian10-amd64.7z"
+    ],
+    [
+        "wine-stable-7.0.2-debian10-amd64",
+        "http://download0.wine.wine-runner.gfdgdxi.top/wine-stable-7.0.2-debian10-amd64.7z"
+    ],
+    [
+        "wine-stable-7.0.2-debian10-i386",
+        "http://download0.wine.wine-runner.gfdgdxi.top/wine-stable-7.0.2-debian10-i386.7z"
+    ],
+    [
         "wine-stable-7.0.1",
         "https://github.com/rain-gfd/wine-download/releases/download/wine-stable-7.0.1/wine-stable-7.0.1.7z"
     ],
