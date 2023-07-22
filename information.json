@@ -36,10 +36,6 @@
         "https://jihulab.com/gfdgd-xi/wine-mirrors-3/-/raw/main/spark-wine8-8.12-wow64.7z"
     ],
     [
-        "wine-lutris-GE-Proton8-9-x86_64",
-        "http://download0.wine.wine-runner.gfdgdxi.top/wine-lutris-GE-Proton8-9-x86_64.7z"
-    ],
-    [
         "wine-stable-8.0.2-debian10-x86_64",
         "https://jihulab.com/gfdgd-xi/wine-mirrors-4/-/raw/main/wine-stable-8.0.2-debian10-x86_64.7z"
     ],
@@ -54,6 +50,30 @@
     [
         "wine-stable-wow64-8.0.2-debian10-x86_64",
         "https://jihulab.com/gfdgd-xi/wine-mirrors-4/-/raw/main/wine-stable-wow64-8.0.2-debian10-x86_64.7z"
+    ],
+    [
+        "wine-stable-8.0.2-ubuntu22.04-aarch64",
+        "http://download0.wine.wine-runner.gfdgdxi.top/wine-stable-8.0.2-ubuntu22.04-aarch64.7z"
+    ],
+    [
+        "wine-staging-8.13-debian10-x86_64",
+        "https://jihulab.com/gfdgd-xi/wine-mirrors-4/-/raw/main/wine-staging-8.13-debian10-x86_64.7z"
+    ],
+    [
+        "wine-staging-8.13-debian10-amd64",
+        "https://github.com/rain-gfd/wine-download/releases/download/wine-staging-8.13-debian10-amd64/wine-staging-8.13-debian10-amd64.7z"
+    ],
+    [
+        "wine-staging-8.13-debian10-i386",
+        "http://download0.wine.wine-runner.gfdgdxi.top/wine-staging-8.13-debian10-i386.7z"
+    ],
+    [
+        "wine-staging-wow64-8.13-debian10-amd64",
+        "https://jihulab.com/gfdgd-xi/wine-mirrors-4/-/raw/main/wine-staging-wow64-8.13-debian10-amd64.7z"
+    ],
+    [
+        "wine-staging-8.13-ubuntu22.04-aarch64",
+        "http://download0.wine.wine-runner.gfdgdxi.top/wine-staging-8.13-ubuntu22.04-aarch64.7z"
     ],
     [
         "wine-staging-8.12-debian10-x86_64",
