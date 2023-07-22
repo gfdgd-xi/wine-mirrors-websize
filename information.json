@@ -61,7 +61,7 @@
     ],
     [
         "wine-staging-8.13-debian10-amd64",
-        "https://github.com/rain-gfd/wine-download/releases/download/wine-staging-8.13-debian10-amd64/wine-staging-8.13-debian10-amd64.7z"
+        "https://atomgit.com/gfdgd-xi/wine-download-big-5/raw/master/wine-staging-8.13-debian10-amd64.7z"
     ],
     [
         "wine-staging-8.13-debian10-i386",
