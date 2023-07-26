@@ -56,6 +56,10 @@
         "http://download0.wine.wine-runner.gfdgdxi.top/wine-stable-8.0.2-ubuntu22.04-aarch64.7z"
     ],
     [
+        "spark-wine8-8.13",
+        "https://jihulab.com/gfdgd-xi/wine-mirrors-4/-/raw/main/spark-wine8-8.13.7z"
+    ],
+    [
         "wine-staging-8.13-debian10-x86_64",
         "https://jihulab.com/gfdgd-xi/wine-mirrors-4/-/raw/main/wine-staging-8.13-debian10-x86_64.7z"
     ],
