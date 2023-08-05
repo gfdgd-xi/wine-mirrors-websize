@@ -28,9 +28,10 @@
         "http://seafile.jyx2048.com:2345/wine-building/wine-daily-ubuntu22.04-aarch64.7z"
     ],
     [
-        "spark-wine8-8.12",
-        "https://jihulab.com/gfdgd-xi/wine-mirrors-3/-/raw/main/spark-wine8-8.12.7z"
+        "spark-wine8-8.13",
+        "https://jihulab.com/gfdgd-xi/wine-mirrors-4/-/raw/main/spark-wine8-8.13.7z"
     ],
+
     [
         "spark-wine8-8.12-wow64",
         "https://jihulab.com/gfdgd-xi/wine-mirrors-3/-/raw/main/spark-wine8-8.12-wow64.7z"
@@ -55,10 +56,7 @@
         "wine-stable-8.0.2-ubuntu22.04-aarch64",
         "http://download0.wine.wine-runner.gfdgdxi.top/wine-stable-8.0.2-ubuntu22.04-aarch64.7z"
     ],
-    [
-        "spark-wine8-8.13",
-        "https://jihulab.com/gfdgd-xi/wine-mirrors-4/-/raw/main/spark-wine8-8.13.7z"
-    ],
+    
     [
         "wine-staging-8.13-debian10-x86_64",
         "https://jihulab.com/gfdgd-xi/wine-mirrors-4/-/raw/main/wine-staging-8.13-debian10-x86_64.7z"
@@ -80,6 +78,10 @@
         "http://download0.wine.wine-runner.gfdgdxi.top/wine-staging-8.13-ubuntu22.04-aarch64.7z"
     ],
     [
+        "wine-ce-8.13.1-aarch64",
+        "http://download0.wine.wine-runner.gfdgdxi.top/wine-ce-8.13.1-aarch64.7z"
+    ],
+    [
         "wine-ce-8.13-amd64",
         "http://download0.wine.wine-runner.gfdgdxi.top/wine-ce-8.13-amd64.7z"
     ],
@@ -90,6 +92,10 @@
     [
         "wine-ce-8.13-riscv64",
         "http://download0.wine.wine-runner.gfdgdxi.top/wine-ce-8.13-riscv64.7z"
+    ],
+    [
+        "spark-wine8-8.12",
+        "https://jihulab.com/gfdgd-xi/wine-mirrors-3/-/raw/main/spark-wine8-8.12.7z"
     ],
     [
         "wine-staging-8.12-debian10-x86_64",
