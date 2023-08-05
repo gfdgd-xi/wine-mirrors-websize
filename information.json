@@ -31,7 +31,6 @@
         "spark-wine8-8.13",
         "https://jihulab.com/gfdgd-xi/wine-mirrors-4/-/raw/main/spark-wine8-8.13.7z"
     ],
-
     [
         "spark-wine8-8.12-wow64",
         "https://jihulab.com/gfdgd-xi/wine-mirrors-3/-/raw/main/spark-wine8-8.12-wow64.7z"
@@ -42,7 +41,7 @@
     ],
     [
         "wine-stable-8.0.2-debian10-amd64",
-        "https://github.com/rain-gfd/wine-download/releases/download/wine-stable-8.0.2-debian10-amd64/wine-stable-8.0.2-debian10-amd64.7z"
+        "http://seafile.jyx2048.com:2345/spark-deepin-wine-runner/data/wine/wine-stable-8.0.2-debian10-amd64.7z"
     ],
     [
         "wine-stable-8.0.2-debian10-i386",
@@ -56,14 +55,17 @@
         "wine-stable-8.0.2-ubuntu22.04-aarch64",
         "http://seafile.jyx2048.com:2345/spark-deepin-wine-runner/data/wine/wine-stable-8.0.2-ubuntu22.04-aarch64.7z"
     ],
-    
+    [
+        "wine-lutris-GE-Proton8-13-x86_64",
+        "http://seafile.jyx2048.com:2345/spark-deepin-wine-runner/data/wine/wine-lutris-GE-Proton8-13-x86_64.7z"
+    ],
     [
         "wine-staging-8.13-debian10-x86_64",
         "https://jihulab.com/gfdgd-xi/wine-mirrors-4/-/raw/main/wine-staging-8.13-debian10-x86_64.7z"
     ],
     [
         "wine-staging-8.13-debian10-amd64",
-        "https://github.com/rain-gfd/wine-download/releases/download/wine-staging-8.13-debian10-amd64/wine-staging-8.13-debian10-amd64.7z"
+        "http://seafile.jyx2048.com:2345/spark-deepin-wine-runner/data/wine/wine-staging-8.13-debian10-amd64.7z"
     ],
     [
         "wine-staging-8.13-debian10-i386",
@@ -102,6 +104,10 @@
         "https://jihulab.com/gfdgd-xi/wine-mirrors-3/-/raw/main/wine-staging-8.12-debian10-x86_64.7z"
     ],
     [
+        "wine-lutris-ge-lol-p8-12-x86_64",
+        "http://seafile.jyx2048.com:2345/spark-deepin-wine-runner/data/wine/wine-lutris-ge-lol-p8-12-x86_64.7z"
+    ],
+    [
         "wine-lutris-GE-Proton8-12-x86_64",
         "http://seafile.jyx2048.com:2345/spark-deepin-wine-runner/data/wine/wine-lutris-GE-Proton8-12-x86_64.7z"
     ],
@@ -111,7 +117,7 @@
     ],
     [
         "wine-staging-8.12-debian10-amd64",
-        "https://github.com/rain-gfd/wine-download/releases/download/wine-staging-8.12-debian10-amd64/wine-staging-8.12-debian10-amd64.7z"
+        "http://seafile.jyx2048.com:2345/spark-deepin-wine-runner/data/wine/wine-staging-8.12-debian10-amd64.7z"
     ],
     [
         "wine-staging-8.12-debian10-i386",
@@ -127,15 +133,15 @@
     ],
     [
         "wine-stable-8.0.1-debian10-x86_64",
-        "https://github.com/rain-gfd/wine-download/releases/download/wine-stable-8.0.1-debian10-x86_64/wine-stable-8.0.1-debian10-x86_64.7z"
+        "http://seafile.jyx2048.com:2345/spark-deepin-wine-runner/data/wine/wine-stable-8.0.1-debian10-x86_64.7z"
     ],
     [
         "wine-stable-8.0.1-debian10-amd64",
-        "https://github.com/rain-gfd/wine-download/releases/download/wine-stable-8.0.1-debian10-amd64/wine-stable-8.0.1-debian10-amd64.7z"
+        "http://seafile.jyx2048.com:2345/spark-deepin-wine-runner/data/wine/wine-stable-8.0.1-debian10-amd64.7z"
     ],
     [
         "wine-stable-8.0.1-debian10-i386",
-        "https://github.com/rain-gfd/wine-download/releases/download/wine-stable-8.0.1-debian10-i386/wine-stable-8.0.1-debian10-i386.7z"
+        "http://seafile.jyx2048.com:2345/spark-deepin-wine-runner/data/wine/wine-stable-8.0.1-debian10-i386.7z"
     ],
     [
         "spark-wine8-8.10",
@@ -159,7 +165,7 @@
     ],
     [
         "wine-staging-8.11-debian10-amd64",
-        "https://github.com/rain-gfd/wine-download/releases/download/wine-staging-8.11-debian10-amd64/wine-staging-8.11-debian10-amd64.7z"
+        "http://seafile.jyx2048.com:2345/spark-deepin-wine-runner/data/wine/wine-staging-8.11-debian10-amd64.7z"
     ],
     [
         "wine-staging-8.11-debian10-i386",
@@ -171,7 +177,7 @@
     ],
     [
         "wine-stable-8.0",
-        "https://github.com/rain-gfd/wine-download/releases/download/wine-stable-8.0/wine-stable-8.0.7z"
+        "http://seafile.jyx2048.com:2345/spark-deepin-wine-runner/data/wine/wine-stable-8.0.7z"
     ],
     [
         "wine-lutris-GE-Proton8-10-x86_64",
@@ -183,7 +189,7 @@
     ],
     [
         "wine-staging-8.10-debian10-amd64",
-        "https://github.com/rain-gfd/wine-download/releases/download/wine-staging-8.10-debian10-amd64/wine-staging-8.10-debian10-amd64.7z"
+        "http://seafile.jyx2048.com:2345/spark-deepin-wine-runner/data/wine/wine-staging-8.10-debian10-amd64.7z"
     ],
     [
         "wine-staging-8.10-debian10-i386",
@@ -203,11 +209,11 @@
     ],
     [
         "wine-staging-8.9-debian10-amd64",
-        "https://github.com/rain-gfd/wine-download/releases/download/wine-staging-8.9-debian10-amd64/wine-staging-8.9-debian10-amd64.7z"
+        "http://seafile.jyx2048.com:2345/spark-deepin-wine-runner/data/wine/wine-staging-8.9-debian10-amd64.7z"
     ],
     [
         "wine-staging-8.9-debian10-i386",
-        "https://github.com/rain-gfd/wine-download/releases/download/wine-staging-8.9-debian10-i386/wine-staging-8.9-debian10-i386.7z"
+        "http://seafile.jyx2048.com:2345/spark-deepin-wine-runner/data/wine/wine-staging-8.9-debian10-i386.7z"
     ],
     [
         "wine-ce-8.9-amd64",
@@ -235,11 +241,11 @@
     ],
     [
         "wine-staging-8.8-debian10-amd64",
-        "https://github.com/rain-gfd/wine-download/releases/download/wine-staging-8.8-debian10-amd64/wine-staging-8.8-debian10-amd64.7z"
+        "http://seafile.jyx2048.com:2345/spark-deepin-wine-runner/data/wine/wine-staging-8.8-debian10-amd64.7z"
     ],
     [
         "wine-staging-8.8-debian10-i386",
-        "https://github.com/rain-gfd/wine-download/releases/download/wine-staging-8.8-debian10-i386/wine-staging-8.8-debian10-i386.7z"
+        "http://seafile.jyx2048.com:2345/spark-deepin-wine-runner/data/wine/wine-staging-8.8-debian10-i386.7z"
     ],
     [
         "wine-ce-8.8-amd64",
@@ -271,7 +277,7 @@
     ],
     [
         "wine-staging-8.7-debian10-amd64",
-        "https://github.com/rain-gfd/wine-download/releases/download/wine-staging-8.7-debian10-amd64/wine-staging-8.7-debian10-amd64.7z"
+        "http://seafile.jyx2048.com:2345/spark-deepin-wine-runner/data/wine/wine-staging-8.7-debian10-amd64.7z"
     ],
     [
         "wine-staging-8.7-debian10-i386",
@@ -287,15 +293,15 @@
     ],
     [
         "wine-staging-8.6-debian10-x86_64",
-        "https://github.com/rain-gfd/wine-download/releases/download/wine-staging-8.6-debian10-x86_64/wine-staging-8.6-debian10-x86_64.7z"
+        "http://seafile.jyx2048.com:2345/spark-deepin-wine-runner/data/wine/wine-staging-8.6-debian10-x86_64.7z"
     ],
     [
         "wine-staging-8.6-debian10-amd64",
-        "https://github.com/rain-gfd/wine-download/releases/download/wine-staging-8.6-debian10-amd64/wine-staging-8.6-debian10-amd64.7z"
+        "http://seafile.jyx2048.com:2345/spark-deepin-wine-runner/data/wine/wine-staging-8.6-debian10-amd64.7z"
     ],
     [
         "wine-staging-8.6-debian10-i386",
-        "https://github.com/rain-gfd/wine-download/releases/download/wine-staging-8.6-debian10-i386/wine-staging-8.6-debian10-i386.7z"
+        "http://seafile.jyx2048.com:2345/spark-deepin-wine-runner/data/wine/wine-staging-8.6-debian10-i386.7z"
     ],
     [
         "wine-staging-8.6-ubuntu22.04-aarch64",
@@ -303,15 +309,15 @@
     ],
     [
         "wine-staging-8.5-debian10-x86_64",
-        "https://github.com/rain-gfd/wine-download/releases/download/wine-staging-8.5-debian10-x86_64/wine-staging-8.5-debian10-x86_64.7z"
+        "http://seafile.jyx2048.com:2345/spark-deepin-wine-runner/data/wine/wine-staging-8.5-debian10-x86_64.7z"
     ],
     [
         "wine-staging-8.5-debian10-amd64",
-        "https://github.com/rain-gfd/wine-download/releases/download/wine-staging-8.5-debian10-amd64/wine-staging-8.5-debian10-amd64.7z"
+        "http://seafile.jyx2048.com:2345/spark-deepin-wine-runner/data/wine/wine-staging-8.5-debian10-amd64.7z"
     ],
     [
         "wine-staging-8.5-debian10-i386",
-        "https://github.com/rain-gfd/wine-download/releases/download/wine-staging-8.5-debian10-i386/wine-staging-8.5-debian10-i386.7z"
+        "http://seafile.jyx2048.com:2345/spark-deepin-wine-runner/data/wine/wine-staging-8.5-debian10-i386.7z"
     ],
     [
         "wine-ce-8.5-aarch64",
@@ -323,15 +329,15 @@
     ],
     [
         "wine-staging-8.4-debian10-x86_64",
-        "https://github.com/rain-gfd/wine-download/releases/download/wine-staging-8.4-debian10-x86_64/wine-staging-8.4-debian10-x86_64.7z"
+        "http://seafile.jyx2048.com:2345/spark-deepin-wine-runner/data/wine/wine-staging-8.4-debian10-x86_64.7z"
     ],
     [
         "wine-staging-8.4-debian10-amd64",
-        "https://github.com/rain-gfd/wine-download/releases/download/wine-staging-8.4-debian10-amd64/wine-staging-8.4-debian10-amd64.7z"
+        "http://seafile.jyx2048.com:2345/spark-deepin-wine-runner/data/wine/wine-staging-8.4-debian10-amd64.7z"
     ],
     [
         "wine-staging-8.4-debian10-i386",
-        "https://github.com/rain-gfd/wine-download/releases/download/wine-staging-8.4-debian10-i386/wine-staging-8.4-debian10-i386.7z"
+        "http://seafile.jyx2048.com:2345/spark-deepin-wine-runner/data/wine/wine-staging-8.4-debian10-i386.7z"
     ],
     [
         "wine-ce-8.4-riscv64",
@@ -343,39 +349,39 @@
     ],
     [
         "wine-staging-8.3",
-        "https://github.com/rain-gfd/wine-download/releases/download/wine-staging-8.3/wine-staging-8.3.7z"
+        "http://seafile.jyx2048.com:2345/spark-deepin-wine-runner/data/wine/wine-staging-8.3.7z"
     ],
     [
         "wine-staging-8.3-debian10-x86_64",
-        "https://github.com/rain-gfd/wine-download/releases/download/wine-staging-8.3-debian10-x86_64/wine-staging-8.3-debian10-x86_64.7z"
+        "http://seafile.jyx2048.com:2345/spark-deepin-wine-runner/data/wine/wine-staging-8.3-debian10-x86_64.7z"
     ],
     [
         "wine-staging-8.3-debian10-i386",
-        "https://github.com/rain-gfd/wine-download/releases/download/wine-staging-8.3-debian10-i386/wine-staging-8.3-debian10-i386.7z"
+        "http://seafile.jyx2048.com:2345/spark-deepin-wine-runner/data/wine/wine-staging-8.3-debian10-i386.7z"
     ],
     [
         "wine-staging-8.3-debian10-amd64",
-        "https://github.com/rain-gfd/wine-download/releases/download/wine-staging-8.3-debian10-amd64/wine-staging-8.3-debian10-amd64.7z"
+        "http://seafile.jyx2048.com:2345/spark-deepin-wine-runner/data/wine/wine-staging-8.3-debian10-amd64.7z"
     ],
     [
         "wine-staging-8.2",
-        "https://github.com/rain-gfd/wine-download/releases/download/wine-staging-8.2/wine-staging-8.2.7z"
+        "http://seafile.jyx2048.com:2345/spark-deepin-wine-runner/data/wine/wine-staging-8.2.7z"
     ],
     [
         "wine-devel-8.2",
-        "https://github.com/rain-gfd/wine-download/releases/download/wine-devel-8.2/wine-devel-8.2.7z"
+        "http://seafile.jyx2048.com:2345/spark-deepin-wine-runner/data/wine/wine-devel-8.2.7z"
     ],
     [
         "wine-staging-8.2-debian10-x86_64",
-        "https://github.com/rain-gfd/wine-download/releases/download/wine-staging-8.2-debian10-x86_64/wine-staging-8.2-debian10-x86_64.7z"
+        "http://seafile.jyx2048.com:2345/spark-deepin-wine-runner/data/wine/wine-staging-8.2-debian10-x86_64.7z"
     ],
     [
         "wine-staging-8.2-debian10-amd64",
-        "https://github.com/rain-gfd/wine-download/releases/download/wine-staging-8/wine-staging-8.2-debian10-amd64.7z"
+        "http://seafile.jyx2048.com:2345/spark-deepin-wine-runner/data/wine/wine-staging-8.2-debian10-amd64.7z"
     ],
     [
         "wine-staging-8.2-debian10-i386",
-        "https://github.com/rain-gfd/wine-download/releases/download/wine-staging-8.2-debian10-i386/wine-staging-8.2-debian10-i386.7z"
+        "http://seafile.jyx2048.com:2345/spark-deepin-wine-runner/data/wine/wine-staging-8.2-debian10-i386.7z"
     ],
     [
         "wine-staging-8.2-aarch64",
@@ -391,19 +397,19 @@
     ],
     [
         "wine-staging-8.1",
-        "https://github.com/rain-gfd/wine-download/releases/download/wine-staging-8.1/wine-staging-8.1.7z"
+        "http://seafile.jyx2048.com:2345/spark-deepin-wine-runner/data/wine/wine-staging-8.1.7z"
     ],
     [
         "wine-staging-8.1-debian10-x86_64",
-        "https://github.com/rain-gfd/wine-download/releases/download/wine-staging-8.1-debian10-x86_64/wine-staging-8.1-debian10-x86_64.7z"
+        "http://seafile.jyx2048.com:2345/spark-deepin-wine-runner/data/wine/wine-staging-8.1-debian10-x86_64.7z"
     ],
     [
         "wine-staging-8.1-debian10-amd64（只有64位的，无32位）",
-        "https://github.com/rain-gfd/wine-download/releases/download/wine-staging-8.1-debian10-amd64/wine-staging-8.1-debian10-amd64.7z"
+        "http://seafile.jyx2048.com:2345/spark-deepin-wine-runner/data/wine/wine-staging-8.1-debian10-amd64.7z"
     ],
     [
         "wine-staging-8.1-debian10-i386（只有32位的，无64位）",
-        "https://github.com/rain-gfd/wine-download/releases/download/wine-staging-8.1-debian10-i386/wine-staging-8.1-debian10-i386.7z"
+        "http://seafile.jyx2048.com:2345/spark-deepin-wine-runner/data/wine/wine-staging-8.1-debian10-i386.7z"
     ],
     [
         "wine-ce-8.1-armhf",
@@ -415,15 +421,15 @@
     ],
     [
         "wine-stable-8.0-debian10-x86_64",
-        "https://github.com/rain-gfd/wine-download/releases/download/wine-stable-8.0-debian10-x86_64/wine-stable-8.0-debian10-x86_64.7z"
+        "http://seafile.jyx2048.com:2345/spark-deepin-wine-runner/data/wine/wine-stable-8.0-debian10-x86_64.7z"
     ],
     [
         "wine-stable-8.0-debian10-amd64（只有64位的，无32位）",
-        "https://github.com/rain-gfd/wine-download/releases/download/wine-stable-8.0-debian10-amd64/wine-stable-8.0-debian10-amd64.7z"
+        "http://seafile.jyx2048.com:2345/spark-deepin-wine-runner/data/wine/wine-stable-8.0-debian10-amd64.7z"
     ],
     [
         "wine-stable-8.0-debian10-i386（只有32位的，无64位）",
-        "https://github.com/rain-gfd/wine-download/releases/download/wine-stable-8.0-debian10-i386/wine-stable-8.0-debian10-i386.7z"
+        "http://seafile.jyx2048.com:2345/spark-deepin-wine-runner/data/wine/wine-stable-8.0-debian10-i386.7z"
     ],
     [
         "wine-ce-8.0-armhf",
@@ -431,23 +437,23 @@
     ],
     [
         "wine-staging-8.0-rc5",
-        "https://github.com/rain-gfd/wine-download/releases/download/wine-staging-8.0-rc5/wine-staging-8.0-rc5.7z"
+        "http://seafile.jyx2048.com:2345/spark-deepin-wine-runner/data/wine/wine-staging-8.0-rc5.7z"
     ],
     [
         "wine-devel-8.0-rc5",
-        "https://github.com/rain-gfd/wine-download/releases/download/wine-devel-8.0-rc5/wine-devel-8.0-rc5.7z"
+        "http://seafile.jyx2048.com:2345/spark-deepin-wine-runner/data/wine/wine-devel-8.0-rc5.7z"
     ],
     [
         "wine-staging-8.0-rc5-debian10-x86_64",
-        "https://github.com/rain-gfd/wine-download/releases/download/wine-staging-8.0-rc5-debian10-x86_64/wine-staging-8.0-rc5-debian10-x86_64.7z"
+        "http://seafile.jyx2048.com:2345/spark-deepin-wine-runner/data/wine/wine-staging-8.0-rc5-debian10-x86_64.7z"
     ],
     [
         "wine-staging-8.0-rc5-debian10-amd64（只有64位的，无32位）",
-        "https://github.com/rain-gfd/wine-download/releases/download/wine-staging-8.0-rc5-debian10-amd64/wine-staging-8.0-rc5-debian10-amd64.7z"
+        "http://seafile.jyx2048.com:2345/spark-deepin-wine-runner/data/wine/wine-staging-8.0-rc5-debian10-amd64.7z"
     ],
     [
         "wine-staging-8.0-rc5-debian10-i386（只有32位的，无64位）",
-        "https://github.com/rain-gfd/wine-download/releases/download/wine-staging-8.0-rc5-debian10-i386/wine-staging-8.0-rc5-debian10-i386.7z"
+        "http://seafile.jyx2048.com:2345/spark-deepin-wine-runner/data/wine/wine-staging-8.0-rc5-debian10-i386.7z"
     ],
     [
         "wine-staging-8.0-rc5-ubuntu20.04-aarch64",
@@ -463,23 +469,23 @@
     ],
     [
         "wine-staging-8.0-rc4",
-        "https://github.com/rain-gfd/wine-download/releases/download/wine-staging-8.0-rc4/wine-staging-8.0-rc4.7z"
+        "http://seafile.jyx2048.com:2345/spark-deepin-wine-runner/data/wine/wine-staging-8.0-rc4.7z"
     ],
     [
         "wine-devel-8.0-rc4",
-        "https://github.com/rain-gfd/wine-download/releases/download/wine-devel-8.0-rc4/wine-devel-8.0-rc4.7z"
+        "http://seafile.jyx2048.com:2345/spark-deepin-wine-runner/data/wine/wine-devel-8.0-rc4.7z"
     ],
     [
         "wine-staging-8.0-rc4-debian10-x86_64",
-        "https://github.com/rain-gfd/wine-download/releases/download/wine-staging-8.0-rc4-debian10-x86_64/wine-staging-8.0-rc4-debian10-x86_64.7z"
+        "http://seafile.jyx2048.com:2345/spark-deepin-wine-runner/data/wine/wine-staging-8.0-rc4-debian10-x86_64.7z"
     ],
     [
         "wine-staging-8.0-rc4-debian10-i386（只有32位的，无64位）",
-        "https://github.com/rain-gfd/wine-download/releases/download/wine-staging-8.0-rc4-debian10-i386/wine-staging-8.0-rc4-debian10-i386.7z"
+        "http://seafile.jyx2048.com:2345/spark-deepin-wine-runner/data/wine/wine-staging-8.0-rc4-debian10-i386.7z"
     ],
     [
         "wine-staging-8.0-rc4-debian10-amd64（只有64位的，无32位）",
-        "https://github.com/rain-gfd/wine-download/releases/download/wine-staging-8.0-rc4-debian10-amd64/wine-staging-8.0-rc4-debian10-amd64.7z"
+        "http://seafile.jyx2048.com:2345/spark-deepin-wine-runner/data/wine/wine-staging-8.0-rc4-debian10-amd64.7z"
     ],
     [
         "wine-ce-8.0-rc4-armhf",
@@ -487,7 +493,7 @@
     ],
     [
         "wine-staging-8.0-rc3-debian10-x86_64",
-        "https://github.com/rain-gfd/wine-download/releases/download/wine-staging-8.0-rc3/wine-staging-8.0-rc3.7z"
+        "http://seafile.jyx2048.com:2345/spark-deepin-wine-runner/data/wine/wine-staging-8.0-rc3.7z"
     ],
     [
         "lutris-fshack-7.2",
@@ -495,11 +501,11 @@
     ],
     [
         "wine-staging-8.0-rc2-debian10-x86_64",
-        "https://github.com/rain-gfd/wine-download/releases/download/wine-staging-8.0-rc2/wine-staging-8.0-rc2.7z"
+        "http://seafile.jyx2048.com:2345/spark-deepin-wine-runner/data/wine/wine-staging-8.0-rc2.7z"
     ],
     [
         "wine-staging-8.0-rc1-debian10-x86_64",
-        "https://github.com/rain-gfd/wine-download/releases/download/wine-staging-8.0-rc1/wine-staging-8.0-rc1.7z"
+        "http://seafile.jyx2048.com:2345/spark-deepin-wine-runner/data/wine/wine-staging-8.0-rc1.7z"
     ],
     [
         "wine-stable-7.0.2-debian10-x86_64",
@@ -519,11 +525,11 @@
     ],
     [
         "wine-stable-7.0.1",
-        "https://github.com/rain-gfd/wine-download/releases/download/wine-stable-7.0.1/wine-stable-7.0.1.7z"
+        "http://seafile.jyx2048.com:2345/spark-deepin-wine-runner/data/wine/wine-stable-7.0.1.7z"
     ],
     [
         "wine-stable-7.0",
-        "https://github.com/rain-gfd/wine-download/releases/download/wine-stable-7.0/wine-stable-7.0.7z"
+        "http://seafile.jyx2048.com:2345/spark-deepin-wine-runner/data/wine/wine-stable-7.0.7z"
     ],
     [
         "wine-staging-7.22",
@@ -531,95 +537,95 @@
     ],
     [
         "wine-staging-7.22-debian10-x86_64",
-        "https://github.com/rain-gfd/wine-download/releases/download/wine-staging-7.22-debian10/wine-staging-7.22-debian10.7z"
+        "http://seafile.jyx2048.com:2345/spark-deepin-wine-runner/data/wine/wine-staging-7.22-debian10.7z"
     ],
     [
         "wine-staging-7.22-debian10-i386",
-        "https://github.com/rain-gfd/wine-download/releases/download/wine-staging-7.22-debian10-i386/wine-staging-7.22-debian10-i386.7z"
+        "http://seafile.jyx2048.com:2345/spark-deepin-wine-runner/data/wine/wine-staging-7.22-debian10-i386.7z"
     ],
     [
         "wine-devel-7.22-debian10-x86_64",
-        "https://github.com/rain-gfd/wine-download/releases/download/wine-devel-7.22-debian10-x86_64/wine-devel-7.22-debian10-x86_64.7z"
+        "http://seafile.jyx2048.com:2345/spark-deepin-wine-runner/data/wine/wine-devel-7.22-debian10-x86_64.7z"
     ],
     [
         "wine-staging-7.21",
-        "https://github.com/rain-gfd/wine-download/releases/download/wine-staging-7.21/wine-staging-7.21.7z"
+        "http://seafile.jyx2048.com:2345/spark-deepin-wine-runner/data/wine/wine-staging-7.21.7z"
     ],
     [
         "wine-staging-7.21-debian10",
-        "https://github.com/rain-gfd/wine-download/releases/download/wine-staging-7.21-debian10/wine-staging-7.21-debian10.7z"
+        "http://seafile.jyx2048.com:2345/spark-deepin-wine-runner/data/wine/wine-staging-7.21-debian10.7z"
     ],
     [
         "wine-staging-7.20",
-        "https://github.com/rain-gfd/wine-download/releases/download/wine-staging-7.20/wine-staging-7.20.7z"
+        "http://seafile.jyx2048.com:2345/spark-deepin-wine-runner/data/wine/wine-staging-7.20.7z"
     ],
     [
         "wine-staging-7.19",
-        "https://github.com/rain-gfd/wine-download/releases/download/wine-staging-7.19/wine-staging-7.19.7z"
+        "http://seafile.jyx2048.com:2345/spark-deepin-wine-runner/data/wine/wine-staging-7.19.7z"
     ],
     [
         "wine-staging-7.19-debian10-x86_64",
-        "https://github.com/rain-gfd/wine-download/releases/download/wine-staging-7.19-debian10-x86_64/wine-staging-7.19-debian10-x86_64.7z"
+        "http://seafile.jyx2048.com:2345/spark-deepin-wine-runner/data/wine/wine-staging-7.19-debian10-x86_64.7z"
     ],
     [
         "wine-staging-7.18",
-        "https://github.com/rain-gfd/wine-download/releases/download/wine-staging-7.18/wine-staging-7.18.7z"
+        "http://seafile.jyx2048.com:2345/spark-deepin-wine-runner/data/wine/wine-staging-7.18.7z"
     ],
     [
         "wine-staging-7.18-debian10-x86_64",
-        "https://github.com/rain-gfd/wine-download/releases/download/wine-staging-7.18-debian10-x86_64/wine-staging-7.18-debian10-x86_64.7z"
+        "http://seafile.jyx2048.com:2345/spark-deepin-wine-runner/data/wine/wine-staging-7.18-debian10-x86_64.7z"
     ],
     [
         "wine-staging-7.17",
-        "https://github.com/rain-gfd/wine-download/releases/download/wine-staging-7.17/wine-staging-7.17.7z"
+        "http://seafile.jyx2048.com:2345/spark-deepin-wine-runner/data/wine/wine-staging-7.17.7z"
     ],
     [
         "wine-devel-7.17",
-        "https://github.com/rain-gfd/wine-download/releases/download/wine-devel-7.17/wine-devel-7.17.7z"
+        "http://seafile.jyx2048.com:2345/spark-deepin-wine-runner/data/wine/wine-devel-7.17.7z"
     ],
     [
         "spark-wine7-devel-7.17~spark-1",
-        "https://github.com/rain-gfd/wine-download/releases/download/spark-wine7-devel-7.17~spark-1/spark-wine7-devel-7.17~spark-1.7z"
+        "http://seafile.jyx2048.com:2345/spark-deepin-wine-runner/data/wine/spark-wine7-devel-7.17~spark-1.7z"
     ],
     [
         "spark-wine7-devel-7.17",
-        "https://github.com/rain-gfd/wine-download/releases/download/spark-wine7-devel-7.17/spark-wine7-devel-7.17.7z"
+        "http://seafile.jyx2048.com:2345/spark-deepin-wine-runner/data/wine/spark-wine7-devel-7.17.7z"
     ],
     [
         "wine-staging-7.16",
-        "https://github.com/rain-gfd/wine-download/releases/download/wine-staging-7.16/wine-staging-7.16.7z"
+        "http://seafile.jyx2048.com:2345/spark-deepin-wine-runner/data/wine/wine-staging-7.16.7z"
     ],
     [
         "wine-devel-7.15",
-        "https://github.com/rain-gfd/wine-download/releases/download/wine-devel-7.15/wine-devel-7.15.7z"
+        "http://seafile.jyx2048.com:2345/spark-deepin-wine-runner/data/wine/wine-devel-7.15.7z"
     ],
     [
         "wine-staging-7.15",
-        "https://github.com/rain-gfd/wine-download/releases/download/wine-staging-7.15/wine-staging-7.15.7z"
+        "http://seafile.jyx2048.com:2345/spark-deepin-wine-runner/data/wine/wine-staging-7.15.7z"
     ],
     [
         "spark-wine7-devel-7.14",
-        "https://github.com/rain-gfd/wine-download/releases/download/spark-wine7-devel-7.14/spark-wine7-devel-7.14.7z"
+        "http://seafile.jyx2048.com:2345/spark-deepin-wine-runner/data/wine/spark-wine7-devel-7.14.7z"
     ],
     [
         "wine-devel-7.12",
-        "https://github.com/rain-gfd/wine-download/releases/download/wine-devel-7.12/wine-devel-7.12.7z"
+        "http://seafile.jyx2048.com:2345/spark-deepin-wine-runner/data/wine/wine-devel-7.12.7z"
     ],
     [
         "wine-devel-7.5",
-        "https://github.com/rain-gfd/wine-download/releases/download/wine-devel-7.5/wine-devel-7.5.7z"
+        "http://seafile.jyx2048.com:2345/spark-deepin-wine-runner/data/wine/wine-devel-7.5.7z"
     ],
     [
         "wine-staging-7.4",
-        "https://github.com/rain-gfd/wine-download/releases/download/wine-staging-7.4/wine-staging-7.4.7z"
+        "http://seafile.jyx2048.com:2345/spark-deepin-wine-runner/data/wine/wine-staging-7.4.7z"
     ],
     [
         "wine-staging-7.2",
-        "https://github.com/rain-gfd/wine-download/releases/download/wine-staging-7.2/wine-staging-7.2.7z"
+        "http://seafile.jyx2048.com:2345/spark-deepin-wine-runner/data/wine/wine-staging-7.2.7z"
     ],
     [
         "wine-staging-7.0",
-        "https://github.com/rain-gfd/wine-download/releases/download/wine-staging-7.0/wine-staging-7.0.7z"
+        "http://seafile.jyx2048.com:2345/spark-deepin-wine-runner/data/wine/wine-staging-7.0.7z"
     ],
     [
         "deepin-wine6-stable",
@@ -627,7 +633,7 @@
     ],
     [
         "wine-lutris-ge-6.9-x86_64",
-        "https://github.com/rain-gfd/wine-download/releases/download/wine-lutris-ge-6.9-x86_64/wine-lutris-ge-6.9-x86_64.7z"
+        "http://seafile.jyx2048.com:2345/spark-deepin-wine-runner/data/wine/wine-lutris-ge-6.9-x86_64.7z"
     ],
     [
         "lutris-6.4-i386",
@@ -639,20 +645,19 @@
     ],
     [
         "wine-staging-6.18",
-        "https://github.com/rain-gfd/wine-download/releases/download/wine-staging-6.18/wine-staging-6.18.7z"
+        "http://seafile.jyx2048.com:2345/spark-deepin-wine-runner/data/wine/wine-staging-6.18.7z"
     ],
-    
     [
         "wine-staging-6.7",
-        "https://github.com/rain-gfd/wine-download/releases/download/wine-staging-6.7/wine-staging-6.7.7z"
+        "http://seafile.jyx2048.com:2345/spark-deepin-wine-runner/data/wine/wine-staging-6.7.7z"
     ],
     [
         "wine-staging-6.1",
-        "https://github.com/rain-gfd/wine-download/releases/download/wine-staging-6.1/wine-staging-6.1.7z"
+        "http://seafile.jyx2048.com:2345/spark-deepin-wine-runner/data/wine/wine-staging-6.1.7z"
     ],
     [
         "wine-staging-6.0-amd64",
-        "https://github.com/rain-gfd/wine-download/releases/download/wine-staging-6.0-amd64/wine-staging-6.0-amd64.7z"
+        "http://seafile.jyx2048.com:2345/spark-deepin-wine-runner/data/wine/wine-staging-6.0-amd64.7z"
     ],
     [
         "deepin-wine5-stable",
@@ -676,19 +681,19 @@
     ],
     [
         "wine-staging-5.22",
-        "https://github.com/rain-gfd/wine-download/releases/download/wine-staging-5.22/wine-staging-5.22.7z"
+        "http://seafile.jyx2048.com:2345/spark-deepin-wine-runner/data/wine/wine-staging-5.22.7z"
     ],
     [
         "wine-staging-5.1",
-        "https://github.com/rain-gfd/wine-download/releases/download/wine-staging-5.1/wine-staging-5.1.7z"
+        "http://seafile.jyx2048.com:2345/spark-deepin-wine-runner/data/wine/wine-staging-5.1.7z"
     ],
     [
         "wine-staging-5.0-rc4-amd64",
-        "https://github.com/rain-gfd/wine-download/releases/download/wine-staging-5.0-rc4-amd64/wine-staging-5.0-rc4-amd64.7z"
+        "http://seafile.jyx2048.com:2345/spark-deepin-wine-runner/data/wine/wine-staging-5.0-rc4-amd64.7z"
     ],
     [
         "wine-staging-5.0-rc4",
-        "https://github.com/rain-gfd/wine-download/releases/download/wine-staging-5.0-rc4/wine-staging-5.0-rc4.7z"
+        "http://seafile.jyx2048.com:2345/spark-deepin-wine-runner/data/wine/wine-staging-5.0-rc4.7z"
     ],
     [
         "wine-stable-4.0.4",
@@ -700,7 +705,7 @@
     ],
     [
         "wine-staging-4.21",
-        "https://github.com/rain-gfd/wine-download/releases/download/wine-staging-4.21/wine-staging-4.21.7z"
+        "http://seafile.jyx2048.com:2345/spark-deepin-wine-runner/data/wine/wine-staging-4.21.7z"
     ],
     [
         "wine-stable-3.0.5",
@@ -724,42 +729,42 @@
     ],
     [
         "wine-staging-3.21",
-        "https://github.com/rain-gfd/wine-download/releases/download/wine-staging-3.21/wine-staging-3.21.7z"
+        "http://seafile.jyx2048.com:2345/spark-deepin-wine-runner/data/wine/wine-staging-3.21.7z"
     ],
     [
         "wine-staging-3.1",
-        "https://github.com/rain-gfd/wine-download/releases/download/wine-staging-3.1/wine-staging-3.1.7z"
+        "http://seafile.jyx2048.com:2345/spark-deepin-wine-runner/data/wine/wine-staging-3.1.7z"
     ],
     [
         "wine-staging-2.22",
-        "https://github.com/rain-gfd/wine-download/releases/download/wine-staging-2.22/wine-staging-2.22.7z"
+        "http://seafile.jyx2048.com:2345/spark-deepin-wine-runner/data/wine/wine-staging-2.22.7z"
     ],
     [
         "wine-staging-2.18-amd64",
-        "https://github.com/rain-gfd/wine-download/releases/download/wine-staging-2.18-amd64/wine-staging-2.18-amd64.7z"
+        "http://seafile.jyx2048.com:2345/spark-deepin-wine-runner/data/wine/wine-staging-2.18-amd64.7z"
     ],
     [
         "wine-staging-2.18",
-        "https://github.com/rain-gfd/wine-download/releases/download/wine-staging-2.18/wine-staging-2.18.7z"
+        "http://seafile.jyx2048.com:2345/spark-deepin-wine-runner/data/wine/wine-staging-2.18.7z"
     ],
     [
         "wine-0.9.29-i386",
-        "https://github.com/rain-gfd/wine-download/releases/download/wine-staging-0.9.29-i386/wine-staging-0.9.29-i386.7z"
+        "http://seafile.jyx2048.com:2345/spark-deepin-wine-runner/data/wine/wine-staging-0.9.29-i386.7z"
     ],
     [
         "wine-staging-7.19-debian10-amd64-demo",
-        "https://github.com/rain-gfd/wine-download/releases/download/wine-staging-7.19-debian10-amd64-demo/wine-staging-7.19-debian10-amd64-demo.7z"
+        "http://seafile.jyx2048.com:2345/spark-deepin-wine-runner/data/wine/wine-staging-7.19-debian10-amd64-demo.7z"
     ],
     [
         "wine-staging-7.18-debian10-amd64",
-        "https://github.com/rain-gfd/wine-download/releases/download/wine-staging-7.18-debian10-amd64/wine-staging-7.18-debian10-amd64.7z"
+        "http://seafile.jyx2048.com:2345/spark-deepin-wine-runner/data/wine/wine-staging-7.18-debian10-amd64.7z"
     ],
     [
         "wine-staging-7.18-debian10",
-        "https://github.com/rain-gfd/wine-download/releases/download/wine-staging-7.18-debian10/wine-staging-7.18-debian10.7z"
+        "http://seafile.jyx2048.com:2345/spark-deepin-wine-runner/data/wine/wine-staging-7.18-debian10.7z"
     ],
     [
         "wine-staging-7.18-demo",
-        "https://github.com/rain-gfd/wine-download/releases/download/wine-staging-7.18-demo/wine-staging-7.18-demo.7z"
+        "http://seafile.jyx2048.com:2345/spark-deepin-wine-runner/data/wine/wine-staging-7.18-demo.7z"
     ]
 ]
