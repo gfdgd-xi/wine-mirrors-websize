@@ -1,11 +1,11 @@
 [
     [
         "——————下面版本若标有debian10字样则代表是作者从上游拉取编译的——————",
-        "http://download0.wine.wine-runner.gfdgdxi.top/egg.7z"
+        "http://seafile.jyx2048.com:2345/spark-deepin-wine-runner/data/wine/egg.7z"
     ],
     [
         "——————若没有则代表是从官方源拉取的——————",
-        "http://download0.wine.wine-runner.gfdgdxi.top/egg.7z"
+        "http://seafile.jyx2048.com:2345/spark-deepin-wine-runner/data/wine/egg.7z"
     ],
     [
         "（日更，不稳定）wine-daily-debian10-x86_64",
@@ -46,7 +46,7 @@
     ],
     [
         "wine-stable-8.0.2-debian10-i386",
-        "http://download0.wine.wine-runner.gfdgdxi.top/wine-stable-8.0.2-debian10-i386.7z"
+        "http://seafile.jyx2048.com:2345/spark-deepin-wine-runner/data/wine/wine-stable-8.0.2-debian10-i386.7z"
     ],
     [
         "wine-stable-wow64-8.0.2-debian10-x86_64",
@@ -54,7 +54,7 @@
     ],
     [
         "wine-stable-8.0.2-ubuntu22.04-aarch64",
-        "http://download0.wine.wine-runner.gfdgdxi.top/wine-stable-8.0.2-ubuntu22.04-aarch64.7z"
+        "http://seafile.jyx2048.com:2345/spark-deepin-wine-runner/data/wine/wine-stable-8.0.2-ubuntu22.04-aarch64.7z"
     ],
     
     [
@@ -67,7 +67,7 @@
     ],
     [
         "wine-staging-8.13-debian10-i386",
-        "http://download0.wine.wine-runner.gfdgdxi.top/wine-staging-8.13-debian10-i386.7z"
+        "http://seafile.jyx2048.com:2345/spark-deepin-wine-runner/data/wine/wine-staging-8.13-debian10-i386.7z"
     ],
     [
         "wine-staging-wow64-8.13-debian10-amd64",
@@ -75,23 +75,23 @@
     ],
     [
         "wine-staging-8.13-ubuntu22.04-aarch64",
-        "http://download0.wine.wine-runner.gfdgdxi.top/wine-staging-8.13-ubuntu22.04-aarch64.7z"
+        "http://seafile.jyx2048.com:2345/spark-deepin-wine-runner/data/wine/wine-staging-8.13-ubuntu22.04-aarch64.7z"
     ],
     [
         "wine-ce-8.13.1-aarch64",
-        "http://download0.wine.wine-runner.gfdgdxi.top/wine-ce-8.13.1-aarch64.7z"
+        "http://seafile.jyx2048.com:2345/spark-deepin-wine-runner/data/wine/wine-ce-8.13.1-aarch64.7z"
     ],
     [
         "wine-ce-8.13-amd64",
-        "http://download0.wine.wine-runner.gfdgdxi.top/wine-ce-8.13-amd64.7z"
+        "http://seafile.jyx2048.com:2345/spark-deepin-wine-runner/data/wine/wine-ce-8.13-amd64.7z"
     ],
     [
         "wine-ce-8.13-aarch64",
-        "http://download0.wine.wine-runner.gfdgdxi.top/wine-ce-8.13-aarch64.7z"
+        "http://seafile.jyx2048.com:2345/spark-deepin-wine-runner/data/wine/wine-ce-8.13-aarch64.7z"
     ],
     [
         "wine-ce-8.13-riscv64",
-        "http://download0.wine.wine-runner.gfdgdxi.top/wine-ce-8.13-riscv64.7z"
+        "http://seafile.jyx2048.com:2345/spark-deepin-wine-runner/data/wine/wine-ce-8.13-riscv64.7z"
     ],
     [
         "spark-wine8-8.12",
@@ -103,7 +103,7 @@
     ],
     [
         "wine-lutris-GE-Proton8-12-x86_64",
-        "http://download0.wine.wine-runner.gfdgdxi.top/wine-lutris-GE-Proton8-12-x86_64.7z"
+        "http://seafile.jyx2048.com:2345/spark-deepin-wine-runner/data/wine/wine-lutris-GE-Proton8-12-x86_64.7z"
     ],
     [
         "wine-staging-wow64-8.12-debian10-amd64",
@@ -115,11 +115,11 @@
     ],
     [
         "wine-staging-8.12-debian10-i386",
-        "http://download0.wine.wine-runner.gfdgdxi.top/wine-staging-8.12-debian10-i386.7z"
+        "http://seafile.jyx2048.com:2345/spark-deepin-wine-runner/data/wine/wine-staging-8.12-debian10-i386.7z"
     ],
     [
         "wine-staging-8.12-ubuntu22.04-aarch64",
-        "http://download0.wine.wine-runner.gfdgdxi.top/wine-staging-8.12-ubuntu22.04-aarch64.7z"
+        "http://seafile.jyx2048.com:2345/spark-deepin-wine-runner/data/wine/wine-staging-8.12-ubuntu22.04-aarch64.7z"
     ],
     [
         "wine-stable-8.0.1",
@@ -147,7 +147,7 @@
     ],
     [
         "wine-lutris-GE-Proton8-11-x86_64",
-        "http://download0.wine.wine-runner.gfdgdxi.top/wine-lutris-GE-Proton8-11-x86_64.7z"
+        "http://seafile.jyx2048.com:2345/spark-deepin-wine-runner/data/wine/wine-lutris-GE-Proton8-11-x86_64.7z"
     ],
     [
         "wine-staging-8.11-debian10-x86_64",
@@ -163,11 +163,11 @@
     ],
     [
         "wine-staging-8.11-debian10-i386",
-        "http://download0.wine.wine-runner.gfdgdxi.top/wine-staging-8.11-debian10-i386.7z"
+        "http://seafile.jyx2048.com:2345/spark-deepin-wine-runner/data/wine/wine-staging-8.11-debian10-i386.7z"
     ],
     [
         "wine-staging-8.11-ubuntu22.04-aarch64",
-        "http://download0.wine.wine-runner.gfdgdxi.top/wine-staging-8.11-ubuntu22.04-aarch64.7z"
+        "http://seafile.jyx2048.com:2345/spark-deepin-wine-runner/data/wine/wine-staging-8.11-ubuntu22.04-aarch64.7z"
     ],
     [
         "wine-stable-8.0",
@@ -175,7 +175,7 @@
     ],
     [
         "wine-lutris-GE-Proton8-10-x86_64",
-        "http://download0.wine.wine-runner.gfdgdxi.top/wine-lutris-GE-Proton8-10-x86_64.7z"
+        "http://seafile.jyx2048.com:2345/spark-deepin-wine-runner/data/wine/wine-lutris-GE-Proton8-10-x86_64.7z"
     ],
     [
         "wine-staging-8.10-debian10-x86_64",
@@ -187,15 +187,15 @@
     ],
     [
         "wine-staging-8.10-debian10-i386",
-        "http://download0.wine.wine-runner.gfdgdxi.top/wine-staging-8.10-debian10-i386.7z"
+        "http://seafile.jyx2048.com:2345/spark-deepin-wine-runner/data/wine/wine-staging-8.10-debian10-i386.7z"
     ],
     [
         "wine-staging-8.10-ubuntu22.04-aarch64",
-        "http://download0.wine.wine-runner.gfdgdxi.top/wine-staging-8.10-ubuntu22.04-aarch64.7z"
+        "http://seafile.jyx2048.com:2345/spark-deepin-wine-runner/data/wine/wine-staging-8.10-ubuntu22.04-aarch64.7z"
     ],
     [
         "wine-lutris-GE-Proton8-9-x86_64",
-        "http://download0.wine.wine-runner.gfdgdxi.top/wine-lutris-GE-Proton8-9-x86_64.7z"
+        "http://seafile.jyx2048.com:2345/spark-deepin-wine-runner/data/wine/wine-lutris-GE-Proton8-9-x86_64.7z"
     ],
     [
         "wine-staging-8.9-debian10-x86_64",
@@ -211,23 +211,23 @@
     ],
     [
         "wine-ce-8.9-amd64",
-        "http://download0.wine.wine-runner.gfdgdxi.top/wine-ce-8.9-amd64.7z"
+        "http://seafile.jyx2048.com:2345/spark-deepin-wine-runner/data/wine/wine-ce-8.9-amd64.7z"
     ],
     [
         "wine-ce-8.9-riscv64",
-        "http://download0.wine.wine-runner.gfdgdxi.top/wine-ce-8.9-riscv64.7z"
+        "http://seafile.jyx2048.com:2345/spark-deepin-wine-runner/data/wine/wine-ce-8.9-riscv64.7z"
     ],
     [
         "wine-ce-8.9-aarch64",
-        "http://download0.wine.wine-runner.gfdgdxi.top/wine-ce-8.9-aarch64.7z"
+        "http://seafile.jyx2048.com:2345/spark-deepin-wine-runner/data/wine/wine-ce-8.9-aarch64.7z"
     ],
     [
         "wine-staging-8.9-ubuntu22.04-aarch64",
-        "http://download0.wine.wine-runner.gfdgdxi.top/wine-staging-8.9-ubuntu22.04-aarch64.7z"
+        "http://seafile.jyx2048.com:2345/spark-deepin-wine-runner/data/wine/wine-staging-8.9-ubuntu22.04-aarch64.7z"
     ],
     [
         "wine-lutris-GE-Proton8-8-x86_64",
-        "http://download0.wine.wine-runner.gfdgdxi.top/wine-lutris-GE-Proton8-8-x86_64.7z"
+        "http://seafile.jyx2048.com:2345/spark-deepin-wine-runner/data/wine/wine-lutris-GE-Proton8-8-x86_64.7z"
     ],
     [
         "wine-staging-8.8-debian10-x86_64",
@@ -235,7 +235,7 @@
     ],
     [
         "wine-staging-8.8-debian10-amd64",
-        "https://github.com/rain-gfd/wine-download/releases/download/wine-staging-8.8-debian-amd64/wine-staging-8.8-debian-amd64.7z"
+        "https://github.com/rain-gfd/wine-download/releases/download/wine-staging-8.8-debian10-amd64/wine-staging-8.8-debian10-amd64.7z"
     ],
     [
         "wine-staging-8.8-debian10-i386",
@@ -243,27 +243,27 @@
     ],
     [
         "wine-ce-8.8-amd64",
-        "http://download0.wine.wine-runner.gfdgdxi.top/wine-ce-8.8-amd64.7z"
+        "http://seafile.jyx2048.com:2345/spark-deepin-wine-runner/data/wine/wine-ce-8.8-amd64.7z"
     ],
     [
         "wine-ce-8.8-aarch64",
-        "http://download0.wine.wine-runner.gfdgdxi.top/wine-ce-8.8-aarch64.7z"
+        "http://seafile.jyx2048.com:2345/spark-deepin-wine-runner/data/wine/wine-ce-8.8-aarch64.7z"
     ],
     [
         "wine-ce-8.8-riscv64",
-        "http://download0.wine.wine-runner.gfdgdxi.top/wine-ce-8.8-riscv64.7z"
+        "http://seafile.jyx2048.com:2345/spark-deepin-wine-runner/data/wine/wine-ce-8.8-riscv64.7z"
     ],
     [
         "wine-staging-8.8-ubuntu22.04-aarch64",
-        "http://download0.wine.wine-runner.gfdgdxi.top/wine-staging-8.8-ubuntu22.04-aarch64.7z"
+        "http://seafile.jyx2048.com:2345/spark-deepin-wine-runner/data/wine/wine-staging-8.8-ubuntu22.04-aarch64.7z"
     ],
     [
         "wine-lutris-GE-Proton8-7-x86_64",
-        "http://download0.wine.wine-runner.gfdgdxi.top/wine-lutris-GE-Proton8-7-x86_64.7z"
+        "http://seafile.jyx2048.com:2345/spark-deepin-wine-runner/data/wine/wine-lutris-GE-Proton8-7-x86_64.7z"
     ],
     [
         "wine-lutris-ge-lol-8.7-1-x86_64",
-        "http://download0.wine.wine-runner.gfdgdxi.top/wine-lutris-ge-lol-8.7-1-x86_64.7z"
+        "http://seafile.jyx2048.com:2345/spark-deepin-wine-runner/data/wine/wine-lutris-ge-lol-8.7-1-x86_64.7z"
     ],
     [
         "wine-staging-8.7-debian10-x86_64",
@@ -279,11 +279,11 @@
     ],
     [
         "wine-ce-8.7-amd64",
-        "http://download0.wine.wine-runner.gfdgdxi.top/wine-ce-8.7-amd64.7z"
+        "http://seafile.jyx2048.com:2345/spark-deepin-wine-runner/data/wine/wine-ce-8.7-amd64.7z"
     ],
     [
         "wine-ce-8.7-aarch64",
-        "http://download0.wine.wine-runner.gfdgdxi.top/wine-ce-8.7-aarch64.7z"
+        "http://seafile.jyx2048.com:2345/spark-deepin-wine-runner/data/wine/wine-ce-8.7-aarch64.7z"
     ],
     [
         "wine-staging-8.6-debian10-x86_64",
@@ -299,7 +299,7 @@
     ],
     [
         "wine-staging-8.6-ubuntu22.04-aarch64",
-        "http://download0.wine.wine-runner.gfdgdxi.top/wine-staging-8.6-ubuntu22.04-aarch64.7z"
+        "http://seafile.jyx2048.com:2345/spark-deepin-wine-runner/data/wine/wine-staging-8.6-ubuntu22.04-aarch64.7z"
     ],
     [
         "wine-staging-8.5-debian10-x86_64",
@@ -315,11 +315,11 @@
     ],
     [
         "wine-ce-8.5-aarch64",
-        "http://download0.wine.wine-runner.gfdgdxi.top/wine-ce-8.5-aarch64.7z"
+        "http://seafile.jyx2048.com:2345/spark-deepin-wine-runner/data/wine/wine-ce-8.5-aarch64.7z"
     ],
     [
         "wine-ce-8.5-riscv64",
-        "http://download0.wine.wine-runner.gfdgdxi.top/wine-ce-8.5-riscv64.7z"
+        "http://seafile.jyx2048.com:2345/spark-deepin-wine-runner/data/wine/wine-ce-8.5-riscv64.7z"
     ],
     [
         "wine-staging-8.4-debian10-x86_64",
@@ -335,11 +335,11 @@
     ],
     [
         "wine-ce-8.4-riscv64",
-        "http://download0.wine.wine-runner.gfdgdxi.top/wine-ce-8.4-riscv64.7z"
+        "http://seafile.jyx2048.com:2345/spark-deepin-wine-runner/data/wine/wine-ce-8.4-riscv64.7z"
     ],
     [
         "wine-staging-8.4-ubuntu20.04-aarch64",
-        "http://download0.wine.wine-runner.gfdgdxi.top/wine-staging-8.4-ubuntu20.04-aarch64.7z"
+        "http://seafile.jyx2048.com:2345/spark-deepin-wine-runner/data/wine/wine-staging-8.4-ubuntu20.04-aarch64.7z"
     ],
     [
         "wine-staging-8.3",
@@ -371,7 +371,7 @@
     ],
     [
         "wine-staging-8.2-debian10-amd64",
-        "https://github.com/rain-gfd/wine-download/releases/download/wine-staging-8/wine-staging-8.2-debian10-amd64"
+        "https://github.com/rain-gfd/wine-download/releases/download/wine-staging-8/wine-staging-8.2-debian10-amd64.7z"
     ],
     [
         "wine-staging-8.2-debian10-i386",
@@ -379,15 +379,15 @@
     ],
     [
         "wine-staging-8.2-aarch64",
-        "http://download0.wine.wine-runner.gfdgdxi.top/wine-staging-8.2-aarch64.7z"
+        "http://seafile.jyx2048.com:2345/spark-deepin-wine-runner/data/wine/wine-staging-8.2-aarch64.7z"
     ],
     [
         "wine-ce-8.2-riscv64",
-        "http://download0.wine.wine-runner.gfdgdxi.top/wine-ce-8.2-riscv64.7z"
+        "http://seafile.jyx2048.com:2345/spark-deepin-wine-runner/data/wine/wine-ce-8.2-riscv64.7z"
     ],
     [
         "wine-ce-8.2-armhf",
-        "http://download0.wine.wine-runner.gfdgdxi.top/wine-ce-8.2-armhf.7z"
+        "http://seafile.jyx2048.com:2345/spark-deepin-wine-runner/data/wine/wine-ce-8.2-armhf.7z"
     ],
     [
         "wine-staging-8.1",
@@ -407,11 +407,11 @@
     ],
     [
         "wine-ce-8.1-armhf",
-        "http://download0.wine.wine-runner.gfdgdxi.top/wine-ce-8.1-armhf.7z"
+        "http://seafile.jyx2048.com:2345/spark-deepin-wine-runner/data/wine/wine-ce-8.1-armhf.7z"
     ],
     [
         "wine-staging-8.1-ubuntu20.04-aarch64",
-        "http://download0.wine.wine-runner.gfdgdxi.top/wine-staging-8.1-ubuntu20.04-aarch64.7z"
+        "http://seafile.jyx2048.com:2345/spark-deepin-wine-runner/data/wine/wine-staging-8.1-ubuntu20.04-aarch64.7z"
     ],
     [
         "wine-stable-8.0-debian10-x86_64",
@@ -427,7 +427,7 @@
     ],
     [
         "wine-ce-8.0-armhf",
-        "http://download0.wine.wine-runner.gfdgdxi.top/wine-ce-8.0-armhf.7z"
+        "http://seafile.jyx2048.com:2345/spark-deepin-wine-runner/data/wine/wine-ce-8.0-armhf.7z"
     ],
     [
         "wine-staging-8.0-rc5",
@@ -451,15 +451,15 @@
     ],
     [
         "wine-staging-8.0-rc5-ubuntu20.04-aarch64",
-        "http://download0.wine.wine-runner.gfdgdxi.top/wine-staging-8.0-rc5-ubuntu20.04-aarch64.7z"
+        "http://seafile.jyx2048.com:2345/spark-deepin-wine-runner/data/wine/wine-staging-8.0-rc5-ubuntu20.04-aarch64.7z"
     ],
     [
         "wine-staging-8.0-rc5-debian10-armv71",
-        "http://download0.wine.wine-runner.gfdgdxi.top/wine-staging-8.0-rc5-debian10-armv71.7z"
+        "http://seafile.jyx2048.com:2345/spark-deepin-wine-runner/data/wine/wine-staging-8.0-rc5-debian10-armv71.7z"
     ],
     [
         "wine-ce-8.0-rc5-armhf",
-        "http://download0.wine.wine-runner.gfdgdxi.top/wine-ce-8.0-rc5-armhf.7z"
+        "http://seafile.jyx2048.com:2345/spark-deepin-wine-runner/data/wine/wine-ce-8.0-rc5-armhf.7z"
     ],
     [
         "wine-staging-8.0-rc4",
@@ -483,7 +483,7 @@
     ],
     [
         "wine-ce-8.0-rc4-armhf",
-        "http://download0.wine.wine-runner.gfdgdxi.top/wine-ce-8.0-rc4-armhf.7z"
+        "http://seafile.jyx2048.com:2345/spark-deepin-wine-runner/data/wine/wine-ce-8.0-rc4-armhf.7z"
     ],
     [
         "wine-staging-8.0-rc3-debian10-x86_64",
@@ -491,7 +491,7 @@
     ],
     [
         "lutris-fshack-7.2",
-        "http://download0.wine.wine-runner.gfdgdxi.top/lutris-fshack-7.2.7z"
+        "http://seafile.jyx2048.com:2345/spark-deepin-wine-runner/data/wine/lutris-fshack-7.2.7z"
     ],
     [
         "wine-staging-8.0-rc2-debian10-x86_64",
@@ -507,15 +507,15 @@
     ],
     [
         "wine-staging-wow64-7.0.2-debian10-amd64",
-        "http://download0.wine.wine-runner.gfdgdxi.top/wine-staging-wow64-7.0.2-debian10-amd64.7z"
+        "http://seafile.jyx2048.com:2345/spark-deepin-wine-runner/data/wine/wine-staging-wow64-7.0.2-debian10-amd64.7z"
     ],
     [
         "wine-stable-7.0.2-debian10-amd64",
-        "http://download0.wine.wine-runner.gfdgdxi.top/wine-stable-7.0.2-debian10-amd64.7z"
+        "http://seafile.jyx2048.com:2345/spark-deepin-wine-runner/data/wine/wine-stable-7.0.2-debian10-amd64.7z"
     ],
     [
         "wine-stable-7.0.2-debian10-i386",
-        "http://download0.wine.wine-runner.gfdgdxi.top/wine-stable-7.0.2-debian10-i386.7z"
+        "http://seafile.jyx2048.com:2345/spark-deepin-wine-runner/data/wine/wine-stable-7.0.2-debian10-i386.7z"
     ],
     [
         "wine-stable-7.0.1",
@@ -575,7 +575,7 @@
     ],
     [
         "wine-devel-7.17",
-        "https://github.com/rain-gfd/wine-download/releases/download/wine-devel7.17/wine-devel7.17.7z"
+        "https://github.com/rain-gfd/wine-download/releases/download/wine-devel-7.17/wine-devel-7.17.7z"
     ],
     [
         "spark-wine7-devel-7.17~spark-1",
@@ -631,7 +631,7 @@
     ],
     [
         "lutris-6.4-i386",
-        "http://download0.wine.wine-runner.gfdgdxi.top/lutris-6.4-i386.7z"
+        "http://seafile.jyx2048.com:2345/spark-deepin-wine-runner/data/wine/lutris-6.4-i386.7z"
     ],
     [
         "wine-stable-6.0.4",
@@ -656,7 +656,7 @@
     ],
     [
         "deepin-wine5-stable",
-        "http://download0.wine.wine-runner.gfdgdxi.top/deepin-wine5-stable.7z"
+        "http://seafile.jyx2048.com:2345/spark-deepin-wine-runner/data/wine/deepin-wine5-stable.7z"
     ],
     [
         "wine-stable-5.0.4",
@@ -668,11 +668,11 @@
     ],
     [
         "proton-5.0-debian10-amd64",
-        "http://download0.wine.wine-runner.gfdgdxi.top/proton-5.0-debian10-amd64.7z"
+        "http://seafile.jyx2048.com:2345/spark-deepin-wine-runner/data/wine/proton-5.0-debian10-amd64.7z"
     ],
     [
         "proton-5.0-debian10-i386",
-        "http://download0.wine.wine-runner.gfdgdxi.top/proton-5.0-debian10-i386.7z"
+        "http://seafile.jyx2048.com:2345/spark-deepin-wine-runner/data/wine/proton-5.0-debian10-i386.7z"
     ],
     [
         "wine-staging-5.22",
@@ -696,7 +696,7 @@
     ],
     [
         "proton-4.2-i386",
-        "http://download0.wine.wine-runner.gfdgdxi.top/proton-4.2-i386.7z"
+        "http://seafile.jyx2048.com:2345/spark-deepin-wine-runner/data/wine/proton-4.2-i386.7z"
     ],
     [
         "wine-staging-4.21",
@@ -708,19 +708,19 @@
     ],
     [
         "wine-stable-3.0.5-debian10-amd64",
-        "http://download0.wine.wine-runner.gfdgdxi.top/wine-stable-3.0.5-debian10-amd64.7z"
+        "http://seafile.jyx2048.com:2345/spark-deepin-wine-runner/data/wine/wine-stable-3.0.5-debian10-amd64.7z"
     ],
     [
         "proton-3.16-amd64",
-        "http://download0.wine.wine-runner.gfdgdxi.top/proton-3.16-amd64.7z"
+        "http://seafile.jyx2048.com:2345/spark-deepin-wine-runner/data/wine/proton-3.16-amd64.7z"
     ],
     [
         "proton-3.16-i386",
-        "http://download0.wine.wine-runner.gfdgdxi.top/proton-3.16-i386.7z"
+        "http://seafile.jyx2048.com:2345/spark-deepin-wine-runner/data/wine/proton-3.16-i386.7z"
     ],
     [
         "proton-3.7-i386",
-        "http://download0.wine.wine-runner.gfdgdxi.top/proton-3.7-i386.7z"
+        "http://seafile.jyx2048.com:2345/spark-deepin-wine-runner/data/wine/proton-3.7-i386.7z"
     ],
     [
         "wine-staging-3.21",
