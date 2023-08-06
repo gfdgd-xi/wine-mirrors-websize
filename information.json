@@ -632,6 +632,10 @@
         "https://jihulab.com/gfdgd-xi/wine-mirrors/-/raw/main/deepin-wine6-stable.7z"
     ],
     [
+        "wine-lutris-ge-6.12-x86_64",
+        "http://seafile.jyx2048.com:2345/spark-deepin-wine-runner/data/wine/wine-lutris-ge-6.12-x86_64.7z"
+    ],
+    [
         "wine-lutris-ge-6.9-x86_64",
         "http://seafile.jyx2048.com:2345/spark-deepin-wine-runner/data/wine/wine-lutris-ge-6.9-x86_64.7z"
     ],
