@@ -56,8 +56,20 @@
         "http://seafile.jyx2048.com:2345/spark-deepin-wine-runner/data/wine/wine-stable-8.0.2-ubuntu22.04-aarch64.7z"
     ],
     [
+        "wine-staging-8.15-debian10-x86_64",
+        "https://jihulab.com/gfdgd-xi/wine-mirrors-4/-/raw/main/wine-staging-8.15-debian10-x86_64.7z"
+    ],
+    [
         "wine-staging-wow64-8.15-debian10-amd64",
         "https://jihulab.com/gfdgd-xi/wine-mirrors-4/-/raw/main/wine-staging-wow64-8.15-debian10-amd64.7z"
+    ],
+    [
+        "wine-staging-8.15-debian10-amd64",
+        "http://seafile.jyx2048.com:2345/spark-deepin-wine-runner/data/wine/wine-staging-8.15-debian10-amd64.7z"
+    ],
+    [
+        "wine-staging-8.15-debian10-i386",
+        "http://seafile.jyx2048.com:2345/spark-deepin-wine-runner/data/wine/wine-staging-8.15-debian10-i386.7z"
     ],
     [
         "wine-staging-8.14-debian10-x86_64",
