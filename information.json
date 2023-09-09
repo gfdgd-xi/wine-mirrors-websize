@@ -28,8 +28,8 @@
         "http://seafile.jyx2048.com:2345/wine-building/wine-daily-ubuntu22.04-aarch64.7z"
     ],
     [
-        "spark-wine8-8.13",
-        "https://jihulab.com/gfdgd-xi/wine-mirrors-4/-/raw/main/spark-wine8-8.13.7z"
+        "spark-wine8-8.15",
+        "https://jihulab.com/gfdgd-xi/wine-mirrors-4/-/raw/main/spark-wine8-8.15.7z"
     ],
     [
         "spark-wine8-8.12-wow64",
@@ -55,10 +55,7 @@
         "wine-stable-8.0.2-ubuntu22.04-aarch64",
         "http://seafile.jyx2048.com:2345/spark-deepin-wine-runner/data/wine/wine-stable-8.0.2-ubuntu22.04-aarch64.7z"
     ],
-    [
-        "spark-wine8-8.15",
-        "https://jihulab.com/gfdgd-xi/wine-mirrors-4/-/raw/main/spark-wine8-8.15.7z"
-    ],
+    
     [
         "wine-staging-8.15-debian10-x86_64",
         "https://jihulab.com/gfdgd-xi/wine-mirrors-4/-/raw/main/wine-staging-8.15-debian10-x86_64.7z"
@@ -118,6 +115,10 @@
     [
         "GE-Proton8-13",
         "http://seafile.jyx2048.com:2345/spark-deepin-wine-runner/data/wine/GE-Proton8-13.7z"
+    ],
+    [
+        "spark-wine8-8.13",
+        "https://jihulab.com/gfdgd-xi/wine-mirrors-4/-/raw/main/spark-wine8-8.13.7z"
     ],
     [
         "wine-staging-8.13-debian10-x86_64",
