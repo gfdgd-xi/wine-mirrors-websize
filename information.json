@@ -28,6 +28,22 @@
         "http://seafile.jyx2048.com:2345/wine-building/wine-daily-ubuntu22.04-aarch64.7z"
     ],
     [
+        "wine-lutris-GE-Proton8.22-x86_64",
+        "http://seafile.jyx2048.com:2345/spark-deepin-wine-runner/data/wine/wine-lutris-GE-Proton8.22-x86_64.7z"
+    ],
+    [
+        "wine-lutris-GE-Proton8.21-x86_64",
+        "http://seafile.jyx2048.com:2345/spark-deepin-wine-runner/data/wine/wine-lutris-GE-Proton8.21-x86_64.7z"
+    ],
+    [
+        "GE-Proton-8.22",
+        "http://seafile.jyx2048.com:2345/spark-deepin-wine-runner/data/wine/GE-Proton-8.22.7z"
+    ],
+    [
+        "GE-Proton-8.21",
+        "http://seafile.jyx2048.com:2345/spark-deepin-wine-runner/data/wine/GE-Proton-8.21.7z"
+    ],
+    [
         "wine-lutris-GE-Proton8.20-x86_64",
         "https://github.com/rain-gfd/wine-download/releases/download/wine-lutris-GE-Proton8.20-x86_64/wine-lutris-GE-Proton8.20-x86_64.7z"
     ],
