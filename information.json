@@ -28,6 +28,10 @@
         "http://seafile.jyx2048.com:2345/wine-building/wine-daily-ubuntu22.04-aarch64.7z"
     ],
     [
+        "spark-wine8-8.20",
+        "http://seafile.jyx2048.com:2345/spark-deepin-wine-runner/data/wine/spark-wine8-8.20.7z"
+    ],
+    [
         "wine-staging-wow64-8.20-debian10-amd64",
         "https://jihulab.com/gfdgd-xi/wine-mirrors-6/-/raw/main/wine-staging-wow64-8.20-debian10-amd64.7z"
     ],
