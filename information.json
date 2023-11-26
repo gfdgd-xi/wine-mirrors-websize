@@ -668,7 +668,7 @@
         "https://github.com/rain-gfd/wine-download/releases/download/wine-staging-8.1-debian10-x86_64/wine-staging-8.1-debian10-x86_64.7z"
     ],
     [
-        "wine-staging-8.1-debian10-amd64（只有64位的，无32位）",
+        "wine-staging-8.1-debian10-amd64",
         "https://github.com/rain-gfd/wine-download/releases/download/wine-staging-8.1-debian10-amd64/wine-staging-8.1-debian10-amd64.7z"
     ],
     [
@@ -688,7 +688,7 @@
         "https://github.com/rain-gfd/wine-download/releases/download/wine-stable-8.0-debian10-x86_64/wine-stable-8.0-debian10-x86_64.7z"
     ],
     [
-        "wine-stable-8.0-debian10-amd64（只有64位的，无32位）",
+        "wine-stable-8.0-debian10-amd64",
         "https://github.com/rain-gfd/wine-download/releases/download/wine-stable-8.0-debian10-amd64/wine-stable-8.0-debian10-amd64.7z"
     ],
     [
@@ -712,7 +712,7 @@
         "https://github.com/rain-gfd/wine-download/releases/download/wine-staging-8.0-rc5-debian10-x86_64/wine-staging-8.0-rc5-debian10-x86_64.7z"
     ],
     [
-        "wine-staging-8.0-rc5-debian10-amd64（只有64位的，无32位）",
+        "wine-staging-8.0-rc5-debian10-amd64",
         "https://github.com/rain-gfd/wine-download/releases/download/wine-staging-8.0-rc5-debian10-amd64/wine-staging-8.0-rc5-debian10-amd64.7z"
     ],
     [
@@ -748,7 +748,7 @@
         "https://github.com/rain-gfd/wine-download/releases/download/wine-staging-8.0-rc4-debian10-i386/wine-staging-8.0-rc4-debian10-i386.7z"
     ],
     [
-        "wine-staging-8.0-rc4-debian10-amd64（只有64位的，无32位）",
+        "wine-staging-8.0-rc4-debian10-amd64",
         "https://github.com/rain-gfd/wine-download/releases/download/wine-staging-8.0-rc4-debian10-amd64/wine-staging-8.0-rc4-debian10-amd64.7z"
     ],
     [
