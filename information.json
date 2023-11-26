@@ -1,10 +1,10 @@
 [
     [
-        "——————下面版本若标有debian10字样则代表是作者从上游拉取编译的——————",
+        "+ 对于非 X86 且安装了二进制兼容层（如 Box86/64、exagear、qemu、lat），应当下载 x86 架构的 wine",
         "https://github.com/rain-gfd/wine-download/releases/download/egg/egg.7z"
     ],
     [
-        "——————若没有则代表是从官方源拉取的——————",
+        "+ Arm wine 只能运行 arm exe（wine ce 属于例外）",
         "https://github.com/rain-gfd/wine-download/releases/download/egg/egg.7z"
     ],
     [

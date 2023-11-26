@@ -1,10 +1,10 @@
 [
     [
-        "——————下面版本若标有debian10字样则代表是作者从上游拉取编译的——————",
+        "+ You should download x86 wine if you have installed x86 emulator such as box86/box64, exagear, lat, qemu and so on",
         "https://github.com/rain-gfd/wine-download/releases/download/egg/egg.7z"
     ],
     [
-        "——————若没有则代表是从官方源拉取的——————",
+        "+ Arm wine only run arm exe but arm/riscv64 wine-ce can run i386 exe",
         "https://github.com/rain-gfd/wine-download/releases/download/egg/egg.7z"
     ],
     [
