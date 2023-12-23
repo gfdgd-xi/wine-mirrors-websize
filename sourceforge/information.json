@@ -28,6 +28,10 @@
         "http://seafile.jyx2048.com:2345/wine-building/wine-daily-ubuntu22.04-aarch64.7z"
     ],
     [
+        "wine-staging-9.0-rc3-debian10-i386",
+        "https://sourceforge.net/projects/deep-wine-runner-wine-download/files/wine-staging-9.0-rc3-debian10-i386.7z/download"
+    ],
+    [
         "okylin-wine-20231110-x86_64",
         "https://sourceforge.net/projects/deep-wine-runner-wine-download/files/okylin-wine-20231110-x86_64.7z/download"
     ],
