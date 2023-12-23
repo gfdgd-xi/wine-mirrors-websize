@@ -28,6 +28,10 @@
         "http://seafile.jyx2048.com:2345/wine-building/wine-daily-ubuntu22.04-aarch64.7z"
     ],
     [
+        "wine-staging-wow64-9.0-rc3-debian10-amd64",
+        "http://seafile.jyx2048.com:2345/spark-deepin-wine-runner/data/wine/wine-staging-wow64-9.0-rc3-debian10-amd64.7z"
+    ],
+    [
         "wine-staging-9.0-rc3-debian10-x86_64",
         "http://seafile.jyx2048.com:2345/spark-deepin-wine-runner/data/wine/wine-staging-9.0-rc3-debian10-x86_64.7z"
     ],
