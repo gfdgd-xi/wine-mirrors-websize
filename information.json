@@ -28,6 +28,10 @@
         "http://seafile.jyx2048.com:2345/wine-building/wine-daily-ubuntu22.04-aarch64.7z"
     ],
     [
+        "okylin-wine-20231110-x86_64",
+        "http://seafile.jyx2048.com:2345/spark-deepin-wine-runner/data/wine/okylin-wine-20231110-x86_64.7z"
+    ],
+    [
         "okylin-wine-20230928-x86_64",
         "http://seafile.jyx2048.com:2345/spark-deepin-wine-runner/data/wine/okylin-wine-20230928-x86_64.7z"
     ],
