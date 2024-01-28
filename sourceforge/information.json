@@ -1,11 +1,11 @@
 [
     [
         "+ You should download x86 wine if you have installed x86 emulator such as box86/box64, exagear, lat, qemu and so on",
-        "https://github.com/rain-gfd/wine-download/releases/download/egg/egg.7z"
+        "https://master.dl.sourceforge.net/project/deep-wine-runner-wine-download/egg/egg.7z"
     ],
     [
         "+ Arm wine only run arm exe but arm/riscv64 wine-ce can run i386 exe",
-        "https://github.com/rain-gfd/wine-download/releases/download/egg/egg.7z"
+        "https://master.dl.sourceforge.net/project/deep-wine-runner-wine-download/egg/egg.7z"
     ],
     [
         "(Daily, Unstable) wine-daily-debian10-x86_64",
@@ -349,31 +349,31 @@
     ],
     [
         "wine-lutris-GE-Proton8.20-x86_64",
-        "https://github.com/rain-gfd/wine-download/releases/download/wine-lutris-GE-Proton8.20-x86_64/wine-lutris-GE-Proton8.20-x86_64.7z"
+        "https://master.dl.sourceforge.net/project/deep-wine-runner-wine-download/wine-lutris-GE-Proton8.20-x86_64/wine-lutris-GE-Proton8.20-x86_64.7z"
     ],
     [
         "wine-lutris-GE-Proton8.19-x86_64",
-        "https://github.com/rain-gfd/wine-download/releases/download/wine-lutris-GE-Proton8.19-x86_64/wine-lutris-GE-Proton8.19-x86_64.7z"
+        "https://master.dl.sourceforge.net/project/deep-wine-runner-wine-download/wine-lutris-GE-Proton8.19-x86_64/wine-lutris-GE-Proton8.19-x86_64.7z"
     ],
     [
         "wine-lutris-GE-Proton8.18-x86_64",
-        "https://github.com/rain-gfd/wine-download/releases/download/wine-lutris-GE-Proton8.18-x86_64/wine-lutris-GE-Proton8.18-x86_64.7z"
+        "https://master.dl.sourceforge.net/project/deep-wine-runner-wine-download/wine-lutris-GE-Proton8.18-x86_64/wine-lutris-GE-Proton8.18-x86_64.7z"
     ],
     [
         "GE-Proton-8.20",
-        "https://github.com/rain-gfd/wine-download/releases/download/GE-Proton-8.20/GE-Proton-8.20.7z"
+        "https://master.dl.sourceforge.net/project/deep-wine-runner-wine-download/GE-Proton-8.20/GE-Proton-8.20.7z"
     ],
     [
         "GE-Proton-8.19",
-        "https://github.com/rain-gfd/wine-download/releases/download/GE-Proton-8.19/GE-Proton-8.19.7z"
+        "https://master.dl.sourceforge.net/project/deep-wine-runner-wine-download/GE-Proton-8.19/GE-Proton-8.19.7z"
     ],
     [
         "GE-Proton-8.18",
-        "https://github.com/rain-gfd/wine-download/releases/download/GE-Proton-8.18/GE-Proton-8.18.7z"
+        "https://master.dl.sourceforge.net/project/deep-wine-runner-wine-download/GE-Proton-8.18/GE-Proton-8.18.7z"
     ],
     [
         "GE-Proton-8.17",
-        "https://github.com/rain-gfd/wine-download/releases/download/GE-Proton-8.17/GE-Proton-8.17.7z"
+        "https://master.dl.sourceforge.net/project/deep-wine-runner-wine-download/GE-Proton-8.17/GE-Proton-8.17.7z"
     ],
     [
         "spark-wine8-8.15",
@@ -389,11 +389,11 @@
     ],
     [
         "wine-stable-8.0.2-debian10-amd64",
-        "https://github.com/rain-gfd/wine-download/releases/download/wine-stable-8.0.2-debian10-amd64/wine-stable-8.0.2-debian10-amd64.7z"
+        "https://master.dl.sourceforge.net/project/deep-wine-runner-wine-download/wine-stable-8.0.2-debian10-amd64/wine-stable-8.0.2-debian10-amd64.7z"
     ],
     [
         "wine-stable-8.0.2-debian10-i386",
-        "https://github.com/rain-gfd/wine-download/releases/download/wine-stable-8.0.2-debian10-i386/wine-stable-8.0.2-debian10-i386.7z"
+        "https://master.dl.sourceforge.net/project/deep-wine-runner-wine-download/wine-stable-8.0.2-debian10-i386/wine-stable-8.0.2-debian10-i386.7z"
     ],
     [
         "wine-stable-wow64-8.0.2-debian10-x86_64",
@@ -401,7 +401,7 @@
     ],
     [
         "wine-stable-8.0.2-ubuntu22.04-aarch64",
-        "https://github.com/rain-gfd/wine-download/releases/download/wine-stable-8.0.2-ubuntu22.04-aarch64/wine-stable-8.0.2-ubuntu22.04-aarch64.7z"
+        "https://master.dl.sourceforge.net/project/deep-wine-runner-wine-download/wine-stable-8.0.2-ubuntu22.04-aarch64/wine-stable-8.0.2-ubuntu22.04-aarch64.7z"
     ],
     [
         "wine-staging-8.17-debian10-x86_64",
@@ -421,35 +421,35 @@
     ],
     [
         "wine-staging-8.18-debian10-amd64",
-        "https://github.com/rain-gfd/wine-download/releases/download/wine-staging-8.18-debian10-amd64/wine-staging-8.18-debian10-amd64.7z"
+        "https://master.dl.sourceforge.net/project/deep-wine-runner-wine-download/wine-staging-8.18-debian10-amd64/wine-staging-8.18-debian10-amd64.7z"
     ],
     [
         "wine-staging-8.18-debian10-i386",
-        "https://github.com/rain-gfd/wine-download/releases/download/wine-staging-8.18-debian10-i386/wine-staging-8.18-debian10-i386.7z"
+        "https://master.dl.sourceforge.net/project/deep-wine-runner-wine-download/wine-staging-8.18-debian10-i386/wine-staging-8.18-debian10-i386.7z"
     ],
     [
         "GE-Proton-8.17",
-        "https://github.com/rain-gfd/wine-download/releases/download/GE-Proton-8.17/GE-Proton-8.17.7z"
+        "https://master.dl.sourceforge.net/project/deep-wine-runner-wine-download/GE-Proton-8.17/GE-Proton-8.17.7z"
     ],
     [
         "wine-staging-8.17-debian10-amd64",
-        "https://github.com/rain-gfd/wine-download/releases/download/wine-staging-8.17-debian10-amd64/wine-staging-8.17-debian10-amd64.7z"
+        "https://master.dl.sourceforge.net/project/deep-wine-runner-wine-download/wine-staging-8.17-debian10-amd64/wine-staging-8.17-debian10-amd64.7z"
     ],
     [
         "wine-staging-8.17-debian10-i386",
-        "https://github.com/rain-gfd/wine-download/releases/download/wine-staging-8.17-debian10-i386/wine-staging-8.17-debian10-i386.7z"
+        "https://master.dl.sourceforge.net/project/deep-wine-runner-wine-download/wine-staging-8.17-debian10-i386/wine-staging-8.17-debian10-i386.7z"
     ],
     [
         "wine-staging-8.17-ubuntu22.04-aarch64",
-        "https://github.com/rain-gfd/wine-download/releases/download/wine-staging-8.17-ubuntu22.04-aarch64/wine-staging-8.17-ubuntu22.04-aarch64.7z"
+        "https://master.dl.sourceforge.net/project/deep-wine-runner-wine-download/wine-staging-8.17-ubuntu22.04-aarch64/wine-staging-8.17-ubuntu22.04-aarch64.7z"
     ],
     [
         "wine-lutris-GE-Proton8.17-x86_64",
-        "https://github.com/rain-gfd/wine-download/releases/download/wine-lutris-GE-Proton8.17-x86_64/wine-lutris-GE-Proton8.17-x86_64.7z"
+        "https://master.dl.sourceforge.net/project/deep-wine-runner-wine-download/wine-lutris-GE-Proton8.17-x86_64/wine-lutris-GE-Proton8.17-x86_64.7z"
     ],
     [
         "GE-Proton-8.16",
-        "https://github.com/rain-gfd/wine-download/releases/download/GE-Proton-8.16/GE-Proton-8.16.7z"
+        "https://master.dl.sourceforge.net/project/deep-wine-runner-wine-download/GE-Proton-8.16/GE-Proton-8.16.7z"
     ],
     [
         "wine-staging-8.16-debian10-x86_64",
@@ -461,23 +461,23 @@
     ],
     [
         "wine-staging-8.16-debian10-amd64",
-        "https://github.com/rain-gfd/wine-download/releases/download/wine-staging-8.16-debian10-amd64/wine-staging-8.16-debian10-amd64.7z"
+        "https://master.dl.sourceforge.net/project/deep-wine-runner-wine-download/wine-staging-8.16-debian10-amd64/wine-staging-8.16-debian10-amd64.7z"
     ],
     [
         "wine-staging-8.16-debian10-i386",
-        "https://github.com/rain-gfd/wine-download/releases/download/wine-staging-8.16-debian10-i386/wine-staging-8.16-debian10-i386.7z"
+        "https://master.dl.sourceforge.net/project/deep-wine-runner-wine-download/wine-staging-8.16-debian10-i386/wine-staging-8.16-debian10-i386.7z"
     ],
     [
         "wine-staging-8.16-ubuntu22.04-aarch64",
-        "https://github.com/rain-gfd/wine-download/releases/download/wine-staging-8.16-ubuntu22.04-aarch64/wine-staging-8.16-ubuntu22.04-aarch64.7z"
+        "https://master.dl.sourceforge.net/project/deep-wine-runner-wine-download/wine-staging-8.16-ubuntu22.04-aarch64/wine-staging-8.16-ubuntu22.04-aarch64.7z"
     ],
     [
         "wine-lutris-GE-Proton8.15-x86_64",
-        "https://github.com/rain-gfd/wine-download/releases/download/wine-lutris-GE-Proton8.15-x86_64/wine-lutris-GE-Proton8.15-x86_64.7z"
+        "https://master.dl.sourceforge.net/project/deep-wine-runner-wine-download/wine-lutris-GE-Proton8.15-x86_64/wine-lutris-GE-Proton8.15-x86_64.7z"
     ],
     [
         "GE-Proton-8.15",
-        "https://github.com/rain-gfd/wine-download/releases/download/GE-Proton-8.15/GE-Proton-8.15.7z"
+        "https://master.dl.sourceforge.net/project/deep-wine-runner-wine-download/GE-Proton-8.15/GE-Proton-8.15.7z"
     ],
     [
         "wine-staging-8.15-debian10-x86_64",
@@ -489,15 +489,15 @@
     ],
     [
         "wine-staging-8.15-debian10-amd64",
-        "https://github.com/rain-gfd/wine-download/releases/download/wine-staging-8.15-debian10-amd64/wine-staging-8.15-debian10-amd64.7z"
+        "https://master.dl.sourceforge.net/project/deep-wine-runner-wine-download/wine-staging-8.15-debian10-amd64/wine-staging-8.15-debian10-amd64.7z"
     ],
     [
         "wine-staging-8.15-debian10-i386",
-        "https://github.com/rain-gfd/wine-download/releases/download/wine-staging-8.15-debian10-i386/wine-staging-8.15-debian10-i386.7z"
+        "https://master.dl.sourceforge.net/project/deep-wine-runner-wine-download/wine-staging-8.15-debian10-i386/wine-staging-8.15-debian10-i386.7z"
     ],
     [
         "wine-staging-8.15-ubuntu22.04-aarch64",
-        "https://github.com/rain-gfd/wine-download/releases/download/wine-staging-8.15-ubuntu22.04-aarch64/wine-staging-8.15-ubuntu22.04-aarch64.7z"
+        "https://master.dl.sourceforge.net/project/deep-wine-runner-wine-download/wine-staging-8.15-ubuntu22.04-aarch64/wine-staging-8.15-ubuntu22.04-aarch64.7z"
     ],
     [
         "wine-staging-8.14-debian10-x86_64",
@@ -509,39 +509,39 @@
     ],
     [
         "lutris-GE-Proton8-14-x86_64",
-        "https://github.com/rain-gfd/wine-download/releases/download/lutris-GE-Proton8-14-x86_64/lutris-GE-Proton8-14-x86_64.7z"
+        "https://master.dl.sourceforge.net/project/deep-wine-runner-wine-download/lutris-GE-Proton8-14-x86_64/lutris-GE-Proton8-14-x86_64.7z"
     ],
     [
         "GE-Proton8-14",
-        "https://github.com/rain-gfd/wine-download/releases/download/GE-Proton8-14/GE-Proton8-14.7z"
+        "https://master.dl.sourceforge.net/project/deep-wine-runner-wine-download/GE-Proton8-14/GE-Proton8-14.7z"
     ],
     [
         "wine-staging-8.14-debian10-amd64",
-        "https://github.com/rain-gfd/wine-download/releases/download/wine-staging-8.14-debian10-amd64/wine-staging-8.14-debian10-amd64.7z"
+        "https://master.dl.sourceforge.net/project/deep-wine-runner-wine-download/wine-staging-8.14-debian10-amd64/wine-staging-8.14-debian10-amd64.7z"
     ],
     [
         "wine-staging-8.14-debian10-i386",
-        "https://github.com/rain-gfd/wine-download/releases/download/wine-staging-8.14-debian10-i386/wine-staging-8.14-debian10-i386.7z"
+        "https://master.dl.sourceforge.net/project/deep-wine-runner-wine-download/wine-staging-8.14-debian10-i386/wine-staging-8.14-debian10-i386.7z"
     ],
     [
         "wine-ce-8.14-amd64",
-        "https://github.com/rain-gfd/wine-download/releases/download/wine-ce-8.14-amd64/wine-ce-8.14-amd64.7z"
+        "https://master.dl.sourceforge.net/project/deep-wine-runner-wine-download/wine-ce-8.14-amd64/wine-ce-8.14-amd64.7z"
     ],
     [
         "wine-ce-8.14-aarch64",
-        "https://github.com/rain-gfd/wine-download/releases/download/wine-ce-8.14-aarch64/wine-ce-8.14-aarch64.7z"
+        "https://master.dl.sourceforge.net/project/deep-wine-runner-wine-download/wine-ce-8.14-aarch64/wine-ce-8.14-aarch64.7z"
     ],
     [
         "wine-ce-8.14-riscv64",
-        "https://github.com/rain-gfd/wine-download/releases/download/wine-ce-8.14-riscv64/wine-ce-8.14-riscv64.7z"
+        "https://master.dl.sourceforge.net/project/deep-wine-runner-wine-download/wine-ce-8.14-riscv64/wine-ce-8.14-riscv64.7z"
     ],
     [
         "wine-lutris-GE-Proton8-13-x86_64",
-        "https://github.com/rain-gfd/wine-download/releases/download/wine-lutris-GE-Proton8-13-x86_64/wine-lutris-GE-Proton8-13-x86_64.7z"
+        "https://master.dl.sourceforge.net/project/deep-wine-runner-wine-download/wine-lutris-GE-Proton8-13-x86_64/wine-lutris-GE-Proton8-13-x86_64.7z"
     ],
     [
         "GE-Proton8-13",
-        "https://github.com/rain-gfd/wine-download/releases/download/GE-Proton8-13/GE-Proton8-13.7z"
+        "https://master.dl.sourceforge.net/project/deep-wine-runner-wine-download/GE-Proton8-13/GE-Proton8-13.7z"
     ],
     [
         "spark-wine8-8.13",
@@ -553,11 +553,11 @@
     ],
     [
         "wine-staging-8.13-debian10-amd64",
-        "https://github.com/rain-gfd/wine-download/releases/download/wine-staging-8.13-debian10-amd64/wine-staging-8.13-debian10-amd64.7z"
+        "https://master.dl.sourceforge.net/project/deep-wine-runner-wine-download/wine-staging-8.13-debian10-amd64/wine-staging-8.13-debian10-amd64.7z"
     ],
     [
         "wine-staging-8.13-debian10-i386",
-        "https://github.com/rain-gfd/wine-download/releases/download/wine-staging-8.13-debian10-i386/wine-staging-8.13-debian10-i386.7z"
+        "https://master.dl.sourceforge.net/project/deep-wine-runner-wine-download/wine-staging-8.13-debian10-i386/wine-staging-8.13-debian10-i386.7z"
     ],
     [
         "wine-staging-wow64-8.13-debian10-amd64",
@@ -565,23 +565,23 @@
     ],
     [
         "wine-staging-8.13-ubuntu22.04-aarch64",
-        "https://github.com/rain-gfd/wine-download/releases/download/wine-staging-8.13-ubuntu22.04-aarch64/wine-staging-8.13-ubuntu22.04-aarch64.7z"
+        "https://master.dl.sourceforge.net/project/deep-wine-runner-wine-download/wine-staging-8.13-ubuntu22.04-aarch64/wine-staging-8.13-ubuntu22.04-aarch64.7z"
     ],
     [
         "wine-ce-8.13.1-aarch64",
-        "https://github.com/rain-gfd/wine-download/releases/download/wine-ce-8.13.1-aarch64/wine-ce-8.13.1-aarch64.7z"
+        "https://master.dl.sourceforge.net/project/deep-wine-runner-wine-download/wine-ce-8.13.1-aarch64/wine-ce-8.13.1-aarch64.7z"
     ],
     [
         "wine-ce-8.13-amd64",
-        "https://github.com/rain-gfd/wine-download/releases/download/wine-ce-8.13-amd64/wine-ce-8.13-amd64.7z"
+        "https://master.dl.sourceforge.net/project/deep-wine-runner-wine-download/wine-ce-8.13-amd64/wine-ce-8.13-amd64.7z"
     ],
     [
         "wine-ce-8.13-aarch64",
-        "https://github.com/rain-gfd/wine-download/releases/download/wine-ce-8.13-aarch64/wine-ce-8.13-aarch64.7z"
+        "https://master.dl.sourceforge.net/project/deep-wine-runner-wine-download/wine-ce-8.13-aarch64/wine-ce-8.13-aarch64.7z"
     ],
     [
         "wine-ce-8.13-riscv64",
-        "https://github.com/rain-gfd/wine-download/releases/download/wine-ce-8.13-riscv64/wine-ce-8.13-riscv64.7z"
+        "https://master.dl.sourceforge.net/project/deep-wine-runner-wine-download/wine-ce-8.13-riscv64/wine-ce-8.13-riscv64.7z"
     ],
     [
         "spark-wine8-8.12",
@@ -597,15 +597,15 @@
     ],
     [
         "wine-lutris-ge-lol-p8-12-x86_64",
-        "https://github.com/rain-gfd/wine-download/releases/download/wine-lutris-ge-lol-p8-12-x86_64/wine-lutris-ge-lol-p8-12-x86_64.7z"
+        "https://master.dl.sourceforge.net/project/deep-wine-runner-wine-download/wine-lutris-ge-lol-p8-12-x86_64/wine-lutris-ge-lol-p8-12-x86_64.7z"
     ],
     [
         "wine-lutris-GE-Proton8-12-x86_64",
-        "https://github.com/rain-gfd/wine-download/releases/download/wine-lutris-GE-Proton8-12-x86_64/wine-lutris-GE-Proton8-12-x86_64.7z"
+        "https://master.dl.sourceforge.net/project/deep-wine-runner-wine-download/wine-lutris-GE-Proton8-12-x86_64/wine-lutris-GE-Proton8-12-x86_64.7z"
     ],
     [
         "GE-Proton8-12",
-        "https://github.com/rain-gfd/wine-download/releases/download/GE-Proton8-12/GE-Proton8-12.7z"
+        "https://master.dl.sourceforge.net/project/deep-wine-runner-wine-download/GE-Proton8-12/GE-Proton8-12.7z"
     ],
     [
         "wine-staging-wow64-8.12-debian10-amd64",
@@ -613,15 +613,15 @@
     ],
     [
         "wine-staging-8.12-debian10-amd64",
-        "https://github.com/rain-gfd/wine-download/releases/download/wine-staging-8.12-debian10-amd64/wine-staging-8.12-debian10-amd64.7z"
+        "https://master.dl.sourceforge.net/project/deep-wine-runner-wine-download/wine-staging-8.12-debian10-amd64/wine-staging-8.12-debian10-amd64.7z"
     ],
     [
         "wine-staging-8.12-debian10-i386",
-        "https://github.com/rain-gfd/wine-download/releases/download/wine-staging-8.12-debian10-i386/wine-staging-8.12-debian10-i386.7z"
+        "https://master.dl.sourceforge.net/project/deep-wine-runner-wine-download/wine-staging-8.12-debian10-i386/wine-staging-8.12-debian10-i386.7z"
     ],
     [
         "wine-staging-8.12-ubuntu22.04-aarch64",
-        "https://github.com/rain-gfd/wine-download/releases/download/wine-staging-8.12-ubuntu22.04-aarch64/wine-staging-8.12-ubuntu22.04-aarch64.7z"
+        "https://master.dl.sourceforge.net/project/deep-wine-runner-wine-download/wine-staging-8.12-ubuntu22.04-aarch64/wine-staging-8.12-ubuntu22.04-aarch64.7z"
     ],
     [
         "wine-stable-8.0.1",
@@ -629,15 +629,15 @@
     ],
     [
         "wine-stable-8.0.1-debian10-x86_64",
-        "https://github.com/rain-gfd/wine-download/releases/download/wine-stable-8.0.1-debian10-x86_64/wine-stable-8.0.1-debian10-x86_64.7z"
+        "https://master.dl.sourceforge.net/project/deep-wine-runner-wine-download/wine-stable-8.0.1-debian10-x86_64/wine-stable-8.0.1-debian10-x86_64.7z"
     ],
     [
         "wine-stable-8.0.1-debian10-amd64",
-        "https://github.com/rain-gfd/wine-download/releases/download/wine-stable-8.0.1-debian10-amd64/wine-stable-8.0.1-debian10-amd64.7z"
+        "https://master.dl.sourceforge.net/project/deep-wine-runner-wine-download/wine-stable-8.0.1-debian10-amd64/wine-stable-8.0.1-debian10-amd64.7z"
     ],
     [
         "wine-stable-8.0.1-debian10-i386",
-        "https://github.com/rain-gfd/wine-download/releases/download/wine-stable-8.0.1-debian10-i386/wine-stable-8.0.1-debian10-i386.7z"
+        "https://master.dl.sourceforge.net/project/deep-wine-runner-wine-download/wine-stable-8.0.1-debian10-i386/wine-stable-8.0.1-debian10-i386.7z"
     ],
     [
         "spark-wine8-8.10",
@@ -649,11 +649,11 @@
     ],
     [
         "wine-lutris-GE-Proton8-11-x86_64",
-        "https://github.com/rain-gfd/wine-download/releases/download/wine-lutris-GE-Proton8-11-x86_64/wine-lutris-GE-Proton8-11-x86_64.7z"
+        "https://master.dl.sourceforge.net/project/deep-wine-runner-wine-download/wine-lutris-GE-Proton8-11-x86_64/wine-lutris-GE-Proton8-11-x86_64.7z"
     ],
     [
         "GE-Proton8-11",
-        "https://github.com/rain-gfd/wine-download/releases/download/GE-Proton8-11/GE-Proton8-11.7z"
+        "https://master.dl.sourceforge.net/project/deep-wine-runner-wine-download/GE-Proton8-11/GE-Proton8-11.7z"
     ],
     [
         "wine-staging-8.11-debian10-x86_64",
@@ -665,23 +665,23 @@
     ],
     [
         "wine-staging-8.11-debian10-amd64",
-        "https://github.com/rain-gfd/wine-download/releases/download/wine-staging-8.11-debian10-amd64/wine-staging-8.11-debian10-amd64.7z"
+        "https://master.dl.sourceforge.net/project/deep-wine-runner-wine-download/wine-staging-8.11-debian10-amd64/wine-staging-8.11-debian10-amd64.7z"
     ],
     [
         "wine-staging-8.11-debian10-i386",
-        "https://github.com/rain-gfd/wine-download/releases/download/wine-staging-8.11-debian10-i386/wine-staging-8.11-debian10-i386.7z"
+        "https://master.dl.sourceforge.net/project/deep-wine-runner-wine-download/wine-staging-8.11-debian10-i386/wine-staging-8.11-debian10-i386.7z"
     ],
     [
         "wine-staging-8.11-ubuntu22.04-aarch64",
-        "https://github.com/rain-gfd/wine-download/releases/download/wine-staging-8.11-ubuntu22.04-aarch64/wine-staging-8.11-ubuntu22.04-aarch64.7z"
+        "https://master.dl.sourceforge.net/project/deep-wine-runner-wine-download/wine-staging-8.11-ubuntu22.04-aarch64/wine-staging-8.11-ubuntu22.04-aarch64.7z"
     ],
     [
         "wine-stable-8.0",
-        "https://github.com/rain-gfd/wine-download/releases/download/wine-stable-8.0/wine-stable-8.0.7z"
+        "https://master.dl.sourceforge.net/project/deep-wine-runner-wine-download/wine-stable-8.0/wine-stable-8.0.7z"
     ],
     [
         "wine-lutris-GE-Proton8-10-x86_64",
-        "https://github.com/rain-gfd/wine-download/releases/download/wine-lutris-GE-Proton8-10-x86_64/wine-lutris-GE-Proton8-10-x86_64.7z"
+        "https://master.dl.sourceforge.net/project/deep-wine-runner-wine-download/wine-lutris-GE-Proton8-10-x86_64/wine-lutris-GE-Proton8-10-x86_64.7z"
     ],
     [
         "wine-staging-8.10-debian10-x86_64",
@@ -689,19 +689,19 @@
     ],
     [
         "wine-staging-8.10-debian10-amd64",
-        "https://github.com/rain-gfd/wine-download/releases/download/wine-staging-8.10-debian10-amd64/wine-staging-8.10-debian10-amd64.7z"
+        "https://master.dl.sourceforge.net/project/deep-wine-runner-wine-download/wine-staging-8.10-debian10-amd64/wine-staging-8.10-debian10-amd64.7z"
     ],
     [
         "wine-staging-8.10-debian10-i386",
-        "https://github.com/rain-gfd/wine-download/releases/download/wine-staging-8.10-debian10-i386/wine-staging-8.10-debian10-i386.7z"
+        "https://master.dl.sourceforge.net/project/deep-wine-runner-wine-download/wine-staging-8.10-debian10-i386/wine-staging-8.10-debian10-i386.7z"
     ],
     [
         "wine-staging-8.10-ubuntu22.04-aarch64",
-        "https://github.com/rain-gfd/wine-download/releases/download/wine-staging-8.10-ubuntu22.04-aarch64/wine-staging-8.10-ubuntu22.04-aarch64.7z"
+        "https://master.dl.sourceforge.net/project/deep-wine-runner-wine-download/wine-staging-8.10-ubuntu22.04-aarch64/wine-staging-8.10-ubuntu22.04-aarch64.7z"
     ],
     [
         "wine-lutris-GE-Proton8-9-x86_64",
-        "https://github.com/rain-gfd/wine-download/releases/download/wine-lutris-GE-Proton8-9-x86_64/wine-lutris-GE-Proton8-9-x86_64.7z"
+        "https://master.dl.sourceforge.net/project/deep-wine-runner-wine-download/wine-lutris-GE-Proton8-9-x86_64/wine-lutris-GE-Proton8-9-x86_64.7z"
     ],
     [
         "wine-staging-8.9-debian10-x86_64",
@@ -709,31 +709,31 @@
     ],
     [
         "wine-staging-8.9-debian10-amd64",
-        "https://github.com/rain-gfd/wine-download/releases/download/wine-staging-8.9-debian10-amd64/wine-staging-8.9-debian10-amd64.7z"
+        "https://master.dl.sourceforge.net/project/deep-wine-runner-wine-download/wine-staging-8.9-debian10-amd64/wine-staging-8.9-debian10-amd64.7z"
     ],
     [
         "wine-staging-8.9-debian10-i386",
-        "https://github.com/rain-gfd/wine-download/releases/download/wine-staging-8.9-debian10-i386/wine-staging-8.9-debian10-i386.7z"
+        "https://master.dl.sourceforge.net/project/deep-wine-runner-wine-download/wine-staging-8.9-debian10-i386/wine-staging-8.9-debian10-i386.7z"
     ],
     [
         "wine-ce-8.9-amd64",
-        "https://github.com/rain-gfd/wine-download/releases/download/wine-ce-8.9-amd64/wine-ce-8.9-amd64.7z"
+        "https://master.dl.sourceforge.net/project/deep-wine-runner-wine-download/wine-ce-8.9-amd64/wine-ce-8.9-amd64.7z"
     ],
     [
         "wine-ce-8.9-riscv64",
-        "https://github.com/rain-gfd/wine-download/releases/download/wine-ce-8.9-riscv64/wine-ce-8.9-riscv64.7z"
+        "https://master.dl.sourceforge.net/project/deep-wine-runner-wine-download/wine-ce-8.9-riscv64/wine-ce-8.9-riscv64.7z"
     ],
     [
         "wine-ce-8.9-aarch64",
-        "https://github.com/rain-gfd/wine-download/releases/download/wine-ce-8.9-aarch64/wine-ce-8.9-aarch64.7z"
+        "https://master.dl.sourceforge.net/project/deep-wine-runner-wine-download/wine-ce-8.9-aarch64/wine-ce-8.9-aarch64.7z"
     ],
     [
         "wine-staging-8.9-ubuntu22.04-aarch64",
-        "https://github.com/rain-gfd/wine-download/releases/download/wine-staging-8.9-ubuntu22.04-aarch64/wine-staging-8.9-ubuntu22.04-aarch64.7z"
+        "https://master.dl.sourceforge.net/project/deep-wine-runner-wine-download/wine-staging-8.9-ubuntu22.04-aarch64/wine-staging-8.9-ubuntu22.04-aarch64.7z"
     ],
     [
         "wine-lutris-GE-Proton8-8-x86_64",
-        "https://github.com/rain-gfd/wine-download/releases/download/wine-lutris-GE-Proton8-8-x86_64/wine-lutris-GE-Proton8-8-x86_64.7z"
+        "https://master.dl.sourceforge.net/project/deep-wine-runner-wine-download/wine-lutris-GE-Proton8-8-x86_64/wine-lutris-GE-Proton8-8-x86_64.7z"
     ],
     [
         "wine-staging-8.8-debian10-x86_64",
@@ -741,35 +741,35 @@
     ],
     [
         "wine-staging-8.8-debian10-amd64",
-        "https://github.com/rain-gfd/wine-download/releases/download/wine-staging-8.8-debian10-amd64/wine-staging-8.8-debian10-amd64.7z"
+        "https://master.dl.sourceforge.net/project/deep-wine-runner-wine-download/wine-staging-8.8-debian10-amd64/wine-staging-8.8-debian10-amd64.7z"
     ],
     [
         "wine-staging-8.8-debian10-i386",
-        "https://github.com/rain-gfd/wine-download/releases/download/wine-staging-8.8-debian10-i386/wine-staging-8.8-debian10-i386.7z"
+        "https://master.dl.sourceforge.net/project/deep-wine-runner-wine-download/wine-staging-8.8-debian10-i386/wine-staging-8.8-debian10-i386.7z"
     ],
     [
         "wine-ce-8.8-amd64",
-        "https://github.com/rain-gfd/wine-download/releases/download/wine-ce-8.8-amd64/wine-ce-8.8-amd64.7z"
+        "https://master.dl.sourceforge.net/project/deep-wine-runner-wine-download/wine-ce-8.8-amd64/wine-ce-8.8-amd64.7z"
     ],
     [
         "wine-ce-8.8-aarch64",
-        "https://github.com/rain-gfd/wine-download/releases/download/wine-ce-8.8-aarch64/wine-ce-8.8-aarch64.7z"
+        "https://master.dl.sourceforge.net/project/deep-wine-runner-wine-download/wine-ce-8.8-aarch64/wine-ce-8.8-aarch64.7z"
     ],
     [
         "wine-ce-8.8-riscv64",
-        "https://github.com/rain-gfd/wine-download/releases/download/wine-ce-8.8-riscv64/wine-ce-8.8-riscv64.7z"
+        "https://master.dl.sourceforge.net/project/deep-wine-runner-wine-download/wine-ce-8.8-riscv64/wine-ce-8.8-riscv64.7z"
     ],
     [
         "wine-staging-8.8-ubuntu22.04-aarch64",
-        "https://github.com/rain-gfd/wine-download/releases/download/wine-staging-8.8-ubuntu22.04-aarch64/wine-staging-8.8-ubuntu22.04-aarch64.7z"
+        "https://master.dl.sourceforge.net/project/deep-wine-runner-wine-download/wine-staging-8.8-ubuntu22.04-aarch64/wine-staging-8.8-ubuntu22.04-aarch64.7z"
     ],
     [
         "wine-lutris-GE-Proton8-7-x86_64",
-        "https://github.com/rain-gfd/wine-download/releases/download/wine-lutris-GE-Proton8-7-x86_64/wine-lutris-GE-Proton8-7-x86_64.7z"
+        "https://master.dl.sourceforge.net/project/deep-wine-runner-wine-download/wine-lutris-GE-Proton8-7-x86_64/wine-lutris-GE-Proton8-7-x86_64.7z"
     ],
     [
         "wine-lutris-ge-lol-8.7-1-x86_64",
-        "https://github.com/rain-gfd/wine-download/releases/download/wine-lutris-ge-lol-8.7-1-x86_64/wine-lutris-ge-lol-8.7-1-x86_64.7z"
+        "https://master.dl.sourceforge.net/project/deep-wine-runner-wine-download/wine-lutris-ge-lol-8.7-1-x86_64/wine-lutris-ge-lol-8.7-1-x86_64.7z"
     ],
     [
         "wine-staging-8.7-debian10-x86_64",
@@ -777,7 +777,7 @@
     ],
     [
         "wine-staging-8.7-debian10-amd64",
-        "https://github.com/rain-gfd/wine-download/releases/download/wine-staging-8.7-debian10-amd64/wine-staging-8.7-debian10-amd64.7z"
+        "https://master.dl.sourceforge.net/project/deep-wine-runner-wine-download/wine-staging-8.7-debian10-amd64/wine-staging-8.7-debian10-amd64.7z"
     ],
     [
         "wine-staging-8.7-debian10-i386",
@@ -785,227 +785,227 @@
     ],
     [
         "wine-ce-8.7-amd64",
-        "https://github.com/rain-gfd/wine-download/releases/download/wine-ce-8.7-amd64/wine-ce-8.7-amd64.7z"
+        "https://master.dl.sourceforge.net/project/deep-wine-runner-wine-download/wine-ce-8.7-amd64/wine-ce-8.7-amd64.7z"
     ],
     [
         "wine-ce-8.7-aarch64",
-        "https://github.com/rain-gfd/wine-download/releases/download/wine-ce-8.7-aarch64/wine-ce-8.7-aarch64.7z"
+        "https://master.dl.sourceforge.net/project/deep-wine-runner-wine-download/wine-ce-8.7-aarch64/wine-ce-8.7-aarch64.7z"
     ],
     [
         "wine-staging-8.6-debian10-x86_64",
-        "https://github.com/rain-gfd/wine-download/releases/download/wine-staging-8.6-debian10-x86_64/wine-staging-8.6-debian10-x86_64.7z"
+        "https://master.dl.sourceforge.net/project/deep-wine-runner-wine-download/wine-staging-8.6-debian10-x86_64/wine-staging-8.6-debian10-x86_64.7z"
     ],
     [
         "wine-staging-8.6-debian10-amd64",
-        "https://github.com/rain-gfd/wine-download/releases/download/wine-staging-8.6-debian10-amd64/wine-staging-8.6-debian10-amd64.7z"
+        "https://master.dl.sourceforge.net/project/deep-wine-runner-wine-download/wine-staging-8.6-debian10-amd64/wine-staging-8.6-debian10-amd64.7z"
     ],
     [
         "wine-staging-8.6-debian10-i386",
-        "https://github.com/rain-gfd/wine-download/releases/download/wine-staging-8.6-debian10-i386/wine-staging-8.6-debian10-i386.7z"
+        "https://master.dl.sourceforge.net/project/deep-wine-runner-wine-download/wine-staging-8.6-debian10-i386/wine-staging-8.6-debian10-i386.7z"
     ],
     [
         "wine-staging-8.6-ubuntu22.04-aarch64",
-        "https://github.com/rain-gfd/wine-download/releases/download/wine-staging-8.6-ubuntu22.04-aarch64/wine-staging-8.6-ubuntu22.04-aarch64.7z"
+        "https://master.dl.sourceforge.net/project/deep-wine-runner-wine-download/wine-staging-8.6-ubuntu22.04-aarch64/wine-staging-8.6-ubuntu22.04-aarch64.7z"
     ],
     [
         "wine-staging-8.5-debian10-x86_64",
-        "https://github.com/rain-gfd/wine-download/releases/download/wine-staging-8.5-debian10-x86_64/wine-staging-8.5-debian10-x86_64.7z"
+        "https://master.dl.sourceforge.net/project/deep-wine-runner-wine-download/wine-staging-8.5-debian10-x86_64/wine-staging-8.5-debian10-x86_64.7z"
     ],
     [
         "wine-staging-8.5-debian10-amd64",
-        "https://github.com/rain-gfd/wine-download/releases/download/wine-staging-8.5-debian10-amd64/wine-staging-8.5-debian10-amd64.7z"
+        "https://master.dl.sourceforge.net/project/deep-wine-runner-wine-download/wine-staging-8.5-debian10-amd64/wine-staging-8.5-debian10-amd64.7z"
     ],
     [
         "wine-staging-8.5-debian10-i386",
-        "https://github.com/rain-gfd/wine-download/releases/download/wine-staging-8.5-debian10-i386/wine-staging-8.5-debian10-i386.7z"
+        "https://master.dl.sourceforge.net/project/deep-wine-runner-wine-download/wine-staging-8.5-debian10-i386/wine-staging-8.5-debian10-i386.7z"
     ],
     [
         "wine-ce-8.5-aarch64",
-        "https://github.com/rain-gfd/wine-download/releases/download/wine-ce-8.5-aarch64/wine-ce-8.5-aarch64.7z"
+        "https://master.dl.sourceforge.net/project/deep-wine-runner-wine-download/wine-ce-8.5-aarch64/wine-ce-8.5-aarch64.7z"
     ],
     [
         "wine-ce-8.5-riscv64",
-        "https://github.com/rain-gfd/wine-download/releases/download/wine-ce-8.5-riscv64/wine-ce-8.5-riscv64.7z"
+        "https://master.dl.sourceforge.net/project/deep-wine-runner-wine-download/wine-ce-8.5-riscv64/wine-ce-8.5-riscv64.7z"
     ],
     [
         "wine-staging-8.4-debian10-x86_64",
-        "https://github.com/rain-gfd/wine-download/releases/download/wine-staging-8.4-debian10-x86_64/wine-staging-8.4-debian10-x86_64.7z"
+        "https://master.dl.sourceforge.net/project/deep-wine-runner-wine-download/wine-staging-8.4-debian10-x86_64/wine-staging-8.4-debian10-x86_64.7z"
     ],
     [
         "wine-staging-8.4-debian10-amd64",
-        "https://github.com/rain-gfd/wine-download/releases/download/wine-staging-8.4-debian10-amd64/wine-staging-8.4-debian10-amd64.7z"
+        "https://master.dl.sourceforge.net/project/deep-wine-runner-wine-download/wine-staging-8.4-debian10-amd64/wine-staging-8.4-debian10-amd64.7z"
     ],
     [
         "wine-staging-8.4-debian10-i386",
-        "https://github.com/rain-gfd/wine-download/releases/download/wine-staging-8.4-debian10-i386/wine-staging-8.4-debian10-i386.7z"
+        "https://master.dl.sourceforge.net/project/deep-wine-runner-wine-download/wine-staging-8.4-debian10-i386/wine-staging-8.4-debian10-i386.7z"
     ],
     [
         "wine-ce-8.4-riscv64",
-        "https://github.com/rain-gfd/wine-download/releases/download/wine-ce-8.4-riscv64/wine-ce-8.4-riscv64.7z"
+        "https://master.dl.sourceforge.net/project/deep-wine-runner-wine-download/wine-ce-8.4-riscv64/wine-ce-8.4-riscv64.7z"
     ],
     [
         "wine-staging-8.4-ubuntu20.04-aarch64",
-        "https://github.com/rain-gfd/wine-download/releases/download/wine-staging-8.4-ubuntu20.04-aarch64/wine-staging-8.4-ubuntu20.04-aarch64.7z"
+        "https://master.dl.sourceforge.net/project/deep-wine-runner-wine-download/wine-staging-8.4-ubuntu20.04-aarch64/wine-staging-8.4-ubuntu20.04-aarch64.7z"
     ],
     [
         "wine-staging-8.3",
-        "https://github.com/rain-gfd/wine-download/releases/download/wine-staging-8.3/wine-staging-8.3.7z"
+        "https://master.dl.sourceforge.net/project/deep-wine-runner-wine-download/wine-staging-8.3/wine-staging-8.3.7z"
     ],
     [
         "wine-staging-8.3-debian10-x86_64",
-        "https://github.com/rain-gfd/wine-download/releases/download/wine-staging-8.3-debian10-x86_64/wine-staging-8.3-debian10-x86_64.7z"
+        "https://master.dl.sourceforge.net/project/deep-wine-runner-wine-download/wine-staging-8.3-debian10-x86_64/wine-staging-8.3-debian10-x86_64.7z"
     ],
     [
         "wine-staging-8.3-debian10-i386",
-        "https://github.com/rain-gfd/wine-download/releases/download/wine-staging-8.3-debian10-i386/wine-staging-8.3-debian10-i386.7z"
+        "https://master.dl.sourceforge.net/project/deep-wine-runner-wine-download/wine-staging-8.3-debian10-i386/wine-staging-8.3-debian10-i386.7z"
     ],
     [
         "wine-staging-8.3-debian10-amd64",
-        "https://github.com/rain-gfd/wine-download/releases/download/wine-staging-8.3-debian10-amd64/wine-staging-8.3-debian10-amd64.7z"
+        "https://master.dl.sourceforge.net/project/deep-wine-runner-wine-download/wine-staging-8.3-debian10-amd64/wine-staging-8.3-debian10-amd64.7z"
     ],
     [
         "wine-staging-8.2",
-        "https://github.com/rain-gfd/wine-download/releases/download/wine-staging-8.2/wine-staging-8.2.7z"
+        "https://master.dl.sourceforge.net/project/deep-wine-runner-wine-download/wine-staging-8.2/wine-staging-8.2.7z"
     ],
     [
         "wine-devel-8.2",
-        "https://github.com/rain-gfd/wine-download/releases/download/wine-devel-8.2/wine-devel-8.2.7z"
+        "https://master.dl.sourceforge.net/project/deep-wine-runner-wine-download/wine-devel-8.2/wine-devel-8.2.7z"
     ],
     [
         "wine-staging-8.2-debian10-x86_64",
-        "https://github.com/rain-gfd/wine-download/releases/download/wine-staging-8.2-debian10-x86_64/wine-staging-8.2-debian10-x86_64.7z"
+        "https://master.dl.sourceforge.net/project/deep-wine-runner-wine-download/wine-staging-8.2-debian10-x86_64/wine-staging-8.2-debian10-x86_64.7z"
     ],
     [
         "wine-staging-8.2-debian10-amd64",
-        "https://github.com/rain-gfd/wine-download/releases/download/wine-staging-8.2-debian10-amd64/wine-staging-8.2-debian10-amd64.7z"
+        "https://master.dl.sourceforge.net/project/deep-wine-runner-wine-download/wine-staging-8.2-debian10-amd64/wine-staging-8.2-debian10-amd64.7z"
     ],
     [
         "wine-staging-8.2-debian10-i386",
-        "https://github.com/rain-gfd/wine-download/releases/download/wine-staging-8.2-debian10-i386/wine-staging-8.2-debian10-i386.7z"
+        "https://master.dl.sourceforge.net/project/deep-wine-runner-wine-download/wine-staging-8.2-debian10-i386/wine-staging-8.2-debian10-i386.7z"
     ],
     [
         "wine-staging-8.2-aarch64",
-        "https://github.com/rain-gfd/wine-download/releases/download/wine-staging-8.2-aarch64/wine-staging-8.2-aarch64.7z"
+        "https://master.dl.sourceforge.net/project/deep-wine-runner-wine-download/wine-staging-8.2-aarch64/wine-staging-8.2-aarch64.7z"
     ],
     [
         "wine-ce-8.2-riscv64",
-        "https://github.com/rain-gfd/wine-download/releases/download/wine-ce-8.2-riscv64/wine-ce-8.2-riscv64.7z"
+        "https://master.dl.sourceforge.net/project/deep-wine-runner-wine-download/wine-ce-8.2-riscv64/wine-ce-8.2-riscv64.7z"
     ],
     [
         "wine-ce-8.2-armhf",
-        "https://github.com/rain-gfd/wine-download/releases/download/wine-ce-8.2-armhf/wine-ce-8.2-armhf.7z"
+        "https://master.dl.sourceforge.net/project/deep-wine-runner-wine-download/wine-ce-8.2-armhf/wine-ce-8.2-armhf.7z"
     ],
     [
         "wine-staging-8.1",
-        "https://github.com/rain-gfd/wine-download/releases/download/wine-staging-8.1/wine-staging-8.1.7z"
+        "https://master.dl.sourceforge.net/project/deep-wine-runner-wine-download/wine-staging-8.1/wine-staging-8.1.7z"
     ],
     [
         "wine-staging-8.1-debian10-x86_64",
-        "https://github.com/rain-gfd/wine-download/releases/download/wine-staging-8.1-debian10-x86_64/wine-staging-8.1-debian10-x86_64.7z"
+        "https://master.dl.sourceforge.net/project/deep-wine-runner-wine-download/wine-staging-8.1-debian10-x86_64/wine-staging-8.1-debian10-x86_64.7z"
     ],
     [
         "wine-staging-8.1-debian10-amd64",
-        "https://github.com/rain-gfd/wine-download/releases/download/wine-staging-8.1-debian10-amd64/wine-staging-8.1-debian10-amd64.7z"
+        "https://master.dl.sourceforge.net/project/deep-wine-runner-wine-download/wine-staging-8.1-debian10-amd64/wine-staging-8.1-debian10-amd64.7z"
     ],
     [
         "wine-staging-8.1-debian10-i386",
-        "https://github.com/rain-gfd/wine-download/releases/download/wine-staging-8.1-debian10-i386/wine-staging-8.1-debian10-i386.7z"
+        "https://master.dl.sourceforge.net/project/deep-wine-runner-wine-download/wine-staging-8.1-debian10-i386/wine-staging-8.1-debian10-i386.7z"
     ],
     [
         "wine-ce-8.1-armhf",
-        "https://github.com/rain-gfd/wine-download/releases/download/wine-ce-8.1-armhf/wine-ce-8.1-armhf.7z"
+        "https://master.dl.sourceforge.net/project/deep-wine-runner-wine-download/wine-ce-8.1-armhf/wine-ce-8.1-armhf.7z"
     ],
     [
         "wine-staging-8.1-ubuntu20.04-aarch64",
-        "https://github.com/rain-gfd/wine-download/releases/download/wine-staging-8.1-ubuntu20.04-aarch64/wine-staging-8.1-ubuntu20.04-aarch64.7z"
+        "https://master.dl.sourceforge.net/project/deep-wine-runner-wine-download/wine-staging-8.1-ubuntu20.04-aarch64/wine-staging-8.1-ubuntu20.04-aarch64.7z"
     ],
     [
         "wine-stable-8.0-debian10-x86_64",
-        "https://github.com/rain-gfd/wine-download/releases/download/wine-stable-8.0-debian10-x86_64/wine-stable-8.0-debian10-x86_64.7z"
+        "https://master.dl.sourceforge.net/project/deep-wine-runner-wine-download/wine-stable-8.0-debian10-x86_64/wine-stable-8.0-debian10-x86_64.7z"
     ],
     [
         "wine-stable-8.0-debian10-amd64",
-        "https://github.com/rain-gfd/wine-download/releases/download/wine-stable-8.0-debian10-amd64/wine-stable-8.0-debian10-amd64.7z"
+        "https://master.dl.sourceforge.net/project/deep-wine-runner-wine-download/wine-stable-8.0-debian10-amd64/wine-stable-8.0-debian10-amd64.7z"
     ],
     [
         "wine-stable-8.0-debian10-i386",
-        "https://github.com/rain-gfd/wine-download/releases/download/wine-stable-8.0-debian10-i386/wine-stable-8.0-debian10-i386.7z"
+        "https://master.dl.sourceforge.net/project/deep-wine-runner-wine-download/wine-stable-8.0-debian10-i386/wine-stable-8.0-debian10-i386.7z"
     ],
     [
         "wine-ce-8.0-armhf",
-        "https://github.com/rain-gfd/wine-download/releases/download/wine-ce-8.0-armhf/wine-ce-8.0-armhf.7z"
+        "https://master.dl.sourceforge.net/project/deep-wine-runner-wine-download/wine-ce-8.0-armhf/wine-ce-8.0-armhf.7z"
     ],
     [
         "wine-staging-8.0-rc5",
-        "https://github.com/rain-gfd/wine-download/releases/download/wine-staging-8.0-rc5/wine-staging-8.0-rc5.7z"
+        "https://master.dl.sourceforge.net/project/deep-wine-runner-wine-download/wine-staging-8.0-rc5/wine-staging-8.0-rc5.7z"
     ],
     [
         "wine-devel-8.0-rc5",
-        "https://github.com/rain-gfd/wine-download/releases/download/wine-devel-8.0-rc5/wine-devel-8.0-rc5.7z"
+        "https://master.dl.sourceforge.net/project/deep-wine-runner-wine-download/wine-devel-8.0-rc5/wine-devel-8.0-rc5.7z"
     ],
     [
         "wine-staging-8.0-rc5-debian10-x86_64",
-        "https://github.com/rain-gfd/wine-download/releases/download/wine-staging-8.0-rc5-debian10-x86_64/wine-staging-8.0-rc5-debian10-x86_64.7z"
+        "https://master.dl.sourceforge.net/project/deep-wine-runner-wine-download/wine-staging-8.0-rc5-debian10-x86_64/wine-staging-8.0-rc5-debian10-x86_64.7z"
     ],
     [
         "wine-staging-8.0-rc5-debian10-amd64",
-        "https://github.com/rain-gfd/wine-download/releases/download/wine-staging-8.0-rc5-debian10-amd64/wine-staging-8.0-rc5-debian10-amd64.7z"
+        "https://master.dl.sourceforge.net/project/deep-wine-runner-wine-download/wine-staging-8.0-rc5-debian10-amd64/wine-staging-8.0-rc5-debian10-amd64.7z"
     ],
     [
         "wine-staging-8.0-rc5-debian10-i386",
-        "https://github.com/rain-gfd/wine-download/releases/download/wine-staging-8.0-rc5-debian10-i386/wine-staging-8.0-rc5-debian10-i386.7z"
+        "https://master.dl.sourceforge.net/project/deep-wine-runner-wine-download/wine-staging-8.0-rc5-debian10-i386/wine-staging-8.0-rc5-debian10-i386.7z"
     ],
     [
         "wine-staging-8.0-rc5-ubuntu20.04-aarch64",
-        "https://github.com/rain-gfd/wine-download/releases/download/wine-staging-8.0-rc5-ubuntu20.04-aarch64/wine-staging-8.0-rc5-ubuntu20.04-aarch64.7z"
+        "https://master.dl.sourceforge.net/project/deep-wine-runner-wine-download/wine-staging-8.0-rc5-ubuntu20.04-aarch64/wine-staging-8.0-rc5-ubuntu20.04-aarch64.7z"
     ],
     [
         "wine-staging-8.0-rc5-debian10-armv71",
-        "https://github.com/rain-gfd/wine-download/releases/download/wine-staging-8.0-rc5-debian10-armv71/wine-staging-8.0-rc5-debian10-armv71.7z"
+        "https://master.dl.sourceforge.net/project/deep-wine-runner-wine-download/wine-staging-8.0-rc5-debian10-armv71/wine-staging-8.0-rc5-debian10-armv71.7z"
     ],
     [
         "wine-ce-8.0-rc5-armhf",
-        "https://github.com/rain-gfd/wine-download/releases/download/wine-ce-8.0-rc5-armhf/wine-ce-8.0-rc5-armhf.7z"
+        "https://master.dl.sourceforge.net/project/deep-wine-runner-wine-download/wine-ce-8.0-rc5-armhf/wine-ce-8.0-rc5-armhf.7z"
     ],
     [
         "wine-staging-8.0-rc4",
-        "https://github.com/rain-gfd/wine-download/releases/download/wine-staging-8.0-rc4/wine-staging-8.0-rc4.7z"
+        "https://master.dl.sourceforge.net/project/deep-wine-runner-wine-download/wine-staging-8.0-rc4/wine-staging-8.0-rc4.7z"
     ],
     [
         "wine-devel-8.0-rc4",
-        "https://github.com/rain-gfd/wine-download/releases/download/wine-devel-8.0-rc4/wine-devel-8.0-rc4.7z"
+        "https://master.dl.sourceforge.net/project/deep-wine-runner-wine-download/wine-devel-8.0-rc4/wine-devel-8.0-rc4.7z"
     ],
     [
         "wine-staging-8.0-rc4-debian10-x86_64",
-        "https://github.com/rain-gfd/wine-download/releases/download/wine-staging-8.0-rc4-debian10-x86_64/wine-staging-8.0-rc4-debian10-x86_64.7z"
+        "https://master.dl.sourceforge.net/project/deep-wine-runner-wine-download/wine-staging-8.0-rc4-debian10-x86_64/wine-staging-8.0-rc4-debian10-x86_64.7z"
     ],
     [
         "wine-staging-8.0-rc4-debian10-i386",
-        "https://github.com/rain-gfd/wine-download/releases/download/wine-staging-8.0-rc4-debian10-i386/wine-staging-8.0-rc4-debian10-i386.7z"
+        "https://master.dl.sourceforge.net/project/deep-wine-runner-wine-download/wine-staging-8.0-rc4-debian10-i386/wine-staging-8.0-rc4-debian10-i386.7z"
     ],
     [
         "wine-staging-8.0-rc4-debian10-amd64",
-        "https://github.com/rain-gfd/wine-download/releases/download/wine-staging-8.0-rc4-debian10-amd64/wine-staging-8.0-rc4-debian10-amd64.7z"
+        "https://master.dl.sourceforge.net/project/deep-wine-runner-wine-download/wine-staging-8.0-rc4-debian10-amd64/wine-staging-8.0-rc4-debian10-amd64.7z"
     ],
     [
         "wine-ce-8.0-rc4-armhf",
-        "https://github.com/rain-gfd/wine-download/releases/download/wine-ce-8.0-rc4-armhf/wine-ce-8.0-rc4-armhf.7z"
+        "https://master.dl.sourceforge.net/project/deep-wine-runner-wine-download/wine-ce-8.0-rc4-armhf/wine-ce-8.0-rc4-armhf.7z"
     ],
     [
         "wine-staging-8.0-rc3-debian10-x86_64",
-        "https://github.com/rain-gfd/wine-download/releases/download/wine-staging-8.0-rc3/wine-staging-8.0-rc3.7z"
+        "https://master.dl.sourceforge.net/project/deep-wine-runner-wine-download/wine-staging-8.0-rc3/wine-staging-8.0-rc3.7z"
     ],
     [
         "lutris-fshack-7.2",
-        "https://github.com/rain-gfd/wine-download/releases/download/lutris-fshack-7.2/lutris-fshack-7.2.7z"
+        "https://master.dl.sourceforge.net/project/deep-wine-runner-wine-download/lutris-fshack-7.2/lutris-fshack-7.2.7z"
     ],
     [
         "wine-staging-8.0-rc2-debian10-x86_64",
-        "https://github.com/rain-gfd/wine-download/releases/download/wine-staging-8.0-rc2/wine-staging-8.0-rc2.7z"
+        "https://master.dl.sourceforge.net/project/deep-wine-runner-wine-download/wine-staging-8.0-rc2/wine-staging-8.0-rc2.7z"
     ],
     [
         "wine-staging-8.0-rc1-debian10-x86_64",
-        "https://github.com/rain-gfd/wine-download/releases/download/wine-staging-8.0-rc1/wine-staging-8.0-rc1.7z"
+        "https://master.dl.sourceforge.net/project/deep-wine-runner-wine-download/wine-staging-8.0-rc1/wine-staging-8.0-rc1.7z"
     ],
     [
         "wine-stable-7.0.2-debian10-x86_64",
@@ -1013,23 +1013,23 @@
     ],
     [
         "wine-staging-wow64-7.0.2-debian10-amd64",
-        "https://github.com/rain-gfd/wine-download/releases/download/wine-staging-wow64-7.0.2-debian10-amd64/wine-staging-wow64-7.0.2-debian10-amd64.7z"
+        "https://master.dl.sourceforge.net/project/deep-wine-runner-wine-download/wine-staging-wow64-7.0.2-debian10-amd64/wine-staging-wow64-7.0.2-debian10-amd64.7z"
     ],
     [
         "wine-stable-7.0.2-debian10-amd64",
-        "https://github.com/rain-gfd/wine-download/releases/download/wine-stable-7.0.2-debian10-amd64/wine-stable-7.0.2-debian10-amd64.7z"
+        "https://master.dl.sourceforge.net/project/deep-wine-runner-wine-download/wine-stable-7.0.2-debian10-amd64/wine-stable-7.0.2-debian10-amd64.7z"
     ],
     [
         "wine-stable-7.0.2-debian10-i386",
-        "https://github.com/rain-gfd/wine-download/releases/download/wine-stable-7.0.2-debian10-i386/wine-stable-7.0.2-debian10-i386.7z"
+        "https://master.dl.sourceforge.net/project/deep-wine-runner-wine-download/wine-stable-7.0.2-debian10-i386/wine-stable-7.0.2-debian10-i386.7z"
     ],
     [
         "wine-stable-7.0.1",
-        "https://github.com/rain-gfd/wine-download/releases/download/wine-stable-7.0.1/wine-stable-7.0.1.7z"
+        "https://master.dl.sourceforge.net/project/deep-wine-runner-wine-download/wine-stable-7.0.1/wine-stable-7.0.1.7z"
     ],
     [
         "wine-stable-7.0",
-        "https://github.com/rain-gfd/wine-download/releases/download/wine-stable-7.0/wine-stable-7.0.7z"
+        "https://master.dl.sourceforge.net/project/deep-wine-runner-wine-download/wine-stable-7.0/wine-stable-7.0.7z"
     ],
     [
         "wine-staging-7.22",
@@ -1037,95 +1037,95 @@
     ],
     [
         "wine-staging-7.22-debian10-x86_64",
-        "https://github.com/rain-gfd/wine-download/releases/download/wine-staging-7.22-debian10/wine-staging-7.22-debian10.7z"
+        "https://master.dl.sourceforge.net/project/deep-wine-runner-wine-download/wine-staging-7.22-debian10/wine-staging-7.22-debian10.7z"
     ],
     [
         "wine-staging-7.22-debian10-i386",
-        "https://github.com/rain-gfd/wine-download/releases/download/wine-staging-7.22-debian10-i386/wine-staging-7.22-debian10-i386.7z"
+        "https://master.dl.sourceforge.net/project/deep-wine-runner-wine-download/wine-staging-7.22-debian10-i386/wine-staging-7.22-debian10-i386.7z"
     ],
     [
         "wine-devel-7.22-debian10-x86_64",
-        "https://github.com/rain-gfd/wine-download/releases/download/wine-devel-7.22-debian10-x86_64/wine-devel-7.22-debian10-x86_64.7z"
+        "https://master.dl.sourceforge.net/project/deep-wine-runner-wine-download/wine-devel-7.22-debian10-x86_64/wine-devel-7.22-debian10-x86_64.7z"
     ],
     [
         "wine-staging-7.21",
-        "https://github.com/rain-gfd/wine-download/releases/download/wine-staging-7.21/wine-staging-7.21.7z"
+        "https://master.dl.sourceforge.net/project/deep-wine-runner-wine-download/wine-staging-7.21/wine-staging-7.21.7z"
     ],
     [
         "wine-staging-7.21-debian10",
-        "https://github.com/rain-gfd/wine-download/releases/download/wine-staging-7.21-debian10/wine-staging-7.21-debian10.7z"
+        "https://master.dl.sourceforge.net/project/deep-wine-runner-wine-download/wine-staging-7.21-debian10/wine-staging-7.21-debian10.7z"
     ],
     [
         "wine-staging-7.20",
-        "https://github.com/rain-gfd/wine-download/releases/download/wine-staging-7.20/wine-staging-7.20.7z"
+        "https://master.dl.sourceforge.net/project/deep-wine-runner-wine-download/wine-staging-7.20/wine-staging-7.20.7z"
     ],
     [
         "wine-staging-7.19",
-        "https://github.com/rain-gfd/wine-download/releases/download/wine-staging-7.19/wine-staging-7.19.7z"
+        "https://master.dl.sourceforge.net/project/deep-wine-runner-wine-download/wine-staging-7.19/wine-staging-7.19.7z"
     ],
     [
         "wine-staging-7.19-debian10-x86_64",
-        "https://github.com/rain-gfd/wine-download/releases/download/wine-staging-7.19-debian10-x86_64/wine-staging-7.19-debian10-x86_64.7z"
+        "https://master.dl.sourceforge.net/project/deep-wine-runner-wine-download/wine-staging-7.19-debian10-x86_64/wine-staging-7.19-debian10-x86_64.7z"
     ],
     [
         "wine-staging-7.18",
-        "https://github.com/rain-gfd/wine-download/releases/download/wine-staging-7.18/wine-staging-7.18.7z"
+        "https://master.dl.sourceforge.net/project/deep-wine-runner-wine-download/wine-staging-7.18/wine-staging-7.18.7z"
     ],
     [
         "wine-staging-7.18-debian10-x86_64",
-        "https://github.com/rain-gfd/wine-download/releases/download/wine-staging-7.18-debian10-x86_64/wine-staging-7.18-debian10-x86_64.7z"
+        "https://master.dl.sourceforge.net/project/deep-wine-runner-wine-download/wine-staging-7.18-debian10-x86_64/wine-staging-7.18-debian10-x86_64.7z"
     ],
     [
         "wine-staging-7.17",
-        "https://github.com/rain-gfd/wine-download/releases/download/wine-staging-7.17/wine-staging-7.17.7z"
+        "https://master.dl.sourceforge.net/project/deep-wine-runner-wine-download/wine-staging-7.17/wine-staging-7.17.7z"
     ],
     [
         "wine-devel-7.17",
-        "https://github.com/rain-gfd/wine-download/releases/download/wine-devel-7.17/wine-devel-7.17.7z"
+        "https://master.dl.sourceforge.net/project/deep-wine-runner-wine-download/wine-devel-7.17/wine-devel-7.17.7z"
     ],
     [
         "spark-wine7-devel-7.17~spark-1",
-        "https://github.com/rain-gfd/wine-download/releases/download/spark-wine7-devel-7.17~spark-1/spark-wine7-devel-7.17~spark-1.7z"
+        "https://master.dl.sourceforge.net/project/deep-wine-runner-wine-download/spark-wine7-devel-7.17~spark-1/spark-wine7-devel-7.17~spark-1.7z"
     ],
     [
         "spark-wine7-devel-7.17",
-        "https://github.com/rain-gfd/wine-download/releases/download/spark-wine7-devel-7.17/spark-wine7-devel-7.17.7z"
+        "https://master.dl.sourceforge.net/project/deep-wine-runner-wine-download/spark-wine7-devel-7.17/spark-wine7-devel-7.17.7z"
     ],
     [
         "wine-staging-7.16",
-        "https://github.com/rain-gfd/wine-download/releases/download/wine-staging-7.16/wine-staging-7.16.7z"
+        "https://master.dl.sourceforge.net/project/deep-wine-runner-wine-download/wine-staging-7.16/wine-staging-7.16.7z"
     ],
     [
         "wine-devel-7.15",
-        "https://github.com/rain-gfd/wine-download/releases/download/wine-devel-7.15/wine-devel-7.15.7z"
+        "https://master.dl.sourceforge.net/project/deep-wine-runner-wine-download/wine-devel-7.15/wine-devel-7.15.7z"
     ],
     [
         "wine-staging-7.15",
-        "https://github.com/rain-gfd/wine-download/releases/download/wine-staging-7.15/wine-staging-7.15.7z"
+        "https://master.dl.sourceforge.net/project/deep-wine-runner-wine-download/wine-staging-7.15/wine-staging-7.15.7z"
     ],
     [
         "spark-wine7-devel-7.14",
-        "https://github.com/rain-gfd/wine-download/releases/download/spark-wine7-devel-7.14/spark-wine7-devel-7.14.7z"
+        "https://master.dl.sourceforge.net/project/deep-wine-runner-wine-download/spark-wine7-devel-7.14/spark-wine7-devel-7.14.7z"
     ],
     [
         "wine-devel-7.12",
-        "https://github.com/rain-gfd/wine-download/releases/download/wine-devel-7.12/wine-devel-7.12.7z"
+        "https://master.dl.sourceforge.net/project/deep-wine-runner-wine-download/wine-devel-7.12/wine-devel-7.12.7z"
     ],
     [
         "wine-devel-7.5",
-        "https://github.com/rain-gfd/wine-download/releases/download/wine-devel-7.5/wine-devel-7.5.7z"
+        "https://master.dl.sourceforge.net/project/deep-wine-runner-wine-download/wine-devel-7.5/wine-devel-7.5.7z"
     ],
     [
         "wine-staging-7.4",
-        "https://github.com/rain-gfd/wine-download/releases/download/wine-staging-7.4/wine-staging-7.4.7z"
+        "https://master.dl.sourceforge.net/project/deep-wine-runner-wine-download/wine-staging-7.4/wine-staging-7.4.7z"
     ],
     [
         "wine-staging-7.2",
-        "https://github.com/rain-gfd/wine-download/releases/download/wine-staging-7.2/wine-staging-7.2.7z"
+        "https://master.dl.sourceforge.net/project/deep-wine-runner-wine-download/wine-staging-7.2/wine-staging-7.2.7z"
     ],
     [
         "wine-staging-7.0",
-        "https://github.com/rain-gfd/wine-download/releases/download/wine-staging-7.0/wine-staging-7.0.7z"
+        "https://master.dl.sourceforge.net/project/deep-wine-runner-wine-download/wine-staging-7.0/wine-staging-7.0.7z"
     ],
     [
         "deepin-wine6-stable",
@@ -1133,15 +1133,15 @@
     ],
     [
         "wine-lutris-ge-6.12-x86_64",
-        "https://github.com/rain-gfd/wine-download/releases/download/wine-lutris-ge-6.12-x86_64/wine-lutris-ge-6.12-x86_64.7z"
+        "https://master.dl.sourceforge.net/project/deep-wine-runner-wine-download/wine-lutris-ge-6.12-x86_64/wine-lutris-ge-6.12-x86_64.7z"
     ],
     [
         "wine-lutris-ge-6.9-x86_64",
-        "https://github.com/rain-gfd/wine-download/releases/download/wine-lutris-ge-6.9-x86_64/wine-lutris-ge-6.9-x86_64.7z"
+        "https://master.dl.sourceforge.net/project/deep-wine-runner-wine-download/wine-lutris-ge-6.9-x86_64/wine-lutris-ge-6.9-x86_64.7z"
     ],
     [
         "lutris-6.4-i386",
-        "https://github.com/rain-gfd/wine-download/releases/download/lutris-6.4-i386/lutris-6.4-i386.7z"
+        "https://master.dl.sourceforge.net/project/deep-wine-runner-wine-download/lutris-6.4-i386/lutris-6.4-i386.7z"
     ],
     [
         "wine-stable-6.0.4",
@@ -1149,23 +1149,23 @@
     ],
     [
         "wine-staging-6.18",
-        "https://github.com/rain-gfd/wine-download/releases/download/wine-staging-6.18/wine-staging-6.18.7z"
+        "https://master.dl.sourceforge.net/project/deep-wine-runner-wine-download/wine-staging-6.18/wine-staging-6.18.7z"
     ],
     [
         "wine-staging-6.7",
-        "https://github.com/rain-gfd/wine-download/releases/download/wine-staging-6.7/wine-staging-6.7.7z"
+        "https://master.dl.sourceforge.net/project/deep-wine-runner-wine-download/wine-staging-6.7/wine-staging-6.7.7z"
     ],
     [
         "wine-staging-6.1",
-        "https://github.com/rain-gfd/wine-download/releases/download/wine-staging-6.1/wine-staging-6.1.7z"
+        "https://master.dl.sourceforge.net/project/deep-wine-runner-wine-download/wine-staging-6.1/wine-staging-6.1.7z"
     ],
     [
         "wine-staging-6.0-amd64",
-        "https://github.com/rain-gfd/wine-download/releases/download/wine-staging-6.0-amd64/wine-staging-6.0-amd64.7z"
+        "https://master.dl.sourceforge.net/project/deep-wine-runner-wine-download/wine-staging-6.0-amd64/wine-staging-6.0-amd64.7z"
     ],
     [
         "deepin-wine5-stable",
-        "https://github.com/rain-gfd/wine-download/releases/download/deepin-wine5-stable/deepin-wine5-stable.7z"
+        "https://master.dl.sourceforge.net/project/deep-wine-runner-wine-download/deepin-wine5-stable/deepin-wine5-stable.7z"
     ],
     [
         "wine-stable-5.0.4",
@@ -1177,35 +1177,35 @@
     ],
     [
         "proton-5.0-debian10-amd64",
-        "https://github.com/rain-gfd/wine-download/releases/download/proton-5.0-debian10-amd64/proton-5.0-debian10-amd64.7z"
+        "https://master.dl.sourceforge.net/project/deep-wine-runner-wine-download/proton-5.0-debian10-amd64/proton-5.0-debian10-amd64.7z"
     ],
     [
         "proton-5.0-debian10-i386",
-        "https://github.com/rain-gfd/wine-download/releases/download/proton-5.0-debian10-i386/proton-5.0-debian10-i386.7z"
+        "https://master.dl.sourceforge.net/project/deep-wine-runner-wine-download/proton-5.0-debian10-i386/proton-5.0-debian10-i386.7z"
     ],
     [
         "wine-staging-5.22",
-        "https://github.com/rain-gfd/wine-download/releases/download/wine-staging-5.22/wine-staging-5.22.7z"
+        "https://master.dl.sourceforge.net/project/deep-wine-runner-wine-download/wine-staging-5.22/wine-staging-5.22.7z"
     ],
     [
         "wine-staging-5.1",
-        "https://github.com/rain-gfd/wine-download/releases/download/wine-staging-5.1/wine-staging-5.1.7z"
+        "https://master.dl.sourceforge.net/project/deep-wine-runner-wine-download/wine-staging-5.1/wine-staging-5.1.7z"
     ],
     [
         "wine-staging-5.0-rc4-amd64",
-        "https://github.com/rain-gfd/wine-download/releases/download/wine-staging-5.0-rc4-amd64/wine-staging-5.0-rc4-amd64.7z"
+        "https://master.dl.sourceforge.net/project/deep-wine-runner-wine-download/wine-staging-5.0-rc4-amd64/wine-staging-5.0-rc4-amd64.7z"
     ],
     [
         "wine-staging-5.0-rc4",
-        "https://github.com/rain-gfd/wine-download/releases/download/wine-staging-5.0-rc4/wine-staging-5.0-rc4.7z"
+        "https://master.dl.sourceforge.net/project/deep-wine-runner-wine-download/wine-staging-5.0-rc4/wine-staging-5.0-rc4.7z"
     ],
     [
         "Proton-4.6-GE-1",
-        "https://github.com/rain-gfd/wine-download/releases/download/Proton-4.6-GE-1/Proton-4.6-GE-1.7z"
+        "https://master.dl.sourceforge.net/project/deep-wine-runner-wine-download/Proton-4.6-GE-1/Proton-4.6-GE-1.7z"
     ],
     [
         "Proton-4.5-GE-Beta-1",
-        "https://github.com/rain-gfd/wine-download/releases/download/Proton-4.5-GE-Beta-1/Proton-4.5-GE-Beta-1.7z"
+        "https://master.dl.sourceforge.net/project/deep-wine-runner-wine-download/Proton-4.5-GE-Beta-1/Proton-4.5-GE-Beta-1.7z"
     ],
     [
         "wine-stable-4.0.4",
@@ -1213,11 +1213,11 @@
     ],
     [
         "proton-4.2-i386",
-        "https://github.com/rain-gfd/wine-download/releases/download/proton-4.2-i386/proton-4.2-i386.7z"
+        "https://master.dl.sourceforge.net/project/deep-wine-runner-wine-download/proton-4.2-i386/proton-4.2-i386.7z"
     ],
     [
         "wine-staging-4.21",
-        "https://github.com/rain-gfd/wine-download/releases/download/wine-staging-4.21/wine-staging-4.21.7z"
+        "https://master.dl.sourceforge.net/project/deep-wine-runner-wine-download/wine-staging-4.21/wine-staging-4.21.7z"
     ],
     [
         "wine-stable-3.0.5",
@@ -1225,58 +1225,58 @@
     ],
     [
         "wine-stable-3.0.5-debian10-amd64",
-        "https://github.com/rain-gfd/wine-download/releases/download/wine-stable-3.0.5-debian10-amd64/wine-stable-3.0.5-debian10-amd64.7z"
+        "https://master.dl.sourceforge.net/project/deep-wine-runner-wine-download/wine-stable-3.0.5-debian10-amd64/wine-stable-3.0.5-debian10-amd64.7z"
     ],
     [
         "proton-3.16-amd64",
-        "https://github.com/rain-gfd/wine-download/releases/download/proton-3.16-amd64/proton-3.16-amd64.7z"
+        "https://master.dl.sourceforge.net/project/deep-wine-runner-wine-download/proton-3.16-amd64/proton-3.16-amd64.7z"
     ],
     [
         "proton-3.16-i386",
-        "https://github.com/rain-gfd/wine-download/releases/download/proton-3.16-i386/proton-3.16-i386.7z"
+        "https://master.dl.sourceforge.net/project/deep-wine-runner-wine-download/proton-3.16-i386/proton-3.16-i386.7z"
     ],
     [
         "proton-3.7-i386",
-        "https://github.com/rain-gfd/wine-download/releases/download/proton-3.7-i386/proton-3.7-i386.7z"
+        "https://master.dl.sourceforge.net/project/deep-wine-runner-wine-download/proton-3.7-i386/proton-3.7-i386.7z"
     ],
     [
         "wine-staging-3.21",
-        "https://github.com/rain-gfd/wine-download/releases/download/wine-staging-3.21/wine-staging-3.21.7z"
+        "https://master.dl.sourceforge.net/project/deep-wine-runner-wine-download/wine-staging-3.21/wine-staging-3.21.7z"
     ],
     [
         "wine-staging-3.1",
-        "https://github.com/rain-gfd/wine-download/releases/download/wine-staging-3.1/wine-staging-3.1.7z"
+        "https://master.dl.sourceforge.net/project/deep-wine-runner-wine-download/wine-staging-3.1/wine-staging-3.1.7z"
     ],
     [
         "wine-staging-2.22",
-        "https://github.com/rain-gfd/wine-download/releases/download/wine-staging-2.22/wine-staging-2.22.7z"
+        "https://master.dl.sourceforge.net/project/deep-wine-runner-wine-download/wine-staging-2.22/wine-staging-2.22.7z"
     ],
     [
         "wine-staging-2.18-amd64",
-        "https://github.com/rain-gfd/wine-download/releases/download/wine-staging-2.18-amd64/wine-staging-2.18-amd64.7z"
+        "https://master.dl.sourceforge.net/project/deep-wine-runner-wine-download/wine-staging-2.18-amd64/wine-staging-2.18-amd64.7z"
     ],
     [
         "wine-staging-2.18",
-        "https://github.com/rain-gfd/wine-download/releases/download/wine-staging-2.18/wine-staging-2.18.7z"
+        "https://master.dl.sourceforge.net/project/deep-wine-runner-wine-download/wine-staging-2.18/wine-staging-2.18.7z"
     ],
     [
         "wine-0.9.29-i386",
-        "https://github.com/rain-gfd/wine-download/releases/download/wine-staging-0.9.29-i386/wine-staging-0.9.29-i386.7z"
+        "https://master.dl.sourceforge.net/project/deep-wine-runner-wine-download/wine-staging-0.9.29-i386/wine-staging-0.9.29-i386.7z"
     ],
     [
         "wine-staging-7.19-debian10-amd64-demo",
-        "https://github.com/rain-gfd/wine-download/releases/download/wine-staging-7.19-debian10-amd64-demo/wine-staging-7.19-debian10-amd64-demo.7z"
+        "https://master.dl.sourceforge.net/project/deep-wine-runner-wine-download/wine-staging-7.19-debian10-amd64-demo/wine-staging-7.19-debian10-amd64-demo.7z"
     ],
     [
         "wine-staging-7.18-debian10-amd64",
-        "https://github.com/rain-gfd/wine-download/releases/download/wine-staging-7.18-debian10-amd64/wine-staging-7.18-debian10-amd64.7z"
+        "https://master.dl.sourceforge.net/project/deep-wine-runner-wine-download/wine-staging-7.18-debian10-amd64/wine-staging-7.18-debian10-amd64.7z"
     ],
     [
         "wine-staging-7.18-debian10",
-        "https://github.com/rain-gfd/wine-download/releases/download/wine-staging-7.18-debian10/wine-staging-7.18-debian10.7z"
+        "https://master.dl.sourceforge.net/project/deep-wine-runner-wine-download/wine-staging-7.18-debian10/wine-staging-7.18-debian10.7z"
     ],
     [
         "wine-staging-7.18-demo",
-        "https://github.com/rain-gfd/wine-download/releases/download/wine-staging-7.18-demo/wine-staging-7.18-demo.7z"
+        "https://master.dl.sourceforge.net/project/deep-wine-runner-wine-download/wine-staging-7.18-demo/wine-staging-7.18-demo.7z"
     ]
 ]
