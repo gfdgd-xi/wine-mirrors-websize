@@ -28,6 +28,10 @@
         "http://gfdgdxi.v5.idcfengye.com/wine-building/wine-daily-ubuntu22.04-aarch64.7z"
     ],
     [
+        "deepin-wine8-stable-8.16-deepin13-amd64",
+        "http://gfdgdxi.v5.idcfengye.com/spark-deepin-wine-runner/data/wine/deepin-wine8-stable-8.16-deepin13-amd64.7z"
+    ],
+    [
         "GE-Proton8.30",
         "http://gfdgdxi.v5.idcfengye.com/spark-deepin-wine-runner/data/wine/GE-Proton8.30.7z"
     ],
