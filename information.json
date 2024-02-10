@@ -28,6 +28,10 @@
         "http://gfdgdxi.v5.idcfengye.com/wine-building/wine-daily-ubuntu22.04-aarch64.7z"
     ],
     [
+        "wine-staging-9.2-debian10-i386",
+        "http://gfdgdxi.v5.idcfengye.com/spark-deepin-wine-runner/data/wine/wine-staging-9.2-debian10-i386.7z"
+    ],
+    [
         "deepin-wine8-stable-8.16-deepin13-amd64",
         "http://gfdgdxi.v5.idcfengye.com/spark-deepin-wine-runner/data/wine/deepin-wine8-stable-8.16-deepin13-amd64.7z"
     ],

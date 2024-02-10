@@ -28,6 +28,10 @@
         "https://sourceforge.net/projects/deep-wine-runner-wine-download/files/wine-staging-wow64-9.1-debian10-amd64.7z/download"
     ],
     [
+        "wine-staging-9.2-debian10-i386",
+        "https://sourceforge.net/projects/deep-wine-runner-wine-download/files/wine-staging-9.2-debian10-i386.7z/download"
+    ],
+    [
         "deepin-wine8-stable-8.16-deepin13-amd64",
         "https://sourceforge.net/projects/deep-wine-runner-wine-download/files/deepin-wine8-stable-8.16-deepin13-amd64.7z/download"
     ],
