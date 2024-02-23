@@ -28,6 +28,10 @@
         "http://gfdgdxi.v5.idcfengye.com/wine-building/wine-daily-ubuntu22.04-aarch64.7z"
     ],
     [
+        "spark-wine9-9.1-spark-0",
+        "http://gfdgdxi.v5.idcfengye.com/spark-deepin-wine-runner/data/wine/spark-wine9-9.1-spark-0.7z"
+    ],
+    [
         "GE-Proton8.31",
         "http://gfdgdxi.v5.idcfengye.com/spark-deepin-wine-runner/data/wine/GE-Proton8.31.7z"
     ],
