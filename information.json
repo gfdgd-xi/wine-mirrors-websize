@@ -1,147 +1,143 @@
 [
     [
-        "+ 对于非 X86 且安装了二进制兼容层（如 Box86/64、exagear、qemu、lat），应当下载 x86 架构的 wine",
+        "+ You should download x86 wine if you have installed x86 emulator such as box86/box64, exagear, lat, qemu and so on",
         "https://master.dl.sourceforge.net/project/deep-wine-runner-wine-download/egg/egg.7z"
     ],
     [
-        "+ Arm wine 只能运行 arm exe（wine ce 属于例外）",
+        "+ Arm wine only run arm exe but arm/riscv64 wine-ce can run i386 exe",
         "https://master.dl.sourceforge.net/project/deep-wine-runner-wine-download/egg/egg.7z"
     ],
     [
-        "（日更，不稳定）wine-daily-debian10-x86_64",
+        "(Daily, Unstable) wine-daily-debian10-x86_64",
         "http://120.25.153.144:2345/wine-building/wine-daily-debian10-x86_64.7z"
     ],
     [
-        "（日更，不稳定）wine-wow64-daily-debian10-amd64",
+        "(Daily, Unstable) wine-wow64-daily-debian10-amd64",
         "http://120.25.153.144:2345/wine-building/wine-wow64-daily-debian10-amd64.7z"
     ],
     [
-        "（日更，不稳定）wine-daily-debian10-amd64",
+        "(Daily, Unstable) wine-daily-debian10-amd64",
         "http://120.25.153.144:2345/wine-building/wine-daily-debian10-amd64.7z"
     ],
     [
-        "（日更，不稳定）wine-daily-debian10-i386",
+        "(Daily, Unstable) wine-daily-debian10-i386",
         "http://120.25.153.144:2345/wine-building/wine-daily-debian10-i386.7z"
     ],
     [
-        "（日更，不稳定）wine-daily-ubuntu22.04-aarch64",
-        "http://gfdgdxi.v5.idcfengye.com/wine-building/wine-daily-ubuntu22.04-aarch64.7z"
+        "wine-staging-wow64-9.1-debian10-amd64",
+        "https://sourceforge.net/projects/deep-wine-runner-wine-download/files/wine-staging-wow64-9.1-debian10-amd64.7z/download"
     ],
     [
         "spark-wine9-wow-9.1-spark-0",
-        "http://gfdgdxi.v5.idcfengye.com/spark-deepin-wine-runner/data/wine/spark-wine9-wow-9.1-spark-0.7z"
+        "https://sourceforge.net/projects/deep-wine-runner-wine-download/files/spark-wine9-wow-9.1-spark-0.7z/download"
     ],
     [
         "spark-wine9-9.1-spark-0",
-        "http://gfdgdxi.v5.idcfengye.com/spark-deepin-wine-runner/data/wine/spark-wine9-9.1-spark-0.7z"
+        "https://sourceforge.net/projects/deep-wine-runner-wine-download/files/spark-wine9-9.1-spark-0.7z/download"
     ],
     [
         "GE-Proton8.31",
-        "http://gfdgdxi.v5.idcfengye.com/spark-deepin-wine-runner/data/wine/GE-Proton8.31.7z"
+        "https://sourceforge.net/projects/deep-wine-runner-wine-download/files/GE-Proton8.31.7z/download"
     ],
     [
         "wine-staging-wow64-9.2-debian10-amd64",
-        "http://gfdgdxi.v5.idcfengye.com/spark-deepin-wine-runner/data/wine/wine-staging-wow64-9.2-debian10-amd64.7z"
+        "https://sourceforge.net/projects/deep-wine-runner-wine-download/files/wine-staging-wow64-9.2-debian10-amd64.7z/download"
     ],
     [
         "wine-staging-9.2-debian10-x86_64",
-        "http://gfdgdxi.v5.idcfengye.com/spark-deepin-wine-runner/data/wine/wine-staging-9.2-debian10-x86_64.7z"
+        "https://sourceforge.net/projects/deep-wine-runner-wine-download/files/wine-staging-9.2-debian10-x86_64.7z/download"
     ],
     [
         "wine-staging-9.2-debian10-amd64",
-        "http://gfdgdxi.v5.idcfengye.com/spark-deepin-wine-runner/data/wine/wine-staging-9.2-debian10-amd64.7z"
+        "https://sourceforge.net/projects/deep-wine-runner-wine-download/files/wine-staging-9.2-debian10-amd64.7z/download"
     ],
     [
         "wine-staging-9.2-debian10-i386",
-        "http://gfdgdxi.v5.idcfengye.com/spark-deepin-wine-runner/data/wine/wine-staging-9.2-debian10-i386.7z"
+        "https://sourceforge.net/projects/deep-wine-runner-wine-download/files/wine-staging-9.2-debian10-i386.7z/download"
     ],
     [
         "deepin-wine8-stable-8.16-deepin13-amd64",
-        "http://gfdgdxi.v5.idcfengye.com/spark-deepin-wine-runner/data/wine/deepin-wine8-stable-8.16-deepin13-amd64.7z"
+        "https://sourceforge.net/projects/deep-wine-runner-wine-download/files/deepin-wine8-stable-8.16-deepin13-amd64.7z/download"
     ],
     [
         "GE-Proton8.30",
-        "http://gfdgdxi.v5.idcfengye.com/spark-deepin-wine-runner/data/wine/GE-Proton8.30.7z"
+        "https://sourceforge.net/projects/deep-wine-runner-wine-download/files/GE-Proton8.30.7z/download"
     ],
     [
         "GE-Proton8.29",
-        "http://gfdgdxi.v5.idcfengye.com/spark-deepin-wine-runner/data/wine/GE-Proton8.29.7z"
+        "https://sourceforge.net/projects/deep-wine-runner-wine-download/files/GE-Proton8.29.7z/download"
     ],
     [
         "GE-Proton8.28",
-        "http://gfdgdxi.v5.idcfengye.com/spark-deepin-wine-runner/data/wine/GE-Proton8.28.7z"
+        "https://sourceforge.net/projects/deep-wine-runner-wine-download/files/GE-Proton8.28.7z/download"
     ],
     [
         "GE-Proton8.27",
-        "http://gfdgdxi.v5.idcfengye.com/spark-deepin-wine-runner/data/wine/GE-Proton8.27.7z"
+        "https://sourceforge.net/projects/deep-wine-runner-wine-download/files/GE-Proton8.27.7z/download"
     ],
     [
         "mejituu-wine8-8.16+Mejituu-2024012516",
-        "http://gfdgdxi.v5.idcfengye.com/spark-deepin-wine-runner/data/wine/mejituu-wine8-8.16+Mejituu-2024012516.7z"
-    ],
-    [
-        "wine-staging-wow64-9.1-debian10-amd64",
-        "http://gfdgdxi.v5.idcfengye.com/spark-deepin-wine-runner/data/wine/wine-staging-wow64-9.1-debian10-amd64.7z"
+        "https://sourceforge.net/projects/deep-wine-runner-wine-download/files/mejituu-wine8-8.16+Mejituu-2024012516.7z/download"
     ],
     [
         "wine-staging-9.1-debian10-x86_64",
-        "http://gfdgdxi.v5.idcfengye.com/spark-deepin-wine-runner/data/wine/wine-staging-9.1-debian10-x86_64.7z"
+        "https://sourceforge.net/projects/deep-wine-runner-wine-download/files/wine-staging-9.1-debian10-x86_64.7z/download"
     ],
     [
         "wine-staging-9.1-debian10-amd64",
-        "http://gfdgdxi.v5.idcfengye.com/spark-deepin-wine-runner/data/wine/wine-staging-9.1-debian10-amd64.7z"
+        "https://sourceforge.net/projects/deep-wine-runner-wine-download/files/wine-staging-9.1-debian10-amd64.7z/download"
     ],
     [
         "wine-staging-9.1-debian10-i386",
-        "http://gfdgdxi.v5.idcfengye.com/spark-deepin-wine-runner/data/wine/wine-staging-9.1-debian10-i386.7z"
+        "https://sourceforge.net/projects/deep-wine-runner-wine-download/files/wine-staging-9.1-debian10-i386.7z/download"
     ],
     [
         "deepin-wine8-stable-8.16-deepin11-amd64",
-        "http://gfdgdxi.v5.idcfengye.com/spark-deepin-wine-runner/data/wine/deepin-wine8-stable-8.16-deepin11-amd64.7z"
+        "https://sourceforge.net/projects/deep-wine-runner-wine-download/files/deepin-wine8-stable-8.16-deepin11-amd64.7z/download"
     ],
     [
         "wine-staging-9.0-debian10-i386-qemu-mips64el",
-        "http://gfdgdxi.v5.idcfengye.com/spark-deepin-wine-runner/data/wine/wine-staging-9.0-debian10-i386-qemu-mips64el.7z"
+        "https://sourceforge.net/projects/deep-wine-runner-wine-download/files/wine-staging-9.0-debian10-i386-qemu-mips64el.7z/download"
     ],
     [
         "wine-staging-9.0-debian10-i386-qemu-arm64",
-        "http://gfdgdxi.v5.idcfengye.com/spark-deepin-wine-runner/data/wine/wine-staging-9.0-debian10-i386-qemu-arm64.7z"
+        "https://sourceforge.net/projects/deep-wine-runner-wine-download/files/wine-staging-9.0-debian10-i386-qemu-arm64.7z/download"
     ],
     [
         "wine-staging-wow64-9.0-debian10-amd64",
-        "http://gfdgdxi.v5.idcfengye.com/spark-deepin-wine-runner/data/wine/wine-staging-wow64-9.0-debian10-amd64.7z"
+        "https://sourceforge.net/projects/deep-wine-runner-wine-download/files/wine-staging-wow64-9.0-debian10-amd64.7z/download"
     ],
     [
         "wine-staging-9.0-debian10-amd64",
-        "http://gfdgdxi.v5.idcfengye.com/spark-deepin-wine-runner/data/wine/wine-staging-9.0-debian10-amd64.7z"
+        "https://sourceforge.net/projects/deep-wine-runner-wine-download/files/wine-staging-9.0-debian10-amd64.7z/download"
     ],
     [
         "wine-staging-9.0-debian10-i386",
-        "http://gfdgdxi.v5.idcfengye.com/spark-deepin-wine-runner/data/wine/wine-staging-9.0-debian10-i386.7z"
+        "https://sourceforge.net/projects/deep-wine-runner-wine-download/files/wine-staging-9.0-debian10-i386.7z/download"
     ],
     [
         "wine-staging-9.0-debian10-x86_64",
-        "http://gfdgdxi.v5.idcfengye.com/spark-deepin-wine-runner/data/wine/wine-staging-9.0-debian10-x86_64.7z"
+        "https://sourceforge.net/projects/deep-wine-runner-wine-download/files/wine-staging-9.0-debian10-x86_64.7z/download"
     ],
     [
         "GE-Proton8.26",
-        "http://gfdgdxi.v5.idcfengye.com/spark-deepin-wine-runner/data/wine/GE-Proton8.26.7z"
+        "https://sourceforge.net/projects/deep-wine-runner-wine-download/files/GE-Proton8.26.7z/download"
     ],
     [
         "wine-staging-9.0-rc5-debian10-x86_64",
-        "http://gfdgdxi.v5.idcfengye.com/spark-deepin-wine-runner/data/wine/wine-staging-9.0-rc5-debian10-x86_64.7z"
+        "https://sourceforge.net/projects/deep-wine-runner-wine-download/files/wine-staging-9.0-rc5-debian10-x86_64.7z/download"
     ],
     [
         "wine-staging-9.0-rc5-debian10-amd64",
-        "http://gfdgdxi.v5.idcfengye.com/spark-deepin-wine-runner/data/wine/wine-staging-9.0-rc5-debian10-amd64.7z"
+        "https://sourceforge.net/projects/deep-wine-runner-wine-download/files/wine-staging-9.0-rc5-debian10-amd64.7z/download"
     ],
     [
         "wine-staging-9.0-rc5-debian10-i386",
-        "http://gfdgdxi.v5.idcfengye.com/spark-deepin-wine-runner/data/wine/wine-staging-9.0-rc5-debian10-i386.7z"
+        "https://sourceforge.net/projects/deep-wine-runner-wine-download/files/wine-staging-9.0-rc5-debian10-i386.7z/download"
     ],
     [
         "wine-staging-wow64-9.0-rc5-debian10-amd64",
-        "http://gfdgdxi.v5.idcfengye.com/spark-deepin-wine-runner/data/wine/wine-staging-wow64-9.0-rc5-debian10-amd64.7z"
+        "https://sourceforge.net/projects/deep-wine-runner-wine-download/files/wine-staging-wow64-9.0-rc5-debian10-amd64.7z/download"
     ],
     [
         "wine-devel-wow64_9.0-rc4-x86_64-appimage-sourceforge",
@@ -153,19 +149,19 @@
     ],
     [
         "wine-staging-wow64-9.0-rc4-debian10-amd64",
-        "http://gfdgdxi.v5.idcfengye.com/spark-deepin-wine-runner/data/wine/wine-staging-wow64-9.0-rc4-debian10-amd64.7z"
+        "https://sourceforge.net/projects/deep-wine-runner-wine-download/files/wine-staging-wow64-9.0-rc4-debian10-amd64.7z/download"
     ],
     [
         "wine-staging-9.0-rc4-debian10-x86_64",
-        "http://gfdgdxi.v5.idcfengye.com/spark-deepin-wine-runner/data/wine/wine-staging-9.0-rc4-debian10-x86_64.7z"
+        "https://sourceforge.net/projects/deep-wine-runner-wine-download/files/wine-staging-9.0-rc4-debian10-x86_64.7z/download"
     ],
     [
         "wine-staging-9.0-rc4-debian10-amd64",
-        "http://gfdgdxi.v5.idcfengye.com/spark-deepin-wine-runner/data/wine/wine-staging-9.0-rc4-debian10-amd64.7z"
+        "https://sourceforge.net/projects/deep-wine-runner-wine-download/files/wine-staging-9.0-rc4-debian10-amd64.7z/download"
     ],
     [
         "wine-staging-9.0-rc4-debian10-i386",
-        "http://gfdgdxi.v5.idcfengye.com/spark-deepin-wine-runner/data/wine/wine-staging-9.0-rc4-debian10-i386.7z"
+        "https://sourceforge.net/projects/deep-wine-runner-wine-download/files/wine-staging-9.0-rc4-debian10-i386.7z/download"
     ],
     [
         "wine-stable_8.0.2-x86_64-appimage-sourceforge",
@@ -181,7 +177,7 @@
     ],
     [
         "ukylin-wine-70.6.3.25-amd64",
-        "http://gfdgdxi.v5.idcfengye.com/spark-deepin-wine-runner/data/wine/ukylin-wine-70.6.3.25-amd64.7z"
+        "https://sourceforge.net/projects/deep-wine-runner-wine-download/files/ukylin-wine-70.6.3.25-amd64.7z/download"
     ],
     [
         "wine-staging_8.21-x86_64-appimage-sourceforge",
@@ -217,139 +213,139 @@
     ],
     [
         "wine-ce-9.0-rc1-ubuntu22.04-arm64",
-        "http://gfdgdxi.v5.idcfengye.com/spark-deepin-wine-runner/data/wine/wine-ce-9.0-rc1-ubuntu22.04-arm64.7z"
+        "https://sourceforge.net/projects/deep-wine-runner-wine-download/files/wine-ce-9.0-rc1-ubuntu22.04-arm64.7z/download"
     ],
     [
         "wine-staging-9.0-rc3-ubuntu22.04-aarch64",
-        "http://gfdgdxi.v5.idcfengye.com/spark-deepin-wine-runner/data/wine/wine-staging-9.0-rc3-ubuntu22.04-aarch64.7z"
+        "https://sourceforge.net/projects/deep-wine-runner-wine-download/files/wine-staging-9.0-rc3-ubuntu22.04-aarch64.7z/download"
     ],
     [
         "wine-staging-8.21-ubuntu22.04-aarch64",
-        "http://gfdgdxi.v5.idcfengye.com/spark-deepin-wine-runner/data/wine/wine-staging-8.21-ubuntu22.04-aarch64.7z"
+        "https://sourceforge.net/projects/deep-wine-runner-wine-download/files/wine-staging-8.21-ubuntu22.04-aarch64.7z/download"
     ],
     [
         "wine-staging-wow64-9.0-rc3-debian10-amd64",
-        "http://gfdgdxi.v5.idcfengye.com/spark-deepin-wine-runner/data/wine/wine-staging-wow64-9.0-rc3-debian10-amd64.7z"
+        "https://sourceforge.net/projects/deep-wine-runner-wine-download/files/wine-staging-wow64-9.0-rc3-debian10-amd64.7z/download"
     ],
     [
         "wine-staging-9.0-rc3-debian10-x86_64",
-        "http://gfdgdxi.v5.idcfengye.com/spark-deepin-wine-runner/data/wine/wine-staging-9.0-rc3-debian10-x86_64.7z"
+        "https://sourceforge.net/projects/deep-wine-runner-wine-download/files/wine-staging-9.0-rc3-debian10-x86_64.7z/download"
     ],
     [
         "wine-staging-9.0-rc3-debian10-amd64",
-        "http://gfdgdxi.v5.idcfengye.com/spark-deepin-wine-runner/data/wine/wine-staging-9.0-rc3-debian10-amd64.7z"
+        "https://sourceforge.net/projects/deep-wine-runner-wine-download/files/wine-staging-9.0-rc3-debian10-amd64.7z/download"
     ],
     [
         "wine-staging-9.0-rc3-debian10-i386",
-        "http://gfdgdxi.v5.idcfengye.com/spark-deepin-wine-runner/data/wine/wine-staging-9.0-rc3-debian10-i386.7z"
+        "https://sourceforge.net/projects/deep-wine-runner-wine-download/files/wine-staging-9.0-rc3-debian10-i386.7z/download"
     ],
     [
         "okylin-wine-20231110-x86_64",
-        "http://gfdgdxi.v5.idcfengye.com/spark-deepin-wine-runner/data/wine/okylin-wine-20231110-x86_64.7z"
+        "https://sourceforge.net/projects/deep-wine-runner-wine-download/files/okylin-wine-20231110-x86_64.7z/download"
     ],
     [
         "okylin-wine-20230928-x86_64",
-        "http://gfdgdxi.v5.idcfengye.com/spark-deepin-wine-runner/data/wine/okylin-wine-20230928-x86_64.7z"
+        "https://sourceforge.net/projects/deep-wine-runner-wine-download/files/okylin-wine-20230928-x86_64.7z/download"
     ],
     [
         "deepin-wine8-stable-8.16-deepin10-amd64",
-        "http://gfdgdxi.v5.idcfengye.com/spark-deepin-wine-runner/data/wine/deepin-wine8-stable-8.16-deepin10-amd64.7z"
+        "https://sourceforge.net/projects/deep-wine-runner-wine-download/files/deepin-wine8-stable-8.16-deepin10-amd64.7z/download"
     ],
     [
         "wine-staging-wow64-9.0-rc2-debian10-amd64",
-        "http://gfdgdxi.v5.idcfengye.com/spark-deepin-wine-runner/data/wine/wine-staging-wow64-9.0-rc2-debian10-amd64.7z"
+        "https://sourceforge.net/projects/deep-wine-runner-wine-download/files/wine-staging-wow64-9.0-rc2-debian10-amd64.7z/download"
     ],
     [
         "wine-staging-9.0-rc2-debian10-x86_64",
-        "http://gfdgdxi.v5.idcfengye.com/spark-deepin-wine-runner/data/wine/wine-staging-9.0-rc2-debian10-x86_64.7z"
+        "https://sourceforge.net/projects/deep-wine-runner-wine-download/files/wine-staging-9.0-rc2-debian10-x86_64.7z/download"
     ],
     [
         "wine-staging-9.0-rc2-debian10-amd64",
-        "http://gfdgdxi.v5.idcfengye.com/spark-deepin-wine-runner/data/wine/wine-staging-9.0-rc2-debian10-amd64.7z"
+        "https://sourceforge.net/projects/deep-wine-runner-wine-download/files/wine-staging-9.0-rc2-debian10-amd64.7z/download"
     ],
     [
         "wine-staging-9.0-rc2-debian10-i386",
-        "http://gfdgdxi.v5.idcfengye.com/spark-deepin-wine-runner/data/wine/wine-staging-9.0-rc2-debian10-i386.7z"
+        "https://sourceforge.net/projects/deep-wine-runner-wine-download/files/wine-staging-9.0-rc2-debian10-i386.7z/download"
     ],
     [
         "wine-lutris-GE-Proton8.27-LoL-x86_64",
-        "http://gfdgdxi.v5.idcfengye.com/spark-deepin-wine-runner/data/wine/wine-lutris-GE-Proton8.27-LoL-x86_64.7z"
+        "https://sourceforge.net/projects/deep-wine-runner-wine-download/files/wine-lutris-GE-Proton8.27-LoL-x86_64.7z/download"
     ],
     [
         "wine-lutris-GE-Proton8.26-LoL-x86_64",
-        "http://gfdgdxi.v5.idcfengye.com/spark-deepin-wine-runner/data/wine/wine-lutris-GE-Proton8.26-LoL-x86_64.7z"
+        "https://sourceforge.net/projects/deep-wine-runner-wine-download/files/wine-lutris-GE-Proton8.26-LoL-x86_64.7z/download"
     ],
     [
         "wine-lutris-GE-Proton8.25-LoL-x86_64",
-        "http://gfdgdxi.v5.idcfengye.com/spark-deepin-wine-runner/data/wine/wine-lutris-GE-Proton8.25-LoL-x86_64.7z"
+        "https://sourceforge.net/projects/deep-wine-runner-wine-download/files/wine-lutris-GE-Proton8.25-LoL-x86_64.7z/download"
     ],
     [
         "wine-ce-9.0-rc1-riscv64",
-        "http://gfdgdxi.v5.idcfengye.com/spark-deepin-wine-runner/data/wine/wine-ce-9.0-rc1-riscv64.7z"
+        "https://sourceforge.net/projects/deep-wine-runner-wine-download/files/wine-ce-9.0-rc1-riscv64.7z/download"
     ],
     [
         "wine-ce-9.0-rc1-arm64",
-        "http://gfdgdxi.v5.idcfengye.com/spark-deepin-wine-runner/data/wine/wine-ce-9.0-rc1-arm64.7z"
+        "https://sourceforge.net/projects/deep-wine-runner-wine-download/files/wine-ce-9.0-rc1-arm64.7z/download"
     ],
     [
         "wine-staging-wow64-9.0-rc1-debian10-amd64",
-        "http://gfdgdxi.v5.idcfengye.com/spark-deepin-wine-runner/data/wine/wine-staging-wow64-9.0-rc1-debian10-amd64.7z"
+        "https://sourceforge.net/projects/deep-wine-runner-wine-download/files/wine-staging-wow64-9.0-rc1-debian10-amd64.7z/download"
     ],
     [
         "wine-staging-9.0-rc1-debian10-x86_64",
-        "http://gfdgdxi.v5.idcfengye.com/spark-deepin-wine-runner/data/wine/wine-staging-9.0-rc1-debian10-x86_64.7z"
+        "https://sourceforge.net/projects/deep-wine-runner-wine-download/files/wine-staging-9.0-rc1-debian10-x86_64.7z/download"
     ],
     [
         "wine-staging-9.0-rc1-debian10-amd64",
-        "http://gfdgdxi.v5.idcfengye.com/spark-deepin-wine-runner/data/wine/wine-staging-9.0-rc1-debian10-amd64.7z"
+        "https://sourceforge.net/projects/deep-wine-runner-wine-download/files/wine-staging-9.0-rc1-debian10-amd64.7z/download"
     ],
     [
         "wine-staging-9.0-rc1-debian10-i386",
-        "http://gfdgdxi.v5.idcfengye.com/spark-deepin-wine-runner/data/wine/wine-staging-9.0-rc1-debian10-i386.7z"
+        "https://sourceforge.net/projects/deep-wine-runner-wine-download/files/wine-staging-9.0-rc1-debian10-i386.7z/download"
     ],
     [
         "wine-lutris-GE-Proton8.25-x86_64",
-        "http://gfdgdxi.v5.idcfengye.com/spark-deepin-wine-runner/data/wine/wine-lutris-GE-Proton8.25-x86_64.7z"
+        "https://sourceforge.net/projects/deep-wine-runner-wine-download/files/wine-lutris-GE-Proton8.25-x86_64.7z/download"
     ],
     [
         "wine-ce-8.20-arm64",
-        "http://gfdgdxi.v5.idcfengye.com/spark-deepin-wine-runner/data/wine/wine-ce-8.20-arm64.7z"
+        "https://sourceforge.net/projects/deep-wine-runner-wine-download/files/wine-ce-8.20-arm64.7z/download"
     ],
     [
         "GE-Proton8.24",
-        "http://gfdgdxi.v5.idcfengye.com/spark-deepin-wine-runner/data/wine/GE-Proton8.24.7z"
+        "https://sourceforge.net/projects/deep-wine-runner-wine-download/files/GE-Proton8.24.7z/download"
     ],
     [
         "GE-Proton8.23",
-        "http://gfdgdxi.v5.idcfengye.com/spark-deepin-wine-runner/data/wine/GE-Proton8.23.7z"
+        "https://sourceforge.net/projects/deep-wine-runner-wine-download/files/GE-Proton8.23.7z/download"
     ],
     [
         "wine-lutris-GE-Proton8.24-x86_64",
-        "http://gfdgdxi.v5.idcfengye.com/spark-deepin-wine-runner/data/wine/wine-lutris-GE-Proton8.24-x86_64.7z"
+        "https://sourceforge.net/projects/deep-wine-runner-wine-download/files/wine-lutris-GE-Proton8.24-x86_64.7z/download"
     ],
     [
         "wine-lutris-GE-Proton8.23-x86_64",
-        "http://gfdgdxi.v5.idcfengye.com/spark-deepin-wine-runner/data/wine/wine-lutris-GE-Proton8.23-x86_64.7z"
+        "https://sourceforge.net/projects/deep-wine-runner-wine-download/files/wine-lutris-GE-Proton8.23-x86_64.7z/download"
     ],
     [
         "wine-staging-8.21-debian10-i386",
-        "http://gfdgdxi.v5.idcfengye.com/spark-deepin-wine-runner/data/wine/wine-staging-8.21-debian10-i386.7z"
+        "https://sourceforge.net/projects/deep-wine-runner-wine-download/files/wine-staging-8.21-debian10-i386.7z/download"
     ],
     [
         "wine-staging-8.21-debian10-amd64",
-        "http://gfdgdxi.v5.idcfengye.com/spark-deepin-wine-runner/data/wine/wine-staging-8.21-debian10-amd64.7z"
+        "https://sourceforge.net/projects/deep-wine-runner-wine-download/files/wine-staging-8.21-debian10-amd64.7z/download"
     ],
     [
         "wine-staging-8.21-debian10-x86_64",
-        "http://gfdgdxi.v5.idcfengye.com/spark-deepin-wine-runner/data/wine/wine-staging-8.21-debian10-x86_64.7z"
+        "https://sourceforge.net/projects/deep-wine-runner-wine-download/files/wine-staging-8.21-debian10-x86_64.7z/download"
     ],
     [
         "wine-staging-wow64-8.21-debian10-amd64",
-        "http://gfdgdxi.v5.idcfengye.com/spark-deepin-wine-runner/data/wine/wine-staging-wow64-8.21-debian10-amd64.7z"
+        "https://sourceforge.net/projects/deep-wine-runner-wine-download/files/wine-staging-wow64-8.21-debian10-amd64.7z/download"
     ],
     [
         "spark-wine8-8.20",
-        "http://gfdgdxi.v5.idcfengye.com/spark-deepin-wine-runner/data/wine/spark-wine8-8.20.7z"
+        "https://sourceforge.net/projects/deep-wine-runner-wine-download/files/spark-wine8-8.20.7z/download"
     ],
     [
         "wine-staging-wow64-8.20-debian10-amd64",
@@ -361,11 +357,11 @@
     ],
     [
         "wine-staging-8.20-debian10-amd64",
-        "http://gfdgdxi.v5.idcfengye.com/spark-deepin-wine-runner/data/wine/wine-staging-8.20-debian10-amd64.7z"
+        "http://seafile.jyx2048.com:2345/spark-deepin-wine-runner/data/wine/wine-staging-8.20-debian10-amd64.7z"
     ],
     [
         "wine-staging-8.20-debian10-i386",
-        "http://gfdgdxi.v5.idcfengye.com/spark-deepin-wine-runner/data/wine/wine-staging-8.20-debian10-i386.7z"
+        "http://seafile.jyx2048.com:2345/spark-deepin-wine-runner/data/wine/wine-staging-8.20-debian10-i386.7z"
     ],
     [
         "wine-staging-wow64-8.19-debian10-amd64",
@@ -377,27 +373,27 @@
     ],
     [
         "wine-staging-8.19-debian10-amd64",
-        "http://gfdgdxi.v5.idcfengye.com/spark-deepin-wine-runner/data/wine/wine-staging-8.19-debian10-amd64.7z"
+        "http://seafile.jyx2048.com:2345/spark-deepin-wine-runner/data/wine/wine-staging-8.19-debian10-amd64.7z"
     ],
     [
         "wine-staging-8.19-debian10-i386",
-        "http://gfdgdxi.v5.idcfengye.com/spark-deepin-wine-runner/data/wine/wine-staging-8.19-debian10-i386.7z"
+        "http://seafile.jyx2048.com:2345/spark-deepin-wine-runner/data/wine/wine-staging-8.19-debian10-i386.7z"
     ],
     [
         "wine-lutris-GE-Proton8.22-x86_64",
-        "http://gfdgdxi.v5.idcfengye.com/spark-deepin-wine-runner/data/wine/wine-lutris-GE-Proton8.22-x86_64.7z"
+        "http://seafile.jyx2048.com:2345/spark-deepin-wine-runner/data/wine/wine-lutris-GE-Proton8.22-x86_64.7z"
     ],
     [
         "wine-lutris-GE-Proton8.21-x86_64",
-        "http://gfdgdxi.v5.idcfengye.com/spark-deepin-wine-runner/data/wine/wine-lutris-GE-Proton8.21-x86_64.7z"
+        "http://seafile.jyx2048.com:2345/spark-deepin-wine-runner/data/wine/wine-lutris-GE-Proton8.21-x86_64.7z"
     ],
     [
         "GE-Proton-8.22",
-        "http://gfdgdxi.v5.idcfengye.com/spark-deepin-wine-runner/data/wine/GE-Proton-8.22.7z"
+        "http://seafile.jyx2048.com:2345/spark-deepin-wine-runner/data/wine/GE-Proton-8.22.7z"
     ],
     [
         "GE-Proton-8.21",
-        "http://gfdgdxi.v5.idcfengye.com/spark-deepin-wine-runner/data/wine/GE-Proton-8.21.7z"
+        "http://seafile.jyx2048.com:2345/spark-deepin-wine-runner/data/wine/GE-Proton-8.21.7z"
     ],
     [
         "wine-lutris-GE-Proton8.20-x86_64",
@@ -960,7 +956,7 @@
         "https://master.dl.sourceforge.net/project/deep-wine-runner-wine-download/wine-staging-8.1-debian10-amd64/wine-staging-8.1-debian10-amd64.7z"
     ],
     [
-        "wine-staging-8.1-debian10-i386（只有32位的，无64位）",
+        "wine-staging-8.1-debian10-i386",
         "https://master.dl.sourceforge.net/project/deep-wine-runner-wine-download/wine-staging-8.1-debian10-i386/wine-staging-8.1-debian10-i386.7z"
     ],
     [
@@ -980,7 +976,7 @@
         "https://master.dl.sourceforge.net/project/deep-wine-runner-wine-download/wine-stable-8.0-debian10-amd64/wine-stable-8.0-debian10-amd64.7z"
     ],
     [
-        "wine-stable-8.0-debian10-i386（只有32位的，无64位）",
+        "wine-stable-8.0-debian10-i386",
         "https://master.dl.sourceforge.net/project/deep-wine-runner-wine-download/wine-stable-8.0-debian10-i386/wine-stable-8.0-debian10-i386.7z"
     ],
     [
@@ -1004,7 +1000,7 @@
         "https://master.dl.sourceforge.net/project/deep-wine-runner-wine-download/wine-staging-8.0-rc5-debian10-amd64/wine-staging-8.0-rc5-debian10-amd64.7z"
     ],
     [
-        "wine-staging-8.0-rc5-debian10-i386（只有32位的，无64位）",
+        "wine-staging-8.0-rc5-debian10-i386",
         "https://master.dl.sourceforge.net/project/deep-wine-runner-wine-download/wine-staging-8.0-rc5-debian10-i386/wine-staging-8.0-rc5-debian10-i386.7z"
     ],
     [
@@ -1032,7 +1028,7 @@
         "https://master.dl.sourceforge.net/project/deep-wine-runner-wine-download/wine-staging-8.0-rc4-debian10-x86_64/wine-staging-8.0-rc4-debian10-x86_64.7z"
     ],
     [
-        "wine-staging-8.0-rc4-debian10-i386（只有32位的，无64位）",
+        "wine-staging-8.0-rc4-debian10-i386",
         "https://master.dl.sourceforge.net/project/deep-wine-runner-wine-download/wine-staging-8.0-rc4-debian10-i386/wine-staging-8.0-rc4-debian10-i386.7z"
     ],
     [
