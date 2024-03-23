@@ -28,6 +28,10 @@
         "https://sourceforge.net/projects/deep-wine-runner-wine-download/files/wine-staging-wow64-9.1-debian10-amd64.7z/download"
     ],
     [
+        "GE-Proton8.32",
+        "https://sourceforge.net/projects/deep-wine-runner-wine-download/files/GE-Proton8.32.7z/download"
+    ],
+    [
         "wine-staging-wow64-9.4-debian10-amd64",
         "https://sourceforge.net/projects/deep-wine-runner-wine-download/files/wine-staging-wow64-9.4-debian10-amd64.7z/download"
     ],
