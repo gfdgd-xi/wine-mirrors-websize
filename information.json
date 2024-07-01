@@ -24,6 +24,10 @@
         "http://120.25.153.144:2345/wine-building/wine-daily-debian10-i386.7z"
     ],
     [
+        "spark-wine9-wow-9.11",
+        "https://sourceforge.net/projects/deep-wine-runner-wine-download/files/spark-wine9-wow-9.11.7z"
+    ],
+    [
         "wine-staging-wow64-9.12-debian10-amd64",
         "https://sourceforge.net/projects/deep-wine-runner-wine-download/files/wine-staging-wow64-9.12-debian10-amd64.7z"
     ],
