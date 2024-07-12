@@ -24,6 +24,10 @@
         "http://120.25.153.144:2345/wine-building/wine-daily-debian10-i386.7z"
     ],
     [
+        "GE-Proton9.10",
+        "https://sourceforge.net/projects/deep-wine-runner-wine-download/files/GE-Proton9.10.7z"
+    ],
+    [
         "spark-wine9-wow-9.11",
         "https://sourceforge.net/projects/deep-wine-runner-wine-download/files/spark-wine9-wow-9.11.7z"
     ],
