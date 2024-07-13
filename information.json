@@ -8,12 +8,16 @@
         "https://master.dl.sourceforge.net/project/deep-wine-runner-wine-download/egg/egg.7z"
     ],
     [
-        "(Daily, Unstable) wine-daily-debian10-x86_64",
-        "http://120.25.153.144:2345/wine-building/wine-daily-debian10-x86_64.7z"
+        "(Daily, Unstable) wine-wow64-box64-daily-debian10-arm64",
+        "http://120.25.153.144:2345/wine-building/wine-wow64-box64-daily-debian10-arm64.7z"
     ],
     [
         "(Daily, Unstable) wine-wow64-daily-debian10-amd64",
         "http://120.25.153.144:2345/wine-building/wine-wow64-daily-debian10-amd64.7z"
+    ],
+    [
+        "(Daily, Unstable) wine-daily-debian10-x86_64",
+        "http://120.25.153.144:2345/wine-building/wine-daily-debian10-x86_64.7z"
     ],
     [
         "(Daily, Unstable) wine-daily-debian10-amd64",
