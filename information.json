@@ -28,6 +28,10 @@
         "http://120.25.153.144:2345/wine-building/wine-daily-debian10-i386.7z"
     ],
     [
+        "deepin-wine8-stable-8.16-deepin21-amd64",
+        "https://sourceforge.net/projects/deep-wine-runner-wine-download/files/deepin-wine8-stable-8.16-deepin21-amd64.7z"
+    ],
+    [
         "deepin-wine8-stable-box64-8.16-deepin13-riscv64",
         "https://sourceforge.net/projects/deep-wine-runner-wine-download/files/deepin-wine8-stable-box64-8.16-deepin13-riscv64.7z"
     ],
