@@ -14,7 +14,7 @@
     [
         "(日更，不稳定) wine-wow64-box64-daily-debian10-riscv64",
         "http://120.25.153.144:2345/wine-building/wine-wow64-box64-daily-debian10-riscv64.7z"
-    ]
+    ],
     [
         "(日更，不稳定) wine-wow64-daily-debian10-amd64",
         "http://120.25.153.144:2345/wine-building/wine-wow64-daily-debian10-amd64.7z"
@@ -30,6 +30,10 @@
     [
         "(日更，不稳定) wine-daily-debian10-i386",
         "http://120.25.153.144:2345/wine-building/wine-daily-debian10-i386.7z"
+    ],
+    [
+        "deepin-wine8-stable-box64-8.16-deepin21-arm64",
+        "https://sourceforge.net/projects/deep-wine-runner-wine-download/files/deepin-wine8-stable-box64-8.16-deepin21-arm64.7z/download"
     ],
     [
         "deepin-wine8-stable-box64-8.16-deepin13-arm64",
