@@ -1,275 +1,279 @@
 [
     [
-        "+ You should download x86 wine if you have installed x86 emulator such as box86/box64, exagear, lat, qemu and so on",
+        "+ 如果你要在非X86架构机器上使用X86的 exe,需要安装 box86/box64、exagear、lat、qemu 等转换层",
         "https://master.dl.sourceforge.net/project/deep-wine-runner-wine-download/egg/egg.7z"
     ],
     [
-        "+ Arm wine only run arm exe but arm/riscv64 wine-ce can run i386 exe",
+        "+ Wine CE、带 box64 字样的 Wine 内置转换层，无需另外安装",
         "https://master.dl.sourceforge.net/project/deep-wine-runner-wine-download/egg/egg.7z"
     ],
     [
-        "(Daily, Unstable) wine-wow64-box64-daily-debian10-arm64",
+        "(日更，不稳定) wine-wow64-box64-daily-debian10-arm64",
         "http://120.25.153.144:2345/wine-building/wine-wow64-box64-daily-debian10-arm64.7z"
     ],
     [
-        "(Daily, Unstable) wine-wow64-daily-debian10-amd64",
+        "(日更，不稳定) wine-wow64-box64-daily-debian10-riscv64",
+        "http://120.25.153.144:2345/wine-building/wine-wow64-box64-daily-debian10-riscv64.7z"
+    ]
+    [
+        "(日更，不稳定) wine-wow64-daily-debian10-amd64",
         "http://120.25.153.144:2345/wine-building/wine-wow64-daily-debian10-amd64.7z"
     ],
     [
-        "(Daily, Unstable) wine-daily-debian10-x86_64",
+        "(日更，不稳定) wine-daily-debian10-x86_64",
         "http://120.25.153.144:2345/wine-building/wine-daily-debian10-x86_64.7z"
     ],
     [
-        "(Daily, Unstable) wine-daily-debian10-amd64",
+        "(日更，不稳定) wine-daily-debian10-amd64",
         "http://120.25.153.144:2345/wine-building/wine-daily-debian10-amd64.7z"
     ],
     [
-        "(Daily, Unstable) wine-daily-debian10-i386",
+        "(日更，不稳定) wine-daily-debian10-i386",
         "http://120.25.153.144:2345/wine-building/wine-daily-debian10-i386.7z"
     ],
     [
         "deepin-wine8-stable-box64-8.16-deepin13-arm64",
-        "https://sourceforge.net/projects/deep-wine-runner-wine-download/files/deepin-wine8-stable-box64-8.16-deepin13-arm64.7z/download"
+        "https://sourceforge.net/projects/deep-wine-runner-wine-download/files/deepin-wine8-stable-box64-8.16-deepin13-arm64.7z"
     ],
     [
         "deepin-wine8-stable-8.16-deepin21-amd64",
-        "https://sourceforge.net/projects/deep-wine-runner-wine-download/files/deepin-wine8-stable-8.16-deepin21-amd64.7z/download"
+        "https://sourceforge.net/projects/deep-wine-runner-wine-download/files/deepin-wine8-stable-8.16-deepin21-amd64.7z"
     ],
     [
         "deepin-wine8-stable-box64-8.16-deepin13-riscv64",
-        "https://sourceforge.net/projects/deep-wine-runner-wine-download/files/deepin-wine8-stable-box64-8.16-deepin13-riscv64.7z/download"
+        "https://sourceforge.net/projects/deep-wine-runner-wine-download/files/deepin-wine8-stable-box64-8.16-deepin13-riscv64.7z"
     ],
     [
         "spark-wine9-wow-box64-9.11-arm64",
-        "https://sourceforge.net/projects/deep-wine-runner-wine-download/files/spark-wine9-wow-box64-9.11-arm64.7z/download"
+        "https://sourceforge.net/projects/deep-wine-runner-wine-download/files/spark-wine9-wow-box64-9.11-arm64.7z"
     ],
     [
         "spark-wine9-wow-box64-9.11-riscv64",
-        "https://sourceforge.net/projects/deep-wine-runner-wine-download/files/spark-wine9-wow-box64-9.11-riscv64.7z/download"
+        "https://sourceforge.net/projects/deep-wine-runner-wine-download/files/spark-wine9-wow-box64-9.11-riscv64.7z"
     ],
     [
         "wine-staging-wow64-box64-9.13-debian10-riscv64",
-        "https://sourceforge.net/projects/deep-wine-runner-wine-download/files/wine-staging-wow64-box64-9.13-debian10-riscv64.7z/download"
+        "https://sourceforge.net/projects/deep-wine-runner-wine-download/files/wine-staging-wow64-box64-9.13-debian10-riscv64.7z"
     ],
     [
         "wine-staging-wow64-box64-9.13-debian10-arm64",
-        "https://sourceforge.net/projects/deep-wine-runner-wine-download/files/wine-staging-wow64-box64-9.13-debian10-arm64.7z/download"
+        "https://sourceforge.net/projects/deep-wine-runner-wine-download/files/wine-staging-wow64-box64-9.13-debian10-arm64.7z"
     ],
     [
         "wine-staging-wow64-9.13-debian10-amd64",
-        "https://sourceforge.net/projects/deep-wine-runner-wine-download/files/wine-staging-wow64-9.13-debian10-amd64.7z/download"
+        "https://sourceforge.net/projects/deep-wine-runner-wine-download/files/wine-staging-wow64-9.13-debian10-amd64.7z"
     ],
     [
         "wine-staging-9.13-debian10-x86_64",
-        "https://sourceforge.net/projects/deep-wine-runner-wine-download/files/wine-staging-9.13-debian10-x86_64.7z/download"
+        "https://sourceforge.net/projects/deep-wine-runner-wine-download/files/wine-staging-9.13-debian10-x86_64.7z"
     ],
     [
         "wine-staging-9.13-debian10-amd64",
-        "https://sourceforge.net/projects/deep-wine-runner-wine-download/files/wine-staging-9.13-debian10-amd64.7z/download"
+        "https://sourceforge.net/projects/deep-wine-runner-wine-download/files/wine-staging-9.13-debian10-amd64.7z"
     ],
     [
         "wine-staging-9.13-debian10-i386",
-        "https://sourceforge.net/projects/deep-wine-runner-wine-download/files/wine-staging-9.13-debian10-i386.7z/download"
+        "https://sourceforge.net/projects/deep-wine-runner-wine-download/files/wine-staging-9.13-debian10-i386.7z"
     ],
     [
         "wine-staging-wow64-box64-9.12-debian10-riscv64",
-        "https://sourceforge.net/projects/deep-wine-runner-wine-download/files/wine-staging-wow64-box64-9.12-debian10-riscv64.7z/download"
+        "https://sourceforge.net/projects/deep-wine-runner-wine-download/files/wine-staging-wow64-box64-9.12-debian10-riscv64.7z"
     ],
     [
         "wine-staging-wow64-box64-9.12-debian10-arm64",
-        "https://sourceforge.net/projects/deep-wine-runner-wine-download/files/wine-staging-wow64-box64-9.12-debian10-arm64.7z/download"
+        "https://sourceforge.net/projects/deep-wine-runner-wine-download/files/wine-staging-wow64-box64-9.12-debian10-arm64.7z"
     ],
     [
         "GE-Proton9.10",
-        "https://sourceforge.net/projects/deep-wine-runner-wine-download/files/GE-Proton9.10.7z/download"
+        "https://sourceforge.net/projects/deep-wine-runner-wine-download/files/GE-Proton9.10.7z"
     ],
     [
         "spark-wine9-wow-9.11",
-        "https://sourceforge.net/projects/deep-wine-runner-wine-download/files/spark-wine9-wow-9.11.7z/download"
+        "https://sourceforge.net/projects/deep-wine-runner-wine-download/files/spark-wine9-wow-9.11.7z"
     ],
     [
         "wine-staging-wow64-9.12-debian10-amd64",
-        "https://sourceforge.net/projects/deep-wine-runner-wine-download/files/wine-staging-wow64-9.12-debian10-amd64.7z/download"
+        "https://sourceforge.net/projects/deep-wine-runner-wine-download/files/wine-staging-wow64-9.12-debian10-amd64.7z"
+    ],
+    [
+        "wine-staging-9.12-debian10-x86_64",
+        "https://sourceforge.net/projects/deep-wine-runner-wine-download/files/wine-staging-9.12-debian10-x86_64.7z"
+    ],
+    [
+        "wine-staging-9.12-debian10-amd64",
+        "https://sourceforge.net/projects/deep-wine-runner-wine-download/files/wine-staging-9.12-debian10-amd64.7z"
+    ],
+    [
+        "wine-staging-9.12-debian10-i386",
+        "https://sourceforge.net/projects/deep-wine-runner-wine-download/files/wine-staging-9.12-debian10-i386.7z"
+    ],
+    [
+        "deepin-wine6-stable",
+        "https://sourceforge.net/projects/deep-wine-runner-wine-download/files/deepin-wine6-stable.7z"
+    ],
+    [
+        "wine-staging-wow64-9.11-debian10-amd64",
+        "https://sourceforge.net/projects/deep-wine-runner-wine-download/files/wine-staging-wow64-9.11-debian10-amd64.7z"
+    ],
+    [
+        "wine-staging-9.11-debian10-x86_64",
+        "https://sourceforge.net/projects/deep-wine-runner-wine-download/files/wine-staging-9.11-debian10-x86_64.7z"
+    ],
+    [
+        "wine-staging-9.11-debian10-amd64",
+        "https://sourceforge.net/projects/deep-wine-runner-wine-download/files/wine-staging-9.11-debian10-amd64.7z"
+    ],
+    [
+        "wine-staging-9.11-debian10-i386",
+        "https://sourceforge.net/projects/deep-wine-runner-wine-download/files/wine-staging-9.11-debian10-i386.7z"
     ],
     [
         "wine-staging-wow64-9.1-debian10-amd64",
         "https://sourceforge.net/projects/deep-wine-runner-wine-download/files/wine-staging-wow64-9.1-debian10-amd64.7z/download"
     ],
     [
-        "wine-staging-9.12-debian10-x86_64",
-        "https://sourceforge.net/projects/deep-wine-runner-wine-download/files/wine-staging-9.12-debian10-x86_64.7z/download"
-    ],
-    [
-        "wine-staging-9.12-debian10-amd64",
-        "https://sourceforge.net/projects/deep-wine-runner-wine-download/files/wine-staging-9.12-debian10-amd64.7z/download"
-    ],
-    [
-        "wine-staging-9.12-debian10-i386",
-        "https://sourceforge.net/projects/deep-wine-runner-wine-download/files/wine-staging-9.12-debian10-i386.7z/download"
-    ],
-    [
-        "deepin-wine6-stable",
-        "https://sourceforge.net/projects/deep-wine-runner-wine-download/files/deepin-wine6-stable.7z/download"
-    ],
-    [
-        "wine-staging-wow64-9.11-debian10-amd64",
-        "https://sourceforge.net/projects/deep-wine-runner-wine-download/files/wine-staging-wow64-9.11-debian10-amd64.7z/download"
-    ],
-    [
-        "wine-staging-9.11-debian10-x86_64",
-        "https://sourceforge.net/projects/deep-wine-runner-wine-download/files/wine-staging-9.11-debian10-x86_64.7z/download"
-    ],
-    [
-        "wine-staging-9.11-debian10-amd64",
-        "https://sourceforge.net/projects/deep-wine-runner-wine-download/files/wine-staging-9.11-debian10-amd64.7z/download"
-    ],
-    [
-        "wine-staging-9.11-debian10-i386",
-        "https://sourceforge.net/projects/deep-wine-runner-wine-download/files/wine-staging-9.11-debian10-i386.7z/download"
-    ],
-    [
         "GE-Proton9.7",
-        "https://sourceforge.net/projects/deep-wine-runner-wine-download/files/GE-Proton9.7.7z/download"
+        "https://sourceforge.net/projects/deep-wine-runner-wine-download/files/GE-Proton9.7.7z"
     ],
     [
         "GE-Proton9.6",
-        "https://sourceforge.net/projects/deep-wine-runner-wine-download/files/GE-Proton9.6.7z/download"
+        "https://sourceforge.net/projects/deep-wine-runner-wine-download/files/GE-Proton9.6.7z"
     ],
     [
         "wine-staging-9.10-debian10-x86_64",
-        "https://sourceforge.net/projects/deep-wine-runner-wine-download/files/wine-staging-9.10-debian10-x86_64.7z/download"
+        "https://sourceforge.net/projects/deep-wine-runner-wine-download/files/wine-staging-9.10-debian10-x86_64.7z"
     ],
     [
         "wine-staging-9.10-debian10-amd64",
-        "https://sourceforge.net/projects/deep-wine-runner-wine-download/files/wine-staging-9.10-debian10-amd64.7z/download"
+        "https://sourceforge.net/projects/deep-wine-runner-wine-download/files/wine-staging-9.10-debian10-amd64.7z"
     ],
     [
         "wine-staging-9.10-debian10-i386",
-        "https://sourceforge.net/projects/deep-wine-runner-wine-download/files/wine-staging-9.10-debian10-i386.7z/download"
+        "https://sourceforge.net/projects/deep-wine-runner-wine-download/files/wine-staging-9.10-debian10-i386.7z"
     ],
     [
         "wine-stable-4.0.4",
-        "https://sourceforge.net/projects/deep-wine-runner-wine-download/files/wine-stable-4.0.4.7z/download"
+        "https://sourceforge.net/projects/deep-wine-runner-wine-download/files/wine-stable-4.0.4.7z"
     ],
     [
         "wine-staging-wow64-9.9-debian10-amd64",
-        "https://sourceforge.net/projects/deep-wine-runner-wine-download/files/wine-staging-wow64-9.9-debian10-amd64.7z/download"
+        "https://sourceforge.net/projects/deep-wine-runner-wine-download/files/wine-staging-wow64-9.9-debian10-amd64.7z"
     ],
     [
         "wine-staging-9.9-debian10-amd64",
-        "https://sourceforge.net/projects/deep-wine-runner-wine-download/files/wine-staging-9.9-debian10-amd64.7z/download"
+        "https://sourceforge.net/projects/deep-wine-runner-wine-download/files/wine-staging-9.9-debian10-amd64.7z"
     ],
     [
         "wine-staging-9.9-debian10-i386",
-        "https://sourceforge.net/projects/deep-wine-runner-wine-download/files/wine-staging-9.9-debian10-i386.7z/download"
+        "https://sourceforge.net/projects/deep-wine-runner-wine-download/files/wine-staging-9.9-debian10-i386.7z"
     ],
     [
         "wine-staging-9.8-ubuntu22.04-aarch64",
-        "https://sourceforge.net/projects/deep-wine-runner-wine-download/files/wine-staging-9.8-ubuntu22.04-aarch64.7z/download"
+        "https://sourceforge.net/projects/deep-wine-runner-wine-download/files/wine-staging-9.8-ubuntu22.04-aarch64.7z"
     ],
     [
         "GE-Proton9.5",
-        "https://sourceforge.net/projects/deep-wine-runner-wine-download/files/GE-Proton9.5.7z/download"
+        "https://sourceforge.net/projects/deep-wine-runner-wine-download/files/GE-Proton9.5.7z"
     ],
     [
         "wine-staging-wow64-9.8-debian10-amd64",
-        "https://sourceforge.net/projects/deep-wine-runner-wine-download/files/wine-staging-wow64-9.8-debian10-amd64.7z/download"
+        "https://sourceforge.net/projects/deep-wine-runner-wine-download/files/wine-staging-wow64-9.8-debian10-amd64.7z"
     ],
     [
         "wine-staging-9.8-debian10-x86_64",
-        "https://sourceforge.net/projects/deep-wine-runner-wine-download/files/wine-staging-9.8-debian10-x86_64.7z/download"
+        "https://sourceforge.net/projects/deep-wine-runner-wine-download/files/wine-staging-9.8-debian10-x86_64.7z"
     ],
     [
         "wine-staging-9.8-debian10-amd64",
-        "https://sourceforge.net/projects/deep-wine-runner-wine-download/files/wine-staging-9.8-debian10-amd64.7z/download"
+        "https://sourceforge.net/projects/deep-wine-runner-wine-download/files/wine-staging-9.8-debian10-amd64.7z"
     ],
     [
         "wine-staging-9.8-debian10-i386",
-        "https://sourceforge.net/projects/deep-wine-runner-wine-download/files/wine-staging-9.8-debian10-i386.7z/download"
+        "https://sourceforge.net/projects/deep-wine-runner-wine-download/files/wine-staging-9.8-debian10-i386.7z"
     ],
     [
         "wine-staging-wow64-9.7-debian10-amd64",
-        "https://sourceforge.net/projects/deep-wine-runner-wine-download/files/wine-staging-wow64-9.7-debian10-amd64.7z/download"
+        "https://sourceforge.net/projects/deep-wine-runner-wine-download/files/wine-staging-wow64-9.7-debian10-amd64.7z"
     ],
     [
         "wine-staging-9.7-debian10-x86_64",
-        "https://sourceforge.net/projects/deep-wine-runner-wine-download/files/wine-staging-9.7-debian10-x86_64.7z/download"
+        "https://sourceforge.net/projects/deep-wine-runner-wine-download/files/wine-staging-9.7-debian10-x86_64.7z"
     ],
     [
         "wine-staging-9.7-debian10-amd64",
-        "https://sourceforge.net/projects/deep-wine-runner-wine-download/files/wine-staging-9.7-debian10-amd64.7z/download"
+        "https://sourceforge.net/projects/deep-wine-runner-wine-download/files/wine-staging-9.7-debian10-amd64.7z"
     ],
     [
         "wine-staging-9.7-debian10-i386",
-        "https://sourceforge.net/projects/deep-wine-runner-wine-download/files/wine-staging-9.7-debian10-i386.7z/download"
+        "https://sourceforge.net/projects/deep-wine-runner-wine-download/files/wine-staging-9.7-debian10-i386.7z"
     ],
     [
         "GE-Proton9.4",
-        "https://sourceforge.net/projects/deep-wine-runner-wine-download/files/GE-Proton9.4.7z/download"
+        "https://sourceforge.net/projects/deep-wine-runner-wine-download/files/GE-Proton9.4.7z"
     ],
     [
         "GE-Proton9.3",
-        "https://sourceforge.net/projects/deep-wine-runner-wine-download/files/GE-Proton9.3.7z/download"
+        "https://sourceforge.net/projects/deep-wine-runner-wine-download/files/GE-Proton9.3.7z"
     ],
     [
         "wine-staging-wow64-9.6-debian10-amd64",
-        "https://sourceforge.net/projects/deep-wine-runner-wine-download/files/wine-staging-wow64-9.6-debian10-amd64.7z/download"
+        "https://sourceforge.net/projects/deep-wine-runner-wine-download/files/wine-staging-wow64-9.6-debian10-amd64.7z"
     ],
     [
         "wine-staging-9.6-debian10-x86_64",
-        "https://sourceforge.net/projects/deep-wine-runner-wine-download/files/wine-staging-9.6-debian10-x86_64.7z/download"
+        "https://sourceforge.net/projects/deep-wine-runner-wine-download/files/wine-staging-9.6-debian10-x86_64.7z"
     ],
     [
         "wine-staging-9.6-debian10-amd64",
-        "https://sourceforge.net/projects/deep-wine-runner-wine-download/files/wine-staging-9.6-debian10-amd64.7z/download"
+        "https://sourceforge.net/projects/deep-wine-runner-wine-download/files/wine-staging-9.6-debian10-amd64.7z"
     ],
     [
         "wine-staging-9.6-debian10-i386",
-        "https://sourceforge.net/projects/deep-wine-runner-wine-download/files/wine-staging-9.6-debian10-i386.7z/download"
+        "https://sourceforge.net/projects/deep-wine-runner-wine-download/files/wine-staging-9.6-debian10-i386.7z"
     ],
     [
         "wine-staging-wow64-9.5-debian10-amd64",
-        "https://sourceforge.net/projects/deep-wine-runner-wine-download/files/wine-staging-wow64-9.5-debian10-amd64.7z/download"
+        "https://sourceforge.net/projects/deep-wine-runner-wine-download/files/wine-staging-wow64-9.5-debian10-amd64.7z"
     ],
     [
         "wine-staging-9.5-debian10-x86_64",
-        "https://sourceforge.net/projects/deep-wine-runner-wine-download/files/wine-staging-9.5-debian10-x86_64.7z/download"
+        "https://sourceforge.net/projects/deep-wine-runner-wine-download/files/wine-staging-9.5-debian10-x86_64.7z"
     ],
     [
         "wine-staging-9.5-debian10-amd64",
-        "https://sourceforge.net/projects/deep-wine-runner-wine-download/files/wine-staging-9.5-debian10-amd64.7z/download"
+        "https://sourceforge.net/projects/deep-wine-runner-wine-download/files/wine-staging-9.5-debian10-amd64.7z"
     ],
     [
         "wine-staging-9.5-debian10-i386",
-        "https://sourceforge.net/projects/deep-wine-runner-wine-download/files/wine-staging-9.5-debian10-i386.7z/download"
+        "https://sourceforge.net/projects/deep-wine-runner-wine-download/files/wine-staging-9.5-debian10-i386.7z"
     ],
     [
         "GE-Proton9.2",
-        "https://sourceforge.net/projects/deep-wine-runner-wine-download/files/GE-Proton9.2.7z/download"
+        "https://sourceforge.net/projects/deep-wine-runner-wine-download/files/GE-Proton9.2.7z"
     ],
     [
         "GE-Proton9.1",
-        "https://sourceforge.net/projects/deep-wine-runner-wine-download/files/GE-Proton9.1.7z/download"
+        "https://sourceforge.net/projects/deep-wine-runner-wine-download/files/GE-Proton9.1.7z"
     ],
     [
         "GE-Proton8.32",
-        "https://sourceforge.net/projects/deep-wine-runner-wine-download/files/GE-Proton8.32.7z/download"
+        "https://sourceforge.net/projects/deep-wine-runner-wine-download/files/GE-Proton8.32.7z"
     ],
     [
         "wine-staging-wow64-9.4-debian10-amd64",
-        "https://sourceforge.net/projects/deep-wine-runner-wine-download/files/wine-staging-wow64-9.4-debian10-amd64.7z/download"
+        "https://sourceforge.net/projects/deep-wine-runner-wine-download/files/wine-staging-wow64-9.4-debian10-amd64.7z"
     ],
     [
         "wine-staging-9.4-debian10-x86_64",
-        "https://sourceforge.net/projects/deep-wine-runner-wine-download/files/wine-staging-9.4-debian10-x86_64.7z/download"
+        "https://sourceforge.net/projects/deep-wine-runner-wine-download/files/wine-staging-9.4-debian10-x86_64.7z"
     ],
     [
         "wine-staging-9.4-debian10-amd64",
-        "https://sourceforge.net/projects/deep-wine-runner-wine-download/files/wine-staging-9.4-debian10-amd64.7z/download"
+        "https://sourceforge.net/projects/deep-wine-runner-wine-download/files/wine-staging-9.4-debian10-amd64.7z"
     ],
     [
         "wine-staging-9.4-debian10-i386",
-        "https://sourceforge.net/projects/deep-wine-runner-wine-download/files/wine-staging-9.4-debian10-i386.7z/download"
+        "https://sourceforge.net/projects/deep-wine-runner-wine-download/files/wine-staging-9.4-debian10-i386.7z"
     ],
     [
         "spark-wine9-wow-9.1-spark-0",
