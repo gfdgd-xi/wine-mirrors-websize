@@ -36,8 +36,8 @@
             ],
             [
                 "qemu-user",
-                "i386",
-                "amd64",
+                "qemu-user-i386",
+                "qemu-user-amd64",
                 "binfmt"
             ]
         ]
@@ -65,8 +65,8 @@
             ],
             [
                 "qemu-user",
-                "i386",
-                "amd64",
+                "qemu-user-i386",
+                "qemu-user-amd64",
                 "binfmt"
             ]
         ]
@@ -92,7 +92,7 @@
             ],
             [
                 "qemu-user",
-                "amd64",
+                "qemu-user-amd64",
                 "binfmt"
             ],
             "exagear",
@@ -109,8 +109,8 @@
             ],
             [
                 "qemu-user",
-                "i386",
-                "amd64",
+                "qemu-user-i386",
+                "qemu-user-amd64",
                 "binfmt"
             ]
         ]
@@ -139,8 +139,8 @@
             ],
             [
                 "qemu-user",
-                "i386",
-                "amd64",
+                "qemu-user-i386",
+                "qemu-user-amd64",
                 "binfmt"
             ]
         ]
@@ -166,7 +166,7 @@
             ],
             [
                 "qemu-user",
-                "amd64",
+                "qemu-user-amd64",
                 "binfmt"
             ]
         ]
@@ -192,7 +192,7 @@
             ],
             [
                 "qemu-user",
-                "i386",
+                "qemu-user-i386",
                 "binfmt"
             ]
         ]
@@ -237,7 +237,7 @@
             ],
             [
                 "qemu-user",
-                "amd64",
+                "qemu-user-amd64",
                 "binfmt"
             ]
         ]
@@ -295,8 +295,8 @@
             ],
             [
                 "qemu-user",
-                "i386",
-                "amd64",
+                "qemu-user-i386",
+                "qemu-user-amd64",
                 "binfmt"
             ]
         ]
@@ -324,8 +324,8 @@
             ],
             [
                 "qemu-user",
-                "i386",
-                "amd64",
+                "qemu-user-i386",
+                "qemu-user-amd64",
                 "binfmt"
             ]
         ]
@@ -351,7 +351,7 @@
             ],
             [
                 "qemu-user",
-                "amd64",
+                "qemu-user-amd64",
                 "binfmt"
             ],
             "exagear",
@@ -368,8 +368,8 @@
             ],
             [
                 "qemu-user",
-                "i386",
-                "amd64",
+                "qemu-user-i386",
+                "qemu-user-amd64",
                 "binfmt"
             ]
         ]
@@ -398,8 +398,8 @@
             ],
             [
                 "qemu-user",
-                "i386",
-                "amd64",
+                "qemu-user-i386",
+                "qemu-user-amd64",
                 "binfmt"
             ]
         ]
@@ -425,7 +425,7 @@
             ],
             [
                 "qemu-user",
-                "amd64",
+                "qemu-user-amd64",
                 "binfmt"
             ]
         ]
@@ -451,7 +451,7 @@
             ],
             [
                 "qemu-user",
-                "i386",
+                "qemu-user-i386",
                 "binfmt"
             ]
         ]
@@ -479,8 +479,8 @@
             ],
             [
                 "qemu-user",
-                "i386",
-                "amd64",
+                "qemu-user-i386",
+                "qemu-user-amd64",
                 "binfmt"
             ]
         ]
@@ -508,8 +508,8 @@
             ],
             [
                 "qemu-user",
-                "i386",
-                "amd64",
+                "qemu-user-i386",
+                "qemu-user-amd64",
                 "binfmt"
             ]
         ]
@@ -537,8 +537,8 @@
             ],
             [
                 "qemu-user",
-                "i386",
-                "amd64",
+                "qemu-user-i386",
+                "qemu-user-amd64",
                 "binfmt"
             ]
         ]
@@ -566,8 +566,8 @@
             ],
             [
                 "qemu-user",
-                "i386",
-                "amd64",
+                "qemu-user-i386",
+                "qemu-user-amd64",
                 "binfmt"
             ]
         ]
@@ -593,7 +593,7 @@
             ],
             [
                 "qemu-user",
-                "amd64",
+                "qemu-user-amd64",
                 "binfmt"
             ],
             "exagear",
@@ -610,8 +610,8 @@
             ],
             [
                 "qemu-user",
-                "i386",
-                "amd64",
+                "qemu-user-i386",
+                "qemu-user-amd64",
                 "binfmt"
             ]
         ]
@@ -640,8 +640,8 @@
             ],
             [
                 "qemu-user",
-                "i386",
-                "amd64",
+                "qemu-user-i386",
+                "qemu-user-amd64",
                 "binfmt"
             ]
         ]
@@ -667,7 +667,7 @@
             ],
             [
                 "qemu-user",
-                "amd64",
+                "qemu-user-amd64",
                 "binfmt"
             ]
         ]
@@ -693,7 +693,7 @@
             ],
             [
                 "qemu-user",
-                "i386",
+                "qemu-user-i386",
                 "binfmt"
             ]
         ]
@@ -721,8 +721,8 @@
             ],
             [
                 "qemu-user",
-                "i386",
-                "amd64",
+                "qemu-user-i386",
+                "qemu-user-amd64",
                 "binfmt"
             ]
         ]
@@ -748,7 +748,7 @@
             ],
             [
                 "qemu-user",
-                "amd64",
+                "qemu-user-amd64",
                 "binfmt"
             ],
             "exagear",
@@ -765,8 +765,8 @@
             ],
             [
                 "qemu-user",
-                "i386",
-                "amd64",
+                "qemu-user-i386",
+                "qemu-user-amd64",
                 "binfmt"
             ]
         ]
@@ -795,8 +795,8 @@
             ],
             [
                 "qemu-user",
-                "i386",
-                "amd64",
+                "qemu-user-i386",
+                "qemu-user-amd64",
                 "binfmt"
             ]
         ]
@@ -822,7 +822,7 @@
             ],
             [
                 "qemu-user",
-                "amd64",
+                "qemu-user-amd64",
                 "binfmt"
             ]
         ]
@@ -848,7 +848,7 @@
             ],
             [
                 "qemu-user",
-                "i386",
+                "qemu-user-i386",
                 "binfmt"
             ]
         ]
@@ -874,7 +874,7 @@
             ],
             [
                 "qemu-user",
-                "amd64",
+                "qemu-user-amd64",
                 "binfmt"
             ],
             "exagear",
@@ -891,8 +891,8 @@
             ],
             [
                 "qemu-user",
-                "i386",
-                "amd64",
+                "qemu-user-i386",
+                "qemu-user-amd64",
                 "binfmt"
             ]
         ]
@@ -920,8 +920,8 @@
             ],
             [
                 "qemu-user",
-                "i386",
-                "amd64",
+                "qemu-user-i386",
+                "qemu-user-amd64",
                 "binfmt"
             ]
         ]
@@ -949,8 +949,8 @@
             ],
             [
                 "qemu-user",
-                "i386",
-                "amd64",
+                "qemu-user-i386",
+                "qemu-user-amd64",
                 "binfmt"
             ]
         ]
@@ -979,8 +979,8 @@
             ],
             [
                 "qemu-user",
-                "i386",
-                "amd64",
+                "qemu-user-i386",
+                "qemu-user-amd64",
                 "binfmt"
             ]
         ]
@@ -1006,7 +1006,7 @@
             ],
             [
                 "qemu-user",
-                "amd64",
+                "qemu-user-amd64",
                 "binfmt"
             ]
         ]
@@ -1032,7 +1032,7 @@
             ],
             [
                 "qemu-user",
-                "i386",
+                "qemu-user-i386",
                 "binfmt"
             ]
         ]
@@ -1060,8 +1060,8 @@
             ],
             [
                 "qemu-user",
-                "i386",
-                "amd64",
+                "qemu-user-i386",
+                "qemu-user-amd64",
                 "binfmt"
             ]
         ]
@@ -1087,7 +1087,7 @@
             ],
             [
                 "qemu-user",
-                "amd64",
+                "qemu-user-amd64",
                 "binfmt"
             ],
             "exagear",
@@ -1104,8 +1104,8 @@
             ],
             [
                 "qemu-user",
-                "i386",
-                "amd64",
+                "qemu-user-i386",
+                "qemu-user-amd64",
                 "binfmt"
             ]
         ]
@@ -1131,7 +1131,7 @@
             ],
             [
                 "qemu-user",
-                "amd64",
+                "qemu-user-amd64",
                 "binfmt"
             ]
         ]
@@ -1157,7 +1157,7 @@
             ],
             [
                 "qemu-user",
-                "i386",
+                "qemu-user-i386",
                 "binfmt"
             ]
         ]
@@ -1196,8 +1196,8 @@
             ],
             [
                 "qemu-user",
-                "i386",
-                "amd64",
+                "qemu-user-i386",
+                "qemu-user-amd64",
                 "binfmt"
             ]
         ]
@@ -1223,7 +1223,7 @@
             ],
             [
                 "qemu-user",
-                "amd64",
+                "qemu-user-amd64",
                 "binfmt"
             ],
             "exagear",
@@ -1240,8 +1240,8 @@
             ],
             [
                 "qemu-user",
-                "i386",
-                "amd64",
+                "qemu-user-i386",
+                "qemu-user-amd64",
                 "binfmt"
             ]
         ]
@@ -1270,8 +1270,8 @@
             ],
             [
                 "qemu-user",
-                "i386",
-                "amd64",
+                "qemu-user-i386",
+                "qemu-user-amd64",
                 "binfmt"
             ]
         ]
@@ -1297,7 +1297,7 @@
             ],
             [
                 "qemu-user",
-                "amd64",
+                "qemu-user-amd64",
                 "binfmt"
             ]
         ]
@@ -1323,7 +1323,7 @@
             ],
             [
                 "qemu-user",
-                "i386",
+                "qemu-user-i386",
                 "binfmt"
             ]
         ]
@@ -1349,7 +1349,7 @@
             ],
             [
                 "qemu-user",
-                "amd64",
+                "qemu-user-amd64",
                 "binfmt"
             ],
             "exagear",
@@ -1366,8 +1366,8 @@
             ],
             [
                 "qemu-user",
-                "i386",
-                "amd64",
+                "qemu-user-i386",
+                "qemu-user-amd64",
                 "binfmt"
             ]
         ]
@@ -1396,8 +1396,8 @@
             ],
             [
                 "qemu-user",
-                "i386",
-                "amd64",
+                "qemu-user-i386",
+                "qemu-user-amd64",
                 "binfmt"
             ]
         ]
@@ -1423,7 +1423,7 @@
             ],
             [
                 "qemu-user",
-                "amd64",
+                "qemu-user-amd64",
                 "binfmt"
             ]
         ]
@@ -1449,7 +1449,7 @@
             ],
             [
                 "qemu-user",
-                "i386",
+                "qemu-user-i386",
                 "binfmt"
             ]
         ]
@@ -1477,8 +1477,8 @@
             ],
             [
                 "qemu-user",
-                "i386",
-                "amd64",
+                "qemu-user-i386",
+                "qemu-user-amd64",
                 "binfmt"
             ]
         ]
@@ -1506,8 +1506,8 @@
             ],
             [
                 "qemu-user",
-                "i386",
-                "amd64",
+                "qemu-user-i386",
+                "qemu-user-amd64",
                 "binfmt"
             ]
         ]
@@ -1533,7 +1533,7 @@
             ],
             [
                 "qemu-user",
-                "amd64",
+                "qemu-user-amd64",
                 "binfmt"
             ],
             "exagear",
@@ -1550,8 +1550,8 @@
             ],
             [
                 "qemu-user",
-                "i386",
-                "amd64",
+                "qemu-user-i386",
+                "qemu-user-amd64",
                 "binfmt"
             ]
         ]
@@ -1580,8 +1580,8 @@
             ],
             [
                 "qemu-user",
-                "i386",
-                "amd64",
+                "qemu-user-i386",
+                "qemu-user-amd64",
                 "binfmt"
             ]
         ]
@@ -1607,7 +1607,7 @@
             ],
             [
                 "qemu-user",
-                "amd64",
+                "qemu-user-amd64",
                 "binfmt"
             ]
         ]
@@ -1633,7 +1633,7 @@
             ],
             [
                 "qemu-user",
-                "i386",
+                "qemu-user-i386",
                 "binfmt"
             ]
         ]
@@ -1659,7 +1659,7 @@
             ],
             [
                 "qemu-user",
-                "amd64",
+                "qemu-user-amd64",
                 "binfmt"
             ],
             "exagear",
@@ -1676,8 +1676,8 @@
             ],
             [
                 "qemu-user",
-                "i386",
-                "amd64",
+                "qemu-user-i386",
+                "qemu-user-amd64",
                 "binfmt"
             ]
         ]
@@ -1706,8 +1706,8 @@
             ],
             [
                 "qemu-user",
-                "i386",
-                "amd64",
+                "qemu-user-i386",
+                "qemu-user-amd64",
                 "binfmt"
             ]
         ]
@@ -1733,7 +1733,7 @@
             ],
             [
                 "qemu-user",
-                "amd64",
+                "qemu-user-amd64",
                 "binfmt"
             ]
         ]
@@ -1759,7 +1759,7 @@
             ],
             [
                 "qemu-user",
-                "i386",
+                "qemu-user-i386",
                 "binfmt"
             ]
         ]
@@ -1787,8 +1787,8 @@
             ],
             [
                 "qemu-user",
-                "i386",
-                "amd64",
+                "qemu-user-i386",
+                "qemu-user-amd64",
                 "binfmt"
             ]
         ]
@@ -1816,8 +1816,8 @@
             ],
             [
                 "qemu-user",
-                "i386",
-                "amd64",
+                "qemu-user-i386",
+                "qemu-user-amd64",
                 "binfmt"
             ]
         ]
@@ -1845,8 +1845,8 @@
             ],
             [
                 "qemu-user",
-                "i386",
-                "amd64",
+                "qemu-user-i386",
+                "qemu-user-amd64",
                 "binfmt"
             ]
         ]
@@ -1872,7 +1872,7 @@
             ],
             [
                 "qemu-user",
-                "amd64",
+                "qemu-user-amd64",
                 "binfmt"
             ],
             "exagear",
@@ -1889,8 +1889,8 @@
             ],
             [
                 "qemu-user",
-                "i386",
-                "amd64",
+                "qemu-user-i386",
+                "qemu-user-amd64",
                 "binfmt"
             ]
         ]
@@ -1919,8 +1919,8 @@
             ],
             [
                 "qemu-user",
-                "i386",
-                "amd64",
+                "qemu-user-i386",
+                "qemu-user-amd64",
                 "binfmt"
             ]
         ]
@@ -1946,7 +1946,7 @@
             ],
             [
                 "qemu-user",
-                "amd64",
+                "qemu-user-amd64",
                 "binfmt"
             ]
         ]
@@ -1972,7 +1972,7 @@
             ],
             [
                 "qemu-user",
-                "i386",
+                "qemu-user-i386",
                 "binfmt"
             ]
         ]
@@ -2000,8 +2000,8 @@
             ],
             [
                 "qemu-user",
-                "i386",
-                "amd64",
+                "qemu-user-i386",
+                "qemu-user-amd64",
                 "binfmt"
             ]
         ]
@@ -2029,8 +2029,8 @@
             ],
             [
                 "qemu-user",
-                "i386",
-                "amd64",
+                "qemu-user-i386",
+                "qemu-user-amd64",
                 "binfmt"
             ]
         ]
@@ -2058,8 +2058,8 @@
             ],
             [
                 "qemu-user",
-                "i386",
-                "amd64",
+                "qemu-user-i386",
+                "qemu-user-amd64",
                 "binfmt"
             ]
         ]
@@ -2085,7 +2085,7 @@
             ],
             [
                 "qemu-user",
-                "amd64",
+                "qemu-user-amd64",
                 "binfmt"
             ],
             "exagear",
@@ -2102,8 +2102,8 @@
             ],
             [
                 "qemu-user",
-                "i386",
-                "amd64",
+                "qemu-user-i386",
+                "qemu-user-amd64",
                 "binfmt"
             ]
         ]
@@ -2132,8 +2132,8 @@
             ],
             [
                 "qemu-user",
-                "i386",
-                "amd64",
+                "qemu-user-i386",
+                "qemu-user-amd64",
                 "binfmt"
             ]
         ]
@@ -2159,7 +2159,7 @@
             ],
             [
                 "qemu-user",
-                "amd64",
+                "qemu-user-amd64",
                 "binfmt"
             ]
         ]
@@ -2185,7 +2185,7 @@
             ],
             [
                 "qemu-user",
-                "i386",
+                "qemu-user-i386",
                 "binfmt"
             ]
         ]
@@ -2210,7 +2210,7 @@
             ],
             [
                 "qemu-user",
-                "amd64",
+                "qemu-user-amd64",
                 "binfmt"
             ]
         ]
@@ -2238,8 +2238,8 @@
             ],
             [
                 "qemu-user",
-                "i386",
-                "amd64",
+                "qemu-user-i386",
+                "qemu-user-amd64",
                 "binfmt"
             ]
         ]
@@ -2267,8 +2267,8 @@
             ],
             [
                 "qemu-user",
-                "i386",
-                "amd64",
+                "qemu-user-i386",
+                "qemu-user-amd64",
                 "binfmt"
             ]
         ]
@@ -2296,8 +2296,8 @@
             ],
             [
                 "qemu-user",
-                "i386",
-                "amd64",
+                "qemu-user-i386",
+                "qemu-user-amd64",
                 "binfmt"
             ]
         ]
@@ -2325,8 +2325,8 @@
             ],
             [
                 "qemu-user",
-                "i386",
-                "amd64",
+                "qemu-user-i386",
+                "qemu-user-amd64",
                 "binfmt"
             ]
         ]
@@ -2354,8 +2354,8 @@
             ],
             [
                 "qemu-user",
-                "i386",
-                "amd64",
+                "qemu-user-i386",
+                "qemu-user-amd64",
                 "binfmt"
             ]
         ]
@@ -2384,8 +2384,8 @@
             ],
             [
                 "qemu-user",
-                "i386",
-                "amd64",
+                "qemu-user-i386",
+                "qemu-user-amd64",
                 "binfmt"
             ]
         ]
@@ -2411,7 +2411,7 @@
             ],
             [
                 "qemu-user",
-                "amd64",
+                "qemu-user-amd64",
                 "binfmt"
             ]
         ]
@@ -2437,7 +2437,7 @@
             ],
             [
                 "qemu-user",
-                "i386",
+                "qemu-user-i386",
                 "binfmt"
             ]
         ]
@@ -2462,7 +2462,7 @@
             ],
             [
                 "qemu-user",
-                "amd64",
+                "qemu-user-amd64",
                 "binfmt"
             ]
         ]
@@ -2495,7 +2495,7 @@
             ],
             [
                 "qemu-user",
-                "i386",
+                "qemu-user-i386",
                 "binfmt"
             ],
             [
@@ -2526,7 +2526,7 @@
             ],
             [
                 "qemu-user",
-                "amd64",
+                "qemu-user-amd64",
                 "binfmt"
             ],
             "exagear",
@@ -2543,8 +2543,8 @@
             ],
             [
                 "qemu-user",
-                "i386",
-                "amd64",
+                "qemu-user-i386",
+                "qemu-user-amd64",
                 "binfmt"
             ]
         ]
@@ -2570,7 +2570,7 @@
             ],
             [
                 "qemu-user",
-                "amd64",
+                "qemu-user-amd64",
                 "binfmt"
             ]
         ]
@@ -2596,7 +2596,7 @@
             ],
             [
                 "qemu-user",
-                "i386",
+                "qemu-user-i386",
                 "binfmt"
             ]
         ]
@@ -2625,8 +2625,8 @@
             ],
             [
                 "qemu-user",
-                "i386",
-                "amd64",
+                "qemu-user-i386",
+                "qemu-user-amd64",
                 "binfmt"
             ]
         ]
@@ -2654,8 +2654,8 @@
             ],
             [
                 "qemu-user",
-                "i386",
-                "amd64",
+                "qemu-user-i386",
+                "qemu-user-amd64",
                 "binfmt"
             ]
         ]
@@ -2684,8 +2684,8 @@
             ],
             [
                 "qemu-user",
-                "i386",
-                "amd64",
+                "qemu-user-i386",
+                "qemu-user-amd64",
                 "binfmt"
             ]
         ]
@@ -2711,7 +2711,7 @@
             ],
             [
                 "qemu-user",
-                "amd64",
+                "qemu-user-amd64",
                 "binfmt"
             ]
         ]
@@ -2737,7 +2737,7 @@
             ],
             [
                 "qemu-user",
-                "i386",
+                "qemu-user-i386",
                 "binfmt"
             ]
         ]
@@ -2763,7 +2763,7 @@
             ],
             [
                 "qemu-user",
-                "amd64",
+                "qemu-user-amd64",
                 "binfmt"
             ],
             "exagear",
@@ -2780,8 +2780,8 @@
             ],
             [
                 "qemu-user",
-                "i386",
-                "amd64",
+                "qemu-user-i386",
+                "qemu-user-amd64",
                 "binfmt"
             ]
         ]
@@ -2809,8 +2809,8 @@
             ],
             [
                 "qemu-user",
-                "i386",
-                "amd64",
+                "qemu-user-i386",
+                "qemu-user-amd64",
                 "binfmt"
             ],
             "exagear",
@@ -2827,8 +2827,8 @@
             ],
             [
                 "qemu-user",
-                "i386",
-                "amd64",
+                "qemu-user-i386",
+                "qemu-user-amd64",
                 "binfmt"
             ]
         ]
@@ -2856,8 +2856,8 @@
             ],
             [
                 "qemu-user",
-                "i386",
-                "amd64",
+                "qemu-user-i386",
+                "qemu-user-amd64",
                 "binfmt"
             ],
             "exagear",
@@ -2874,8 +2874,8 @@
             ],
             [
                 "qemu-user",
-                "i386",
-                "amd64",
+                "qemu-user-i386",
+                "qemu-user-amd64",
                 "binfmt"
             ]
         ]
@@ -2901,7 +2901,7 @@
             ],
             [
                 "qemu-user",
-                "amd64",
+                "qemu-user-amd64",
                 "binfmt"
             ],
             "exagear",
@@ -2918,8 +2918,8 @@
             ],
             [
                 "qemu-user",
-                "i386",
-                "amd64",
+                "qemu-user-i386",
+                "qemu-user-amd64",
                 "binfmt"
             ]
         ]
@@ -2948,8 +2948,8 @@
             ],
             [
                 "qemu-user",
-                "i386",
-                "amd64",
+                "qemu-user-i386",
+                "qemu-user-amd64",
                 "binfmt"
             ]
         ]
@@ -2975,7 +2975,7 @@
             ],
             [
                 "qemu-user",
-                "amd64",
+                "qemu-user-amd64",
                 "binfmt"
             ]
         ]
@@ -3001,7 +3001,7 @@
             ],
             [
                 "qemu-user",
-                "i386",
+                "qemu-user-i386",
                 "binfmt"
             ]
         ]
@@ -3029,8 +3029,8 @@
             ],
             [
                 "qemu-user",
-                "i386",
-                "amd64",
+                "qemu-user-i386",
+                "qemu-user-amd64",
                 "binfmt"
             ]
         ]
@@ -3058,8 +3058,8 @@
             ],
             [
                 "qemu-user",
-                "i386",
-                "amd64",
+                "qemu-user-i386",
+                "qemu-user-amd64",
                 "binfmt"
             ]
         ]
@@ -3087,8 +3087,8 @@
             ],
             [
                 "qemu-user",
-                "i386",
-                "amd64",
+                "qemu-user-i386",
+                "qemu-user-amd64",
                 "binfmt"
             ]
         ]
@@ -3113,7 +3113,7 @@
             ],
             [
                 "qemu-user",
-                "amd64",
+                "qemu-user-amd64",
                 "binfmt"
             ]
         ]
@@ -3141,8 +3141,8 @@
             ],
             [
                 "qemu-user",
-                "i386",
-                "amd64",
+                "qemu-user-i386",
+                "qemu-user-amd64",
                 "binfmt"
             ]
         ]
@@ -3170,8 +3170,8 @@
             ],
             [
                 "qemu-user",
-                "i386",
-                "amd64",
+                "qemu-user-i386",
+                "qemu-user-amd64",
                 "binfmt"
             ],
             "exagear",
@@ -3188,8 +3188,8 @@
             ],
             [
                 "qemu-user",
-                "i386",
-                "amd64",
+                "qemu-user-i386",
+                "qemu-user-amd64",
                 "binfmt"
             ]
         ]
@@ -3217,8 +3217,8 @@
             ],
             [
                 "qemu-user",
-                "i386",
-                "amd64",
+                "qemu-user-i386",
+                "qemu-user-amd64",
                 "binfmt"
             ],
             "exagear",
@@ -3235,8 +3235,8 @@
             ],
             [
                 "qemu-user",
-                "i386",
-                "amd64",
+                "qemu-user-i386",
+                "qemu-user-amd64",
                 "binfmt"
             ]
         ]
@@ -3264,8 +3264,8 @@
             ],
             [
                 "qemu-user",
-                "i386",
-                "amd64",
+                "qemu-user-i386",
+                "qemu-user-amd64",
                 "binfmt"
             ]
         ]
@@ -3293,8 +3293,8 @@
             ],
             [
                 "qemu-user",
-                "i386",
-                "amd64",
+                "qemu-user-i386",
+                "qemu-user-amd64",
                 "binfmt"
             ]
         ]
@@ -3322,8 +3322,8 @@
             ],
             [
                 "qemu-user",
-                "i386",
-                "amd64",
+                "qemu-user-i386",
+                "qemu-user-amd64",
                 "binfmt"
             ]
         ]
@@ -3348,7 +3348,7 @@
             ],
             [
                 "qemu-user",
-                "i386",
+                "qemu-user-i386",
                 "binfmt"
             ],
             [
@@ -3370,8 +3370,8 @@
             ],
             [
                 "qemu-user",
-                "i386",
-                "amd64",
+                "qemu-user-i386",
+                "qemu-user-amd64",
                 "binfmt"
             ]
         ]
@@ -3396,7 +3396,7 @@
             ],
             [
                 "qemu-user",
-                "amd64",
+                "qemu-user-amd64",
                 "binfmt"
             ],
             [
@@ -3418,8 +3418,8 @@
             ],
             [
                 "qemu-user",
-                "i386",
-                "amd64",
+                "qemu-user-i386",
+                "qemu-user-amd64",
                 "binfmt"
             ]
         ]
@@ -3478,7 +3478,7 @@
             ],
             [
                 "qemu-user",
-                "amd64",
+                "qemu-user-amd64",
                 "binfmt"
             ],
             "exagear",
@@ -3495,8 +3495,8 @@
             ],
             [
                 "qemu-user",
-                "i386",
-                "amd64",
+                "qemu-user-i386",
+                "qemu-user-amd64",
                 "binfmt"
             ]
         ]
@@ -3525,8 +3525,8 @@
             ],
             [
                 "qemu-user",
-                "i386",
-                "amd64",
+                "qemu-user-i386",
+                "qemu-user-amd64",
                 "binfmt"
             ]
         ]
@@ -3552,7 +3552,7 @@
             ],
             [
                 "qemu-user",
-                "amd64",
+                "qemu-user-amd64",
                 "binfmt"
             ]
         ]
@@ -3578,7 +3578,7 @@
             ],
             [
                 "qemu-user",
-                "i386",
+                "qemu-user-i386",
                 "binfmt"
             ]
         ]
@@ -3606,8 +3606,8 @@
             ],
             [
                 "qemu-user",
-                "i386",
-                "amd64",
+                "qemu-user-i386",
+                "qemu-user-amd64",
                 "binfmt"
             ]
         ]
@@ -3635,8 +3635,8 @@
             ],
             [
                 "qemu-user",
-                "i386",
-                "amd64",
+                "qemu-user-i386",
+                "qemu-user-amd64",
                 "binfmt"
             ]
         ]
@@ -3661,7 +3661,7 @@
             ],
             [
                 "qemu-user",
-                "amd64",
+                "qemu-user-amd64",
                 "binfmt"
             ]
         ]
@@ -3687,7 +3687,7 @@
             ],
             [
                 "qemu-user",
-                "amd64",
+                "qemu-user-amd64",
                 "binfmt"
             ],
             "exagear",
@@ -3704,8 +3704,8 @@
             ],
             [
                 "qemu-user",
-                "i386",
-                "amd64",
+                "qemu-user-i386",
+                "qemu-user-amd64",
                 "binfmt"
             ]
         ]
@@ -3734,8 +3734,8 @@
             ],
             [
                 "qemu-user",
-                "i386",
-                "amd64",
+                "qemu-user-i386",
+                "qemu-user-amd64",
                 "binfmt"
             ]
         ]
@@ -3761,7 +3761,7 @@
             ],
             [
                 "qemu-user",
-                "amd64",
+                "qemu-user-amd64",
                 "binfmt"
             ]
         ]
@@ -3787,7 +3787,7 @@
             ],
             [
                 "qemu-user",
-                "i386",
+                "qemu-user-i386",
                 "binfmt"
             ]
         ]
@@ -3815,8 +3815,8 @@
             ],
             [
                 "qemu-user",
-                "i386",
-                "amd64",
+                "qemu-user-i386",
+                "qemu-user-amd64",
                 "binfmt"
             ]
         ]
@@ -3844,8 +3844,8 @@
             ],
             [
                 "qemu-user",
-                "i386",
-                "amd64",
+                "qemu-user-i386",
+                "qemu-user-amd64",
                 "binfmt"
             ]
         ]
@@ -3873,8 +3873,8 @@
             ],
             [
                 "qemu-user",
-                "i386",
-                "amd64",
+                "qemu-user-i386",
+                "qemu-user-amd64",
                 "binfmt"
             ]
         ]
@@ -3920,7 +3920,7 @@
             ],
             [
                 "qemu-user",
-                "amd64",
+                "qemu-user-amd64",
                 "binfmt"
             ],
             "exagear",
@@ -3937,8 +3937,8 @@
             ],
             [
                 "qemu-user",
-                "i386",
-                "amd64",
+                "qemu-user-i386",
+                "qemu-user-amd64",
                 "binfmt"
             ]
         ]
@@ -3967,8 +3967,8 @@
             ],
             [
                 "qemu-user",
-                "i386",
-                "amd64",
+                "qemu-user-i386",
+                "qemu-user-amd64",
                 "binfmt"
             ]
         ]
@@ -3994,7 +3994,7 @@
             ],
             [
                 "qemu-user",
-                "amd64",
+                "qemu-user-amd64",
                 "binfmt"
             ]
         ]
@@ -4020,7 +4020,7 @@
             ],
             [
                 "qemu-user",
-                "i386",
+                "qemu-user-i386",
                 "binfmt"
             ]
         ]
@@ -4048,8 +4048,8 @@
             ],
             [
                 "qemu-user",
-                "i386",
-                "amd64",
+                "qemu-user-i386",
+                "qemu-user-amd64",
                 "binfmt"
             ]
         ]
@@ -4087,8 +4087,8 @@
             ],
             [
                 "qemu-user",
-                "i386",
-                "amd64",
+                "qemu-user-i386",
+                "qemu-user-amd64",
                 "binfmt"
             ]
         ]
@@ -4116,8 +4116,8 @@
             ],
             [
                 "qemu-user",
-                "i386",
-                "amd64",
+                "qemu-user-i386",
+                "qemu-user-amd64",
                 "binfmt"
             ]
         ]
@@ -4145,8 +4145,8 @@
             ],
             [
                 "qemu-user",
-                "i386",
-                "amd64",
+                "qemu-user-i386",
+                "qemu-user-amd64",
                 "binfmt"
             ]
         ]
@@ -4174,8 +4174,8 @@
             ],
             [
                 "qemu-user",
-                "i386",
-                "amd64",
+                "qemu-user-i386",
+                "qemu-user-amd64",
                 "binfmt"
             ]
         ]
@@ -4201,7 +4201,7 @@
             ],
             [
                 "qemu-user",
-                "i386",
+                "qemu-user-i386",
                 "binfmt"
             ]
         ]
@@ -4227,7 +4227,7 @@
             ],
             [
                 "qemu-user",
-                "amd64",
+                "qemu-user-amd64",
                 "binfmt"
             ]
         ]
@@ -4256,8 +4256,8 @@
             ],
             [
                 "qemu-user",
-                "i386",
-                "amd64",
+                "qemu-user-i386",
+                "qemu-user-amd64",
                 "binfmt"
             ]
         ]
@@ -4283,7 +4283,7 @@
             ],
             [
                 "qemu-user",
-                "amd64",
+                "qemu-user-amd64",
                 "binfmt"
             ],
             "exagear",
@@ -4300,8 +4300,8 @@
             ],
             [
                 "qemu-user",
-                "i386",
-                "amd64",
+                "qemu-user-i386",
+                "qemu-user-amd64",
                 "binfmt"
             ]
         ]
@@ -4329,8 +4329,8 @@
             ],
             [
                 "qemu-user",
-                "i386",
-                "amd64",
+                "qemu-user-i386",
+                "qemu-user-amd64",
                 "binfmt"
             ]
         ]
@@ -4356,7 +4356,7 @@
             ],
             [
                 "qemu-user",
-                "amd64",
+                "qemu-user-amd64",
                 "binfmt"
             ],
             "exagear",
@@ -4373,8 +4373,8 @@
             ],
             [
                 "qemu-user",
-                "i386",
-                "amd64",
+                "qemu-user-i386",
+                "qemu-user-amd64",
                 "binfmt"
             ]
         ]
@@ -4403,8 +4403,8 @@
             ],
             [
                 "qemu-user",
-                "i386",
-                "amd64",
+                "qemu-user-i386",
+                "qemu-user-amd64",
                 "binfmt"
             ]
         ]
@@ -4430,7 +4430,7 @@
             ],
             [
                 "qemu-user",
-                "amd64",
+                "qemu-user-amd64",
                 "binfmt"
             ]
         ]
@@ -4456,7 +4456,7 @@
             ],
             [
                 "qemu-user",
-                "i386",
+                "qemu-user-i386",
                 "binfmt"
             ]
         ]
@@ -4482,7 +4482,7 @@
             ],
             [
                 "qemu-user",
-                "amd64",
+                "qemu-user-amd64",
                 "binfmt"
             ],
             "exagear",
@@ -4499,8 +4499,8 @@
             ],
             [
                 "qemu-user",
-                "i386",
-                "amd64",
+                "qemu-user-i386",
+                "qemu-user-amd64",
                 "binfmt"
             ]
         ]
@@ -4529,8 +4529,8 @@
             ],
             [
                 "qemu-user",
-                "i386",
-                "amd64",
+                "qemu-user-i386",
+                "qemu-user-amd64",
                 "binfmt"
             ]
         ]
@@ -4556,7 +4556,7 @@
             ],
             [
                 "qemu-user",
-                "amd64",
+                "qemu-user-amd64",
                 "binfmt"
             ]
         ]
@@ -4582,7 +4582,7 @@
             ],
             [
                 "qemu-user",
-                "i386",
+                "qemu-user-i386",
                 "binfmt"
             ]
         ]
@@ -4610,8 +4610,8 @@
             ],
             [
                 "qemu-user",
-                "i386",
-                "amd64",
+                "qemu-user-i386",
+                "qemu-user-amd64",
                 "binfmt"
             ]
         ]
@@ -4639,8 +4639,8 @@
             ],
             [
                 "qemu-user",
-                "i386",
-                "amd64",
+                "qemu-user-i386",
+                "qemu-user-amd64",
                 "binfmt"
             ]
         ]
@@ -4668,8 +4668,8 @@
             ],
             [
                 "qemu-user",
-                "i386",
-                "amd64",
+                "qemu-user-i386",
+                "qemu-user-amd64",
                 "binfmt"
             ]
         ]
@@ -4697,8 +4697,8 @@
             ],
             [
                 "qemu-user",
-                "i386",
-                "amd64",
+                "qemu-user-i386",
+                "qemu-user-amd64",
                 "binfmt"
             ]
         ]
@@ -4726,8 +4726,8 @@
             ],
             [
                 "qemu-user",
-                "i386",
-                "amd64",
+                "qemu-user-i386",
+                "qemu-user-amd64",
                 "binfmt"
             ]
         ]
@@ -4755,8 +4755,8 @@
             ],
             [
                 "qemu-user",
-                "i386",
-                "amd64",
+                "qemu-user-i386",
+                "qemu-user-amd64",
                 "binfmt"
             ]
         ]
@@ -4784,8 +4784,8 @@
             ],
             [
                 "qemu-user",
-                "i386",
-                "amd64",
+                "qemu-user-i386",
+                "qemu-user-amd64",
                 "binfmt"
             ]
         ]
@@ -4813,8 +4813,8 @@
             ],
             [
                 "qemu-user",
-                "i386",
-                "amd64",
+                "qemu-user-i386",
+                "qemu-user-amd64",
                 "binfmt"
             ]
         ]
@@ -4842,8 +4842,8 @@
             ],
             [
                 "qemu-user",
-                "i386",
-                "amd64",
+                "qemu-user-i386",
+                "qemu-user-amd64",
                 "binfmt"
             ]
         ]
@@ -4871,8 +4871,8 @@
             ],
             [
                 "qemu-user",
-                "i386",
-                "amd64",
+                "qemu-user-i386",
+                "qemu-user-amd64",
                 "binfmt"
             ]
         ]
@@ -4900,8 +4900,8 @@
             ],
             [
                 "qemu-user",
-                "i386",
-                "amd64",
+                "qemu-user-i386",
+                "qemu-user-amd64",
                 "binfmt"
             ]
         ]
@@ -4929,8 +4929,8 @@
             ],
             [
                 "qemu-user",
-                "i386",
-                "amd64",
+                "qemu-user-i386",
+                "qemu-user-amd64",
                 "binfmt"
             ]
         ]
@@ -4958,8 +4958,8 @@
             ],
             [
                 "qemu-user",
-                "i386",
-                "amd64",
+                "qemu-user-i386",
+                "qemu-user-amd64",
                 "binfmt"
             ]
         ]
@@ -4988,8 +4988,8 @@
             ],
             [
                 "qemu-user",
-                "i386",
-                "amd64",
+                "qemu-user-i386",
+                "qemu-user-amd64",
                 "binfmt"
             ]
         ]
@@ -5015,7 +5015,7 @@
             ],
             [
                 "qemu-user",
-                "amd64",
+                "qemu-user-amd64",
                 "binfmt"
             ]
         ]
@@ -5041,7 +5041,7 @@
             ],
             [
                 "qemu-user",
-                "i386",
+                "qemu-user-i386",
                 "binfmt"
             ]
         ]
@@ -5070,8 +5070,8 @@
             ],
             [
                 "qemu-user",
-                "i386",
-                "amd64",
+                "qemu-user-i386",
+                "qemu-user-amd64",
                 "binfmt"
             ],
             "exagear",
@@ -5088,8 +5088,8 @@
             ],
             [
                 "qemu-user",
-                "i386",
-                "amd64",
+                "qemu-user-i386",
+                "qemu-user-amd64",
                 "binfmt"
             ]
         ]
@@ -5129,8 +5129,8 @@
             ],
             [
                 "qemu-user",
-                "i386",
-                "amd64",
+                "qemu-user-i386",
+                "qemu-user-amd64",
                 "binfmt"
             ]
         ]
@@ -5156,7 +5156,7 @@
             ],
             [
                 "qemu-user",
-                "amd64",
+                "qemu-user-amd64",
                 "binfmt"
             ],
             "exagear",
@@ -5173,8 +5173,8 @@
             ],
             [
                 "qemu-user",
-                "i386",
-                "amd64",
+                "qemu-user-i386",
+                "qemu-user-amd64",
                 "binfmt"
             ]
         ]
@@ -5203,8 +5203,8 @@
             ],
             [
                 "qemu-user",
-                "i386",
-                "amd64",
+                "qemu-user-i386",
+                "qemu-user-amd64",
                 "binfmt"
             ]
         ]
@@ -5230,7 +5230,7 @@
             ],
             [
                 "qemu-user",
-                "amd64",
+                "qemu-user-amd64",
                 "binfmt"
             ],
             "exagear",
@@ -5247,8 +5247,8 @@
             ],
             [
                 "qemu-user",
-                "i386",
-                "amd64",
+                "qemu-user-i386",
+                "qemu-user-amd64",
                 "binfmt"
             ]
         ]
@@ -5274,7 +5274,7 @@
             ],
             [
                 "qemu-user",
-                "amd64",
+                "qemu-user-amd64",
                 "binfmt"
             ]
         ]
@@ -5300,7 +5300,7 @@
             ],
             [
                 "qemu-user",
-                "i386",
+                "qemu-user-i386",
                 "binfmt"
             ]
         ]
@@ -5328,8 +5328,8 @@
             ],
             [
                 "qemu-user",
-                "i386",
-                "amd64",
+                "qemu-user-i386",
+                "qemu-user-amd64",
                 "binfmt"
             ]
         ]
@@ -5355,7 +5355,7 @@
             ],
             [
                 "qemu-user",
-                "amd64",
+                "qemu-user-amd64",
                 "binfmt"
             ]
         ]
@@ -5381,7 +5381,7 @@
             ],
             [
                 "qemu-user",
-                "i386",
+                "qemu-user-i386",
                 "binfmt"
             ]
         ]
@@ -5420,8 +5420,8 @@
             ],
             [
                 "qemu-user",
-                "i386",
-                "amd64",
+                "qemu-user-i386",
+                "qemu-user-amd64",
                 "binfmt"
             ]
         ]
@@ -5449,8 +5449,8 @@
             ],
             [
                 "qemu-user",
-                "i386",
-                "amd64",
+                "qemu-user-i386",
+                "qemu-user-amd64",
                 "binfmt"
             ]
         ]
@@ -5479,8 +5479,8 @@
             ],
             [
                 "qemu-user",
-                "i386",
-                "amd64",
+                "qemu-user-i386",
+                "qemu-user-amd64",
                 "binfmt"
             ]
         ]
@@ -5506,7 +5506,7 @@
             ],
             [
                 "qemu-user",
-                "amd64",
+                "qemu-user-amd64",
                 "binfmt"
             ],
             "exagear",
@@ -5523,8 +5523,8 @@
             ],
             [
                 "qemu-user",
-                "i386",
-                "amd64",
+                "qemu-user-i386",
+                "qemu-user-amd64",
                 "binfmt"
             ]
         ]
@@ -5550,7 +5550,7 @@
             ],
             [
                 "qemu-user",
-                "amd64",
+                "qemu-user-amd64",
                 "binfmt"
             ]
         ]
@@ -5576,7 +5576,7 @@
             ],
             [
                 "qemu-user",
-                "i386",
+                "qemu-user-i386",
                 "binfmt"
             ]
         ]
@@ -5615,8 +5615,8 @@
             ],
             [
                 "qemu-user",
-                "i386",
-                "amd64",
+                "qemu-user-i386",
+                "qemu-user-amd64",
                 "binfmt"
             ]
         ]
@@ -5644,8 +5644,8 @@
             ],
             [
                 "qemu-user",
-                "i386",
-                "amd64",
+                "qemu-user-i386",
+                "qemu-user-amd64",
                 "binfmt"
             ]
         ]
@@ -5674,8 +5674,8 @@
             ],
             [
                 "qemu-user",
-                "i386",
-                "amd64",
+                "qemu-user-i386",
+                "qemu-user-amd64",
                 "binfmt"
             ]
         ]
@@ -5701,7 +5701,7 @@
             ],
             [
                 "qemu-user",
-                "amd64",
+                "qemu-user-amd64",
                 "binfmt"
             ],
             "exagear",
@@ -5718,8 +5718,8 @@
             ],
             [
                 "qemu-user",
-                "i386",
-                "amd64",
+                "qemu-user-i386",
+                "qemu-user-amd64",
                 "binfmt"
             ]
         ]
@@ -5745,7 +5745,7 @@
             ],
             [
                 "qemu-user",
-                "amd64",
+                "qemu-user-amd64",
                 "binfmt"
             ]
         ]
@@ -5771,7 +5771,7 @@
             ],
             [
                 "qemu-user",
-                "i386",
+                "qemu-user-i386",
                 "binfmt"
             ]
         ]
@@ -5811,8 +5811,8 @@
             ],
             [
                 "qemu-user",
-                "i386",
-                "amd64",
+                "qemu-user-i386",
+                "qemu-user-amd64",
                 "binfmt"
             ]
         ]
@@ -5838,7 +5838,7 @@
             ],
             [
                 "qemu-user",
-                "amd64",
+                "qemu-user-amd64",
                 "binfmt"
             ],
             "exagear",
@@ -5855,8 +5855,8 @@
             ],
             [
                 "qemu-user",
-                "i386",
-                "amd64",
+                "qemu-user-i386",
+                "qemu-user-amd64",
                 "binfmt"
             ]
         ]
@@ -5884,8 +5884,8 @@
             ],
             [
                 "qemu-user",
-                "i386",
-                "amd64",
+                "qemu-user-i386",
+                "qemu-user-amd64",
                 "binfmt"
             ]
         ]
@@ -5913,8 +5913,8 @@
             ],
             [
                 "qemu-user",
-                "i386",
-                "amd64",
+                "qemu-user-i386",
+                "qemu-user-amd64",
                 "binfmt"
             ]
         ]
@@ -5940,7 +5940,7 @@
             ],
             [
                 "qemu-user",
-                "amd64",
+                "qemu-user-amd64",
                 "binfmt"
             ]
         ]
@@ -5966,7 +5966,7 @@
             ],
             [
                 "qemu-user",
-                "i386",
+                "qemu-user-i386",
                 "binfmt"
             ]
         ]
@@ -5991,7 +5991,7 @@
             ],
             [
                 "qemu-user",
-                "amd64",
+                "qemu-user-amd64",
                 "binfmt"
             ]
         ]
@@ -6039,8 +6039,8 @@
             ],
             [
                 "qemu-user",
-                "i386",
-                "amd64",
+                "qemu-user-i386",
+                "qemu-user-amd64",
                 "binfmt"
             ]
         ]
@@ -6068,8 +6068,8 @@
             ],
             [
                 "qemu-user",
-                "i386",
-                "amd64",
+                "qemu-user-i386",
+                "qemu-user-amd64",
                 "binfmt"
             ]
         ]
@@ -6097,8 +6097,8 @@
             ],
             [
                 "qemu-user",
-                "i386",
-                "amd64",
+                "qemu-user-i386",
+                "qemu-user-amd64",
                 "binfmt"
             ]
         ]
@@ -6127,8 +6127,8 @@
             ],
             [
                 "qemu-user",
-                "i386",
-                "amd64",
+                "qemu-user-i386",
+                "qemu-user-amd64",
                 "binfmt"
             ]
         ]
@@ -6154,7 +6154,7 @@
             ],
             [
                 "qemu-user",
-                "amd64",
+                "qemu-user-amd64",
                 "binfmt"
             ]
         ]
@@ -6180,7 +6180,7 @@
             ],
             [
                 "qemu-user",
-                "i386",
+                "qemu-user-i386",
                 "binfmt"
             ]
         ]
@@ -6206,7 +6206,7 @@
             ],
             [
                 "qemu-user",
-                "amd64",
+                "qemu-user-amd64",
                 "binfmt"
             ],
             "exagear",
@@ -6223,8 +6223,8 @@
             ],
             [
                 "qemu-user",
-                "i386",
-                "amd64",
+                "qemu-user-i386",
+                "qemu-user-amd64",
                 "binfmt"
             ]
         ]
@@ -6270,7 +6270,7 @@
             ],
             [
                 "qemu-user",
-                "amd64",
+                "qemu-user-amd64",
                 "binfmt"
             ]
         ]
@@ -6318,8 +6318,8 @@
             ],
             [
                 "qemu-user",
-                "i386",
-                "amd64",
+                "qemu-user-i386",
+                "qemu-user-amd64",
                 "binfmt"
             ]
         ]
@@ -6347,8 +6347,8 @@
             ],
             [
                 "qemu-user",
-                "i386",
-                "amd64",
+                "qemu-user-i386",
+                "qemu-user-amd64",
                 "binfmt"
             ]
         ]
@@ -6377,8 +6377,8 @@
             ],
             [
                 "qemu-user",
-                "i386",
-                "amd64",
+                "qemu-user-i386",
+                "qemu-user-amd64",
                 "binfmt"
             ]
         ]
@@ -6406,8 +6406,8 @@
             ],
             [
                 "qemu-user",
-                "i386",
-                "amd64",
+                "qemu-user-i386",
+                "qemu-user-amd64",
                 "binfmt"
             ]
         ]
@@ -6435,8 +6435,8 @@
             ],
             [
                 "qemu-user",
-                "i386",
-                "amd64",
+                "qemu-user-i386",
+                "qemu-user-amd64",
                 "binfmt"
             ]
         ]
@@ -6464,8 +6464,8 @@
             ],
             [
                 "qemu-user",
-                "i386",
-                "amd64",
+                "qemu-user-i386",
+                "qemu-user-amd64",
                 "binfmt"
             ]
         ]
@@ -6491,7 +6491,7 @@
             ],
             [
                 "qemu-user",
-                "amd64",
+                "qemu-user-amd64",
                 "binfmt"
             ],
             "exagear",
@@ -6508,8 +6508,8 @@
             ],
             [
                 "qemu-user",
-                "i386",
-                "amd64",
+                "qemu-user-i386",
+                "qemu-user-amd64",
                 "binfmt"
             ]
         ]
@@ -6535,7 +6535,7 @@
             ],
             [
                 "qemu-user",
-                "amd64",
+                "qemu-user-amd64",
                 "binfmt"
             ]
         ]
@@ -6561,7 +6561,7 @@
             ],
             [
                 "qemu-user",
-                "i386",
+                "qemu-user-i386",
                 "binfmt"
             ]
         ]
@@ -6600,8 +6600,8 @@
             ],
             [
                 "qemu-user",
-                "i386",
-                "amd64",
+                "qemu-user-i386",
+                "qemu-user-amd64",
                 "binfmt"
             ]
         ]
@@ -6630,8 +6630,8 @@
             ],
             [
                 "qemu-user",
-                "i386",
-                "amd64",
+                "qemu-user-i386",
+                "qemu-user-amd64",
                 "binfmt"
             ]
         ]
@@ -6657,7 +6657,7 @@
             ],
             [
                 "qemu-user",
-                "amd64",
+                "qemu-user-amd64",
                 "binfmt"
             ]
         ]
@@ -6683,7 +6683,7 @@
             ],
             [
                 "qemu-user",
-                "i386",
+                "qemu-user-i386",
                 "binfmt"
             ]
         ]
@@ -6711,8 +6711,8 @@
             ],
             [
                 "qemu-user",
-                "i386",
-                "amd64",
+                "qemu-user-i386",
+                "qemu-user-amd64",
                 "binfmt"
             ]
         ]
@@ -6740,8 +6740,8 @@
             ],
             [
                 "qemu-user",
-                "i386",
-                "amd64",
+                "qemu-user-i386",
+                "qemu-user-amd64",
                 "binfmt"
             ]
         ]
@@ -6769,8 +6769,8 @@
             ],
             [
                 "qemu-user",
-                "i386",
-                "amd64",
+                "qemu-user-i386",
+                "qemu-user-amd64",
                 "binfmt"
             ]
         ]
@@ -6798,8 +6798,8 @@
             ],
             [
                 "qemu-user",
-                "i386",
-                "amd64",
+                "qemu-user-i386",
+                "qemu-user-amd64",
                 "binfmt"
             ]
         ]
@@ -6828,8 +6828,8 @@
             ],
             [
                 "qemu-user",
-                "i386",
-                "amd64",
+                "qemu-user-i386",
+                "qemu-user-amd64",
                 "binfmt"
             ]
         ]
@@ -6855,7 +6855,7 @@
             ],
             [
                 "qemu-user",
-                "amd64",
+                "qemu-user-amd64",
                 "binfmt"
             ],
             "exagear",
@@ -6872,8 +6872,8 @@
             ],
             [
                 "qemu-user",
-                "i386",
-                "amd64",
+                "qemu-user-i386",
+                "qemu-user-amd64",
                 "binfmt"
             ]
         ]
@@ -6899,7 +6899,7 @@
             ],
             [
                 "qemu-user",
-                "amd64",
+                "qemu-user-amd64",
                 "binfmt"
             ]
         ]
@@ -6925,7 +6925,7 @@
             ],
             [
                 "qemu-user",
-                "i386",
+                "qemu-user-i386",
                 "binfmt"
             ]
         ]
@@ -6964,8 +6964,8 @@
             ],
             [
                 "qemu-user",
-                "i386",
-                "amd64",
+                "qemu-user-i386",
+                "qemu-user-amd64",
                 "binfmt"
             ]
         ]
@@ -6993,8 +6993,8 @@
             ],
             [
                 "qemu-user",
-                "i386",
-                "amd64",
+                "qemu-user-i386",
+                "qemu-user-amd64",
                 "binfmt"
             ]
         ]
@@ -7023,8 +7023,8 @@
             ],
             [
                 "qemu-user",
-                "i386",
-                "amd64",
+                "qemu-user-i386",
+                "qemu-user-amd64",
                 "binfmt"
             ]
         ]
@@ -7050,7 +7050,7 @@
             ],
             [
                 "qemu-user",
-                "amd64",
+                "qemu-user-amd64",
                 "binfmt"
             ]
         ]
@@ -7076,7 +7076,7 @@
             ],
             [
                 "qemu-user",
-                "i386",
+                "qemu-user-i386",
                 "binfmt"
             ]
         ]
@@ -7115,8 +7115,8 @@
             ],
             [
                 "qemu-user",
-                "i386",
-                "amd64",
+                "qemu-user-i386",
+                "qemu-user-amd64",
                 "binfmt"
             ]
         ]
@@ -7145,8 +7145,8 @@
             ],
             [
                 "qemu-user",
-                "i386",
-                "amd64",
+                "qemu-user-i386",
+                "qemu-user-amd64",
                 "binfmt"
             ]
         ]
@@ -7172,7 +7172,7 @@
             ],
             [
                 "qemu-user",
-                "amd64",
+                "qemu-user-amd64",
                 "binfmt"
             ]
         ]
@@ -7198,7 +7198,7 @@
             ],
             [
                 "qemu-user",
-                "i386",
+                "qemu-user-i386",
                 "binfmt"
             ]
         ]
@@ -7223,7 +7223,7 @@
             ],
             [
                 "qemu-user",
-                "amd64",
+                "qemu-user-amd64",
                 "binfmt"
             ]
         ]
@@ -7282,8 +7282,8 @@
             ],
             [
                 "qemu-user",
-                "i386",
-                "amd64",
+                "qemu-user-i386",
+                "qemu-user-amd64",
                 "binfmt"
             ]
         ]
@@ -7312,8 +7312,8 @@
             ],
             [
                 "qemu-user",
-                "i386",
-                "amd64",
+                "qemu-user-i386",
+                "qemu-user-amd64",
                 "binfmt"
             ]
         ]
@@ -7339,7 +7339,7 @@
             ],
             [
                 "qemu-user",
-                "amd64",
+                "qemu-user-amd64",
                 "binfmt"
             ]
         ]
@@ -7365,7 +7365,7 @@
             ],
             [
                 "qemu-user",
-                "i386",
+                "qemu-user-i386",
                 "binfmt"
             ]
         ]
@@ -7390,7 +7390,7 @@
             ],
             [
                 "qemu-user",
-                "amd64",
+                "qemu-user-amd64",
                 "binfmt"
             ]
         ]
@@ -7449,8 +7449,8 @@
             ],
             [
                 "qemu-user",
-                "i386",
-                "amd64",
+                "qemu-user-i386",
+                "qemu-user-amd64",
                 "binfmt"
             ]
         ]
@@ -7478,8 +7478,8 @@
             ],
             [
                 "qemu-user",
-                "i386",
-                "amd64",
+                "qemu-user-i386",
+                "qemu-user-amd64",
                 "binfmt"
             ]
         ]
@@ -7508,8 +7508,8 @@
             ],
             [
                 "qemu-user",
-                "i386",
-                "amd64",
+                "qemu-user-i386",
+                "qemu-user-amd64",
                 "binfmt"
             ]
         ]
@@ -7535,7 +7535,7 @@
             ],
             [
                 "qemu-user",
-                "amd64",
+                "qemu-user-amd64",
                 "binfmt"
             ]
         ]
@@ -7561,7 +7561,7 @@
             ],
             [
                 "qemu-user",
-                "i386",
+                "qemu-user-i386",
                 "binfmt"
             ]
         ]
@@ -7586,7 +7586,7 @@
             ],
             [
                 "qemu-user",
-                "amd64",
+                "qemu-user-amd64",
                 "binfmt"
             ]
         ]
@@ -7625,8 +7625,8 @@
             ],
             [
                 "qemu-user",
-                "i386",
-                "amd64",
+                "qemu-user-i386",
+                "qemu-user-amd64",
                 "binfmt"
             ]
         ]
@@ -7652,7 +7652,7 @@
             ],
             [
                 "qemu-user",
-                "amd64",
+                "qemu-user-amd64",
                 "binfmt"
             ]
         ]
@@ -7678,7 +7678,7 @@
             ],
             [
                 "qemu-user",
-                "i386",
+                "qemu-user-i386",
                 "binfmt"
             ]
         ]
@@ -7718,8 +7718,8 @@
             ],
             [
                 "qemu-user",
-                "i386",
-                "amd64",
+                "qemu-user-i386",
+                "qemu-user-amd64",
                 "binfmt"
             ]
         ]
@@ -7745,7 +7745,7 @@
             ],
             [
                 "qemu-user",
-                "amd64",
+                "qemu-user-amd64",
                 "binfmt"
             ]
         ]
@@ -7771,7 +7771,7 @@
             ],
             [
                 "qemu-user",
-                "i386",
+                "qemu-user-i386",
                 "binfmt"
             ]
         ]
@@ -7820,8 +7820,8 @@
             ],
             [
                 "qemu-user",
-                "i386",
-                "amd64",
+                "qemu-user-i386",
+                "qemu-user-amd64",
                 "binfmt"
             ]
         ]
@@ -7847,7 +7847,7 @@
             ],
             [
                 "qemu-user",
-                "amd64",
+                "qemu-user-amd64",
                 "binfmt"
             ]
         ]
@@ -7873,7 +7873,7 @@
             ],
             [
                 "qemu-user",
-                "i386",
+                "qemu-user-i386",
                 "binfmt"
             ]
         ]
@@ -7922,8 +7922,8 @@
             ],
             [
                 "qemu-user",
-                "i386",
-                "amd64",
+                "qemu-user-i386",
+                "qemu-user-amd64",
                 "binfmt"
             ]
         ]
@@ -7952,8 +7952,8 @@
             ],
             [
                 "qemu-user",
-                "i386",
-                "amd64",
+                "qemu-user-i386",
+                "qemu-user-amd64",
                 "binfmt"
             ]
         ]
@@ -7979,7 +7979,7 @@
             ],
             [
                 "qemu-user",
-                "i386",
+                "qemu-user-i386",
                 "binfmt"
             ]
         ]
@@ -8005,7 +8005,7 @@
             ],
             [
                 "qemu-user",
-                "amd64",
+                "qemu-user-amd64",
                 "binfmt"
             ]
         ]
@@ -8033,8 +8033,8 @@
             ],
             [
                 "qemu-user",
-                "i386",
-                "amd64",
+                "qemu-user-i386",
+                "qemu-user-amd64",
                 "binfmt"
             ]
         ]
@@ -8062,8 +8062,8 @@
             ],
             [
                 "qemu-user",
-                "i386",
-                "amd64",
+                "qemu-user-i386",
+                "qemu-user-amd64",
                 "binfmt"
             ]
         ]
@@ -8092,8 +8092,8 @@
             ],
             [
                 "qemu-user",
-                "i386",
-                "amd64",
+                "qemu-user-i386",
+                "qemu-user-amd64",
                 "binfmt"
             ]
         ]
@@ -8119,7 +8119,7 @@
             ],
             [
                 "qemu-user",
-                "amd64",
+                "qemu-user-amd64",
                 "binfmt"
             ]
         ]
@@ -8145,7 +8145,7 @@
             ],
             [
                 "qemu-user",
-                "i386",
+                "qemu-user-i386",
                 "binfmt"
             ]
         ]
@@ -8203,8 +8203,8 @@
             ],
             [
                 "qemu-user",
-                "i386",
-                "amd64",
+                "qemu-user-i386",
+                "qemu-user-amd64",
                 "binfmt"
             ]
         ]
@@ -8233,8 +8233,8 @@
             ],
             [
                 "qemu-user",
-                "i386",
-                "amd64",
+                "qemu-user-i386",
+                "qemu-user-amd64",
                 "binfmt"
             ]
         ]
@@ -8260,7 +8260,7 @@
             ],
             [
                 "qemu-user",
-                "amd64",
+                "qemu-user-amd64",
                 "binfmt"
             ]
         ]
@@ -8286,7 +8286,7 @@
             ],
             [
                 "qemu-user",
-                "i386",
+                "qemu-user-i386",
                 "binfmt"
             ]
         ]
@@ -8336,8 +8336,8 @@
             ],
             [
                 "qemu-user",
-                "i386",
-                "amd64",
+                "qemu-user-i386",
+                "qemu-user-amd64",
                 "binfmt"
             ]
         ]
@@ -8363,7 +8363,7 @@
             ],
             [
                 "qemu-user",
-                "amd64",
+                "qemu-user-amd64",
                 "binfmt"
             ]
         ]
@@ -8389,7 +8389,7 @@
             ],
             [
                 "qemu-user",
-                "i386",
+                "qemu-user-i386",
                 "binfmt"
             ]
         ]
@@ -8427,8 +8427,8 @@
             ],
             [
                 "qemu-user",
-                "i386",
-                "amd64",
+                "qemu-user-i386",
+                "qemu-user-amd64",
                 "binfmt"
             ]
         ]
@@ -8456,8 +8456,8 @@
             ],
             [
                 "qemu-user",
-                "i386",
-                "amd64",
+                "qemu-user-i386",
+                "qemu-user-amd64",
                 "binfmt"
             ]
         ]
@@ -8486,8 +8486,8 @@
             ],
             [
                 "qemu-user",
-                "i386",
-                "amd64",
+                "qemu-user-i386",
+                "qemu-user-amd64",
                 "binfmt"
             ]
         ]
@@ -8513,7 +8513,7 @@
             ],
             [
                 "qemu-user",
-                "amd64",
+                "qemu-user-amd64",
                 "binfmt"
             ]
         ]
@@ -8539,7 +8539,7 @@
             ],
             [
                 "qemu-user",
-                "i386",
+                "qemu-user-i386",
                 "binfmt"
             ]
         ]
@@ -8578,8 +8578,8 @@
             ],
             [
                 "qemu-user",
-                "i386",
-                "amd64",
+                "qemu-user-i386",
+                "qemu-user-amd64",
                 "binfmt"
             ]
         ]
@@ -8617,8 +8617,8 @@
             ],
             [
                 "qemu-user",
-                "i386",
-                "amd64",
+                "qemu-user-i386",
+                "qemu-user-amd64",
                 "binfmt"
             ]
         ]
@@ -8646,8 +8646,8 @@
             ],
             [
                 "qemu-user",
-                "i386",
-                "amd64",
+                "qemu-user-i386",
+                "qemu-user-amd64",
                 "binfmt"
             ]
         ]
@@ -8676,8 +8676,8 @@
             ],
             [
                 "qemu-user",
-                "i386",
-                "amd64",
+                "qemu-user-i386",
+                "qemu-user-amd64",
                 "binfmt"
             ]
         ]
@@ -8703,7 +8703,7 @@
             ],
             [
                 "qemu-user",
-                "i386",
+                "qemu-user-i386",
                 "binfmt"
             ]
         ]
@@ -8729,7 +8729,7 @@
             ],
             [
                 "qemu-user",
-                "amd64",
+                "qemu-user-amd64",
                 "binfmt"
             ]
         ]
@@ -8768,8 +8768,8 @@
             ],
             [
                 "qemu-user",
-                "i386",
-                "amd64",
+                "qemu-user-i386",
+                "qemu-user-amd64",
                 "binfmt"
             ]
         ]
@@ -8797,8 +8797,8 @@
             ],
             [
                 "qemu-user",
-                "i386",
-                "amd64",
+                "qemu-user-i386",
+                "qemu-user-amd64",
                 "binfmt"
             ]
         ]
@@ -8827,8 +8827,8 @@
             ],
             [
                 "qemu-user",
-                "i386",
-                "amd64",
+                "qemu-user-i386",
+                "qemu-user-amd64",
                 "binfmt"
             ]
         ]
@@ -8857,8 +8857,8 @@
             ],
             [
                 "qemu-user",
-                "i386",
-                "amd64",
+                "qemu-user-i386",
+                "qemu-user-amd64",
                 "binfmt"
             ]
         ]
@@ -8887,8 +8887,8 @@
             ],
             [
                 "qemu-user",
-                "i386",
-                "amd64",
+                "qemu-user-i386",
+                "qemu-user-amd64",
                 "binfmt"
             ]
         ]
@@ -8914,7 +8914,7 @@
             ],
             [
                 "qemu-user",
-                "amd64",
+                "qemu-user-amd64",
                 "binfmt"
             ],
             "exagear",
@@ -8931,8 +8931,8 @@
             ],
             [
                 "qemu-user",
-                "i386",
-                "amd64",
+                "qemu-user-i386",
+                "qemu-user-amd64",
                 "binfmt"
             ]
         ]
@@ -8958,7 +8958,7 @@
             ],
             [
                 "qemu-user",
-                "amd64",
+                "qemu-user-amd64",
                 "binfmt"
             ]
         ]
@@ -8984,7 +8984,7 @@
             ],
             [
                 "qemu-user",
-                "i386",
+                "qemu-user-i386",
                 "binfmt"
             ]
         ]
@@ -9012,8 +9012,8 @@
             ],
             [
                 "qemu-user",
-                "i386",
-                "amd64",
+                "qemu-user-i386",
+                "qemu-user-amd64",
                 "binfmt"
             ]
         ]
@@ -9041,8 +9041,8 @@
             ],
             [
                 "qemu-user",
-                "i386",
-                "amd64",
+                "qemu-user-i386",
+                "qemu-user-amd64",
                 "binfmt"
             ]
         ]
@@ -9070,8 +9070,8 @@
             ],
             [
                 "qemu-user",
-                "i386",
-                "amd64",
+                "qemu-user-i386",
+                "qemu-user-amd64",
                 "binfmt"
             ]
         ]
@@ -9100,8 +9100,8 @@
             ],
             [
                 "qemu-user",
-                "i386",
-                "amd64",
+                "qemu-user-i386",
+                "qemu-user-amd64",
                 "binfmt"
             ]
         ]
@@ -9127,7 +9127,7 @@
             ],
             [
                 "qemu-user",
-                "i386",
+                "qemu-user-i386",
                 "binfmt"
             ]
         ]
@@ -9156,8 +9156,8 @@
             ],
             [
                 "qemu-user",
-                "i386",
-                "amd64",
+                "qemu-user-i386",
+                "qemu-user-amd64",
                 "binfmt"
             ]
         ]
@@ -9185,8 +9185,8 @@
             ],
             [
                 "qemu-user",
-                "i386",
-                "amd64",
+                "qemu-user-i386",
+                "qemu-user-amd64",
                 "binfmt"
             ]
         ]
@@ -9214,8 +9214,8 @@
             ],
             [
                 "qemu-user",
-                "i386",
-                "amd64",
+                "qemu-user-i386",
+                "qemu-user-amd64",
                 "binfmt"
             ]
         ]
@@ -9243,8 +9243,8 @@
             ],
             [
                 "qemu-user",
-                "i386",
-                "amd64",
+                "qemu-user-i386",
+                "qemu-user-amd64",
                 "binfmt"
             ]
         ]
@@ -9272,8 +9272,8 @@
             ],
             [
                 "qemu-user",
-                "i386",
-                "amd64",
+                "qemu-user-i386",
+                "qemu-user-amd64",
                 "binfmt"
             ]
         ]
@@ -9302,8 +9302,8 @@
             ],
             [
                 "qemu-user",
-                "i386",
-                "amd64",
+                "qemu-user-i386",
+                "qemu-user-amd64",
                 "binfmt"
             ]
         ]
@@ -9331,8 +9331,8 @@
             ],
             [
                 "qemu-user",
-                "i386",
-                "amd64",
+                "qemu-user-i386",
+                "qemu-user-amd64",
                 "binfmt"
             ]
         ]
@@ -9361,8 +9361,8 @@
             ],
             [
                 "qemu-user",
-                "i386",
-                "amd64",
+                "qemu-user-i386",
+                "qemu-user-amd64",
                 "binfmt"
             ]
         ]
@@ -9390,8 +9390,8 @@
             ],
             [
                 "qemu-user",
-                "i386",
-                "amd64",
+                "qemu-user-i386",
+                "qemu-user-amd64",
                 "binfmt"
             ]
         ]
@@ -9419,8 +9419,8 @@
             ],
             [
                 "qemu-user",
-                "i386",
-                "amd64",
+                "qemu-user-i386",
+                "qemu-user-amd64",
                 "binfmt"
             ]
         ]
@@ -9448,8 +9448,8 @@
             ],
             [
                 "qemu-user",
-                "i386",
-                "amd64",
+                "qemu-user-i386",
+                "qemu-user-amd64",
                 "binfmt"
             ]
         ]
@@ -9477,8 +9477,8 @@
             ],
             [
                 "qemu-user",
-                "i386",
-                "amd64",
+                "qemu-user-i386",
+                "qemu-user-amd64",
                 "binfmt"
             ]
         ]
@@ -9506,8 +9506,8 @@
             ],
             [
                 "qemu-user",
-                "i386",
-                "amd64",
+                "qemu-user-i386",
+                "qemu-user-amd64",
                 "binfmt"
             ]
         ]
@@ -9535,8 +9535,8 @@
             ],
             [
                 "qemu-user",
-                "i386",
-                "amd64",
+                "qemu-user-i386",
+                "qemu-user-amd64",
                 "binfmt"
             ]
         ]
@@ -9564,8 +9564,8 @@
             ],
             [
                 "qemu-user",
-                "i386",
-                "amd64",
+                "qemu-user-i386",
+                "qemu-user-amd64",
                 "binfmt"
             ]
         ]
@@ -9593,8 +9593,8 @@
             ],
             [
                 "qemu-user",
-                "i386",
-                "amd64",
+                "qemu-user-i386",
+                "qemu-user-amd64",
                 "binfmt"
             ]
         ]
@@ -9622,8 +9622,8 @@
             ],
             [
                 "qemu-user",
-                "i386",
-                "amd64",
+                "qemu-user-i386",
+                "qemu-user-amd64",
                 "binfmt"
             ]
         ]
@@ -9651,8 +9651,8 @@
             ],
             [
                 "qemu-user",
-                "i386",
-                "amd64",
+                "qemu-user-i386",
+                "qemu-user-amd64",
                 "binfmt"
             ]
         ]
@@ -9680,8 +9680,8 @@
             ],
             [
                 "qemu-user",
-                "i386",
-                "amd64",
+                "qemu-user-i386",
+                "qemu-user-amd64",
                 "binfmt"
             ]
         ]
@@ -9709,8 +9709,8 @@
             ],
             [
                 "qemu-user",
-                "i386",
-                "amd64",
+                "qemu-user-i386",
+                "qemu-user-amd64",
                 "binfmt"
             ]
         ]
@@ -9738,8 +9738,8 @@
             ],
             [
                 "qemu-user",
-                "i386",
-                "amd64",
+                "qemu-user-i386",
+                "qemu-user-amd64",
                 "binfmt"
             ]
         ]
@@ -9767,8 +9767,8 @@
             ],
             [
                 "qemu-user",
-                "i386",
-                "amd64",
+                "qemu-user-i386",
+                "qemu-user-amd64",
                 "binfmt"
             ]
         ]
@@ -9796,8 +9796,8 @@
             ],
             [
                 "qemu-user",
-                "i386",
-                "amd64",
+                "qemu-user-i386",
+                "qemu-user-amd64",
                 "binfmt"
             ]
         ]
@@ -9825,8 +9825,8 @@
             ],
             [
                 "qemu-user",
-                "i386",
-                "amd64",
+                "qemu-user-i386",
+                "qemu-user-amd64",
                 "binfmt"
             ]
         ]
@@ -9851,7 +9851,7 @@
             ],
             [
                 "qemu-user",
-                "i386",
+                "qemu-user-i386",
                 "binfmt"
             ]
         ]
@@ -9879,8 +9879,8 @@
             ],
             [
                 "qemu-user",
-                "i386",
-                "amd64",
+                "qemu-user-i386",
+                "qemu-user-amd64",
                 "binfmt"
             ]
         ]
@@ -9908,8 +9908,8 @@
             ],
             [
                 "qemu-user",
-                "i386",
-                "amd64",
+                "qemu-user-i386",
+                "qemu-user-amd64",
                 "binfmt"
             ]
         ]
@@ -9937,8 +9937,8 @@
             ],
             [
                 "qemu-user",
-                "i386",
-                "amd64",
+                "qemu-user-i386",
+                "qemu-user-amd64",
                 "binfmt"
             ]
         ]
@@ -9966,8 +9966,8 @@
             ],
             [
                 "qemu-user",
-                "i386",
-                "amd64",
+                "qemu-user-i386",
+                "qemu-user-amd64",
                 "binfmt"
             ]
         ]
@@ -9992,7 +9992,7 @@
             ],
             [
                 "qemu-user",
-                "amd64",
+                "qemu-user-amd64",
                 "binfmt"
             ]
         ]
@@ -10020,8 +10020,8 @@
             ],
             [
                 "qemu-user",
-                "i386",
-                "amd64",
+                "qemu-user-i386",
+                "qemu-user-amd64",
                 "binfmt"
             ]
         ]
@@ -10049,8 +10049,8 @@
             ],
             [
                 "qemu-user",
-                "i386",
-                "amd64",
+                "qemu-user-i386",
+                "qemu-user-amd64",
                 "binfmt"
             ]
         ]
@@ -10079,8 +10079,8 @@
             ],
             [
                 "qemu-user",
-                "i386",
-                "amd64",
+                "qemu-user-i386",
+                "qemu-user-amd64",
                 "binfmt"
             ]
         ]
@@ -10106,7 +10106,7 @@
             ],
             [
                 "qemu-user",
-                "amd64",
+                "qemu-user-amd64",
                 "binfmt"
             ]
         ]
@@ -10132,7 +10132,7 @@
             ],
             [
                 "qemu-user",
-                "i386",
+                "qemu-user-i386",
                 "binfmt"
             ]
         ]
@@ -10160,8 +10160,8 @@
             ],
             [
                 "qemu-user",
-                "i386",
-                "amd64",
+                "qemu-user-i386",
+                "qemu-user-amd64",
                 "binfmt"
             ]
         ]
@@ -10189,8 +10189,8 @@
             ],
             [
                 "qemu-user",
-                "i386",
-                "amd64",
+                "qemu-user-i386",
+                "qemu-user-amd64",
                 "binfmt"
             ]
         ]
@@ -10215,7 +10215,7 @@
             ],
             [
                 "qemu-user",
-                "amd64",
+                "qemu-user-amd64",
                 "binfmt"
             ]
         ]
@@ -10243,8 +10243,8 @@
             ],
             [
                 "qemu-user",
-                "i386",
-                "amd64",
+                "qemu-user-i386",
+                "qemu-user-amd64",
                 "binfmt"
             ]
         ]
@@ -10272,8 +10272,8 @@
             ],
             [
                 "qemu-user",
-                "i386",
-                "amd64",
+                "qemu-user-i386",
+                "qemu-user-amd64",
                 "binfmt"
             ]
         ]
@@ -10301,8 +10301,8 @@
             ],
             [
                 "qemu-user",
-                "i386",
-                "amd64",
+                "qemu-user-i386",
+                "qemu-user-amd64",
                 "binfmt"
             ]
         ]
@@ -10330,8 +10330,8 @@
             ],
             [
                 "qemu-user",
-                "i386",
-                "amd64",
+                "qemu-user-i386",
+                "qemu-user-amd64",
                 "binfmt"
             ]
         ]
@@ -10356,7 +10356,7 @@
             ],
             [
                 "qemu-user",
-                "i386",
+                "qemu-user-i386",
                 "binfmt"
             ]
         ]
@@ -10384,8 +10384,8 @@
             ],
             [
                 "qemu-user",
-                "i386",
-                "amd64",
+                "qemu-user-i386",
+                "qemu-user-amd64",
                 "binfmt"
             ]
         ]
@@ -10413,8 +10413,8 @@
             ],
             [
                 "qemu-user",
-                "i386",
-                "amd64",
+                "qemu-user-i386",
+                "qemu-user-amd64",
                 "binfmt"
             ]
         ]
@@ -10440,7 +10440,7 @@
             ],
             [
                 "qemu-user",
-                "amd64",
+                "qemu-user-amd64",
                 "binfmt"
             ]
         ]
@@ -10465,7 +10465,7 @@
             ],
             [
                 "qemu-user",
-                "amd64",
+                "qemu-user-amd64",
                 "binfmt"
             ]
         ]
@@ -10490,7 +10490,7 @@
             ],
             [
                 "qemu-user",
-                "i386",
+                "qemu-user-i386",
                 "binfmt"
             ]
         ]
@@ -10515,7 +10515,7 @@
             ],
             [
                 "qemu-user",
-                "i386",
+                "qemu-user-i386",
                 "binfmt"
             ]
         ]
@@ -10543,8 +10543,8 @@
             ],
             [
                 "qemu-user",
-                "i386",
-                "amd64",
+                "qemu-user-i386",
+                "qemu-user-amd64",
                 "binfmt"
             ]
         ]
@@ -10572,8 +10572,8 @@
             ],
             [
                 "qemu-user",
-                "i386",
-                "amd64",
+                "qemu-user-i386",
+                "qemu-user-amd64",
                 "binfmt"
             ]
         ]
@@ -10601,8 +10601,8 @@
             ],
             [
                 "qemu-user",
-                "i386",
-                "amd64",
+                "qemu-user-i386",
+                "qemu-user-amd64",
                 "binfmt"
             ]
         ]
@@ -10627,7 +10627,7 @@
             ],
             [
                 "qemu-user",
-                "amd64",
+                "qemu-user-amd64",
                 "binfmt"
             ]
         ]
@@ -10655,8 +10655,8 @@
             ],
             [
                 "qemu-user",
-                "i386",
-                "amd64",
+                "qemu-user-i386",
+                "qemu-user-amd64",
                 "binfmt"
             ]
         ]
@@ -10681,7 +10681,7 @@
             ],
             [
                 "qemu-user",
-                "i386",
+                "qemu-user-i386",
                 "binfmt"
             ]
         ]
@@ -10707,7 +10707,7 @@
             ],
             [
                 "qemu-user",
-                "amd64",
+                "qemu-user-amd64",
                 "binfmt"
             ]
         ]
@@ -10733,7 +10733,7 @@
             ],
             [
                 "qemu-user",
-                "amd64",
+                "qemu-user-amd64",
                 "binfmt"
             ]
         ]
@@ -10761,8 +10761,8 @@
             ],
             [
                 "qemu-user",
-                "i386",
-                "amd64",
+                "qemu-user-i386",
+                "qemu-user-amd64",
                 "binfmt"
             ]
         ]
@@ -10790,8 +10790,8 @@
             ],
             [
                 "qemu-user",
-                "i386",
-                "amd64",
+                "qemu-user-i386",
+                "qemu-user-amd64",
                 "binfmt"
             ]
         ]
