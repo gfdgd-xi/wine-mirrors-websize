@@ -46,8 +46,7 @@
             ],
             "exagear",
             [
-                "box64",
-                "binfmt"
+                "box64"
             ],
             [
                 "lat",
@@ -191,8 +190,7 @@
             ],
             "exagear",
             [
-                "box64",
-                "binfmt"
+                "box64"
             ],
             [
                 "lat",

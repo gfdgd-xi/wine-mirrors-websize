@@ -61,23 +61,23 @@ for i in data:
             if k == "i386":
                 tagList.append("exagear")
                 tagList.append(["box86", "binfmt"])
-                tagList.append(["lat", "i386", "binfmt"])
-                tagList.append(["qemu-user", "i386", "binfmt"])
+                tagList.append(["lat", "lat-i386", "binfmt"])
+                tagList.append(["qemu-user", "qemu-user-i386", "binfmt"])
             if k == "amd64":
                 tagList.append("exagear")
-                tagList.append(["box64", "binfmt"])
-                tagList.append(["lat", "amd64", "binfmt"])
-                tagList.append(["qemu-user", "amd64", "binfmt"])
+                tagList.append(["box64", "binfmt", "!loong64-kernel-8k-pagesize", "!loong64-kernel-16k-pagesize", "!loong64-kernel-32k-pagesize", "!loong64-kernel-64k-pagesize"])
+                tagList.append(["lat", "lat-amd64", "binfmt"])
+                tagList.append(["qemu-user", "qemu-user-amd64", "binfmt"])
             if k == "x86_64":
                 tagList.append("exagear")
-                tagList.append(["box86", "box64", "binfmt"])
-                tagList.append(["lat", "i386", "amd64", "binfmt"])
-                tagList.append(["qemu-user", "i386", "amd64", "binfmt"])
-            if "wow64" in i[0]:
+                tagList.append(["box86", "box64", "binfmt", "!loong64-kernel-8k-pagesize", "!loong64-kernel-16k-pagesize", "!loong64-kernel-32k-pagesize", "!loong64-kernel-64k-pagesize"])
+                tagList.append(["lat", "lat-i386", "lat-amd64", "binfmt"])
+                tagList.append(["qemu-user", "qemu-user-i386", "qemu-user-amd64", "binfmt"])
+            if "wow64" in i[0] or "deepin-wine8-stable" in i[0]:
                 tagList.append("exagear")
-                tagList.append(["box86", "box64", "binfmt"])
-                tagList.append(["lat", "i386", "amd64", "binfmt"])
-                tagList.append(["qemu-user", "i386", "amd64", "binfmt"])
+                tagList.append(["box64", "!loong64-kernel-8k-pagesize", "!loong64-kernel-16k-pagesize", "!loong64-kernel-32k-pagesize", "!loong64-kernel-64k-pagesize"])
+                tagList.append(["lat", "lat-amd64", "binfmt"])
+                tagList.append(["qemu-user", "qemu-user-amd64", "binfmt"])
     if (not isSearch):
         tagList = []
         allTag = ["x86_64"]
@@ -86,9 +86,9 @@ for i in data:
             allTag.append(d)
         tagList = [allTag]
         tagList.append("exagear")
-        tagList.append(["box86", "box64", "binfmt"])
-        tagList.append(["lat", "i386", "amd64", "binfmt"])
-        tagList.append(["qemu-user", "i386", "amd64", "binfmt"])
+        tagList.append(["box86", "box64", "binfmt", "!loong64-kernel-8k-pagesize", "!loong64-kernel-16k-pagesize", "!loong64-kernel-32k-pagesize", "!loong64-kernel-64k-pagesize"])
+        tagList.append(["lat", "lat-i386", "lat-amd64", "binfmt"])
+        tagList.append(["qemu-user", "qemu-user-i386", "qemu-user-amd64", "binfmt"])
     newList.append([i[0], i[1], tagList])
 jsonStr = json.dumps(newList, ensure_ascii=False, indent=4)
 #print(jsonStr)
