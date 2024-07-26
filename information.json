@@ -14,7 +14,7 @@
         ]
     ],
     [
-        "(日更，不稳定) wine-wow64-box64-daily-debian10-arm64",
+        "(日更，不稳定，无法下载) wine-wow64-box64-daily-debian10-arm64",
         "http://120.25.153.144:2345/wine-building/wine-wow64-box64-daily-debian10-arm64.7z",
         [
             [
@@ -25,7 +25,7 @@
         ]
     ],
     [
-        "(日更，不稳定) wine-wow64-box64-daily-debian10-riscv64",
+        "(日更，不稳定，无法下载) wine-wow64-box64-daily-debian10-riscv64",
         "http://120.25.153.144:2345/wine-building/wine-wow64-box64-daily-debian10-riscv64.7z",
         [
             [
@@ -36,7 +36,7 @@
         ]
     ],
     [
-        "(日更，不稳定) wine-wow64-daily-debian10-amd64",
+        "(日更，不稳定，无法下载) wine-wow64-daily-debian10-amd64",
         "http://120.25.153.144:2345/wine-building/wine-wow64-daily-debian10-amd64.7z",
         [
             [
@@ -79,7 +79,7 @@
         ]
     ],
     [
-        "(日更，不稳定) wine-daily-debian10-x86_64",
+        "(日更，不稳定，无法下载) wine-daily-debian10-x86_64",
         "http://120.25.153.144:2345/wine-building/wine-daily-debian10-x86_64.7z",
         [
             [
@@ -109,7 +109,7 @@
         ]
     ],
     [
-        "(日更，不稳定) wine-daily-debian10-amd64",
+        "(日更，不稳定，无法下载) wine-daily-debian10-amd64",
         "http://120.25.153.144:2345/wine-building/wine-daily-debian10-amd64.7z",
         [
             [
@@ -135,7 +135,7 @@
         ]
     ],
     [
-        "(日更，不稳定) wine-daily-debian10-i386",
+        "(日更，不稳定，无法下载) wine-daily-debian10-i386",
         "http://120.25.153.144:2345/wine-building/wine-daily-debian10-i386.7z",
         [
             [
