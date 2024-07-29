@@ -161,6 +161,10 @@
         ]
     ],
     [
+        "wine-staging-wow64-box64-9.14-debian10-riscv64",
+        "https://sourceforge.net/projects/deep-wine-runner-wine-download/files/wine-staging-wow64-box64-9.14-debian10-riscv64.7z/download"
+    ],
+    [
         "wine-staging-wow64-9.14-debian10-amd64",
         "https://sourceforge.net/projects/deep-wine-runner-wine-download/files/wine-staging-wow64-9.14-debian10-amd64.7z/download"
     ],
