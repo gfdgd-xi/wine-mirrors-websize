@@ -18,7 +18,6 @@
         "https://sourceforge.net/projects/deep-wine-runner-wine-download/files/wine-wow64-box64-daily-debian10-arm64.7z/download",
         [
             [
-                "arm64",
                 "/usr/lib/aarch64-linux-gnu/ld-linux-aarch64.so.1"
             ]
         ]
@@ -28,7 +27,6 @@
         "https://sourceforge.net/projects/deep-wine-runner-wine-download/files/wine-wow64-box64-daily-debian10-riscv64.7z/download",
         [
             [
-                "riscv64",
                 "/usr/lib/riscv64-linux-gnu/ld-linux-riscv64-lp64d.so.1"
             ]
         ]
@@ -38,7 +36,6 @@
         "https://sourceforge.net/projects/deep-wine-runner-wine-download/files/wine-wow64-daily-debian10-amd64.7z/download",
         [
             [
-                "amd64",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
             "exagear",
@@ -80,7 +77,6 @@
         "https://sourceforge.net/projects/deep-wine-runner-wine-download/files/wine-daily-debian10-x86_64.7z/download",
         [
             [
-                "amd64",
                 "/usr/lib/i386-linux-gnu/ld-linux.so.2",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
@@ -109,7 +105,6 @@
         "https://sourceforge.net/projects/deep-wine-runner-wine-download/files/wine-daily-debian10-amd64.7z/download",
         [
             [
-                "amd64",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
             "exagear",
@@ -134,7 +129,6 @@
         "https://sourceforge.net/projects/deep-wine-runner-wine-download/files/wine-daily-debian10-i386.7z/download",
         [
             [
-                "i386",
                 "/usr/lib/i386-linux-gnu/ld-linux.so.2"
             ],
             "exagear",
@@ -159,7 +153,6 @@
         "https://sourceforge.net/projects/deep-wine-runner-wine-download/files/wine-ce-9.0-test-ubuntu22.04-arm64.7z",
         [
             [
-                "arm64",
                 "2.35",
                 "/usr/lib/aarch64-linux-gnu/ld-linux-aarch64.so.1"
             ]
@@ -170,7 +163,6 @@
         "https://sourceforge.net/projects/deep-wine-runner-wine-download/files/GE-Proton9.11.7z",
         [
             [
-                "amd64",
                 "/usr/lib/i386-linux-gnu/ld-linux.so.2",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
@@ -203,7 +195,6 @@
         "https://sourceforge.net/projects/deep-wine-runner-wine-download/files/wine-staging-wow64-box64-9.14-debian10-arm64.7z",
         [
             [
-                "arm64",
                 "/usr/lib/aarch64-linux-gnu/ld-linux-aarch64.so.1"
             ]
         ]
@@ -213,7 +204,6 @@
         "https://sourceforge.net/projects/deep-wine-runner-wine-download/files/wine-staging-wow64-box64-9.14-debian10-riscv64.7z",
         [
             [
-                "riscv64",
                 "/usr/lib/riscv64-linux-gnu/ld-linux-riscv64-lp64d.so.1"
             ]
         ]
@@ -223,7 +213,6 @@
         "https://sourceforge.net/projects/deep-wine-runner-wine-download/files/wine-staging-wow64-9.14-debian10-amd64.7z",
         [
             [
-                "amd64",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
             "exagear",
@@ -270,7 +259,6 @@
         "https://sourceforge.net/projects/deep-wine-runner-wine-download/files/wine-staging-9.14-debian10-x86_64.7z",
         [
             [
-                "amd64",
                 "/usr/lib/i386-linux-gnu/ld-linux.so.2",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
@@ -303,7 +291,6 @@
         "https://sourceforge.net/projects/deep-wine-runner-wine-download/files/wine-staging-9.14-debian10-amd64.7z",
         [
             [
-                "amd64",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
             "exagear",
@@ -332,7 +319,6 @@
         "https://sourceforge.net/projects/deep-wine-runner-wine-download/files/wine-staging-9.14-debian10-i386.7z",
         [
             [
-                "i386",
                 "/usr/lib/i386-linux-gnu/ld-linux.so.2"
             ],
             "exagear",
@@ -357,7 +343,6 @@
         "https://sourceforge.net/projects/deep-wine-runner-wine-download/files/deepin-wine8-stable-box64-8.16-deepin21-arm64.7z",
         [
             [
-                "arm64",
                 "/usr/lib/aarch64-linux-gnu/ld-linux-aarch64.so.1"
             ]
         ]
@@ -367,7 +352,6 @@
         "https://sourceforge.net/projects/deep-wine-runner-wine-download/files/deepin-wine8-stable-box64-8.16-deepin13-arm64.7z",
         [
             [
-                "arm64",
                 "/usr/lib/aarch64-linux-gnu/ld-linux-aarch64.so.1"
             ]
         ]
@@ -377,7 +361,6 @@
         "https://sourceforge.net/projects/deep-wine-runner-wine-download/files/deepin-wine8-stable-8.16-deepin21-amd64.7z",
         [
             [
-                "amd64",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
             "exagear",
@@ -401,7 +384,6 @@
         "https://sourceforge.net/projects/deep-wine-runner-wine-download/files/deepin-wine8-stable-box64-8.16-deepin13-riscv64.7z",
         [
             [
-                "riscv64",
                 "/usr/lib/riscv64-linux-gnu/ld-linux-riscv64-lp64d.so.1"
             ]
         ]
@@ -411,7 +393,6 @@
         "https://sourceforge.net/projects/deep-wine-runner-wine-download/files/spark-wine9-wow-box64-9.11-arm64.7z",
         [
             [
-                "arm64",
                 "/usr/lib/aarch64-linux-gnu/ld-linux-aarch64.so.1"
             ]
         ]
@@ -421,7 +402,6 @@
         "https://sourceforge.net/projects/deep-wine-runner-wine-download/files/spark-wine9-wow-box64-9.11-riscv64.7z",
         [
             [
-                "riscv64",
                 "/usr/lib/riscv64-linux-gnu/ld-linux-riscv64-lp64d.so.1"
             ]
         ]
@@ -431,7 +411,6 @@
         "https://sourceforge.net/projects/deep-wine-runner-wine-download/files/wine-staging-wow64-box64-9.13-debian10-riscv64.7z",
         [
             [
-                "riscv64",
                 "/usr/lib/riscv64-linux-gnu/ld-linux-riscv64-lp64d.so.1"
             ]
         ]
@@ -441,7 +420,6 @@
         "https://sourceforge.net/projects/deep-wine-runner-wine-download/files/wine-staging-wow64-box64-9.13-debian10-arm64.7z",
         [
             [
-                "arm64",
                 "/usr/lib/aarch64-linux-gnu/ld-linux-aarch64.so.1"
             ]
         ],
@@ -450,8 +428,7 @@
             "https://sourceforge.net/projects/deep-wine-runner-wine-download/files/wine-staging-wow64-9.13-debian10-amd64.7z",
             [
                 [
-                    "amd64",
-                        "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
+                            "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
                 ],
                 "exagear",
                 [
@@ -494,7 +471,6 @@
         "https://sourceforge.net/projects/deep-wine-runner-wine-download/files/wine-staging-9.13-debian10-x86_64.7z",
         [
             [
-                "amd64",
                 "/usr/lib/i386-linux-gnu/ld-linux.so.2",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
@@ -523,7 +499,6 @@
         "https://sourceforge.net/projects/deep-wine-runner-wine-download/files/wine-staging-9.13-debian10-amd64.7z",
         [
             [
-                "amd64",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
             "exagear",
@@ -548,7 +523,6 @@
         "https://sourceforge.net/projects/deep-wine-runner-wine-download/files/wine-staging-9.13-debian10-i386.7z",
         [
             [
-                "i386",
                 "/usr/lib/i386-linux-gnu/ld-linux.so.2"
             ],
             "exagear",
@@ -573,7 +547,6 @@
         "https://sourceforge.net/projects/deep-wine-runner-wine-download/files/wine-staging-wow64-box64-9.12-debian10-riscv64.7z",
         [
             [
-                "riscv64",
                 "/usr/lib/riscv64-linux-gnu/ld-linux-riscv64-lp64d.so.1"
             ]
         ]
@@ -583,7 +556,6 @@
         "https://sourceforge.net/projects/deep-wine-runner-wine-download/files/wine-staging-wow64-box64-9.12-debian10-arm64.7z",
         [
             [
-                "arm64",
                 "/usr/lib/aarch64-linux-gnu/ld-linux-aarch64.so.1"
             ]
         ]
@@ -593,7 +565,6 @@
         "https://sourceforge.net/projects/deep-wine-runner-wine-download/files/GE-Proton9.10.7z",
         [
             [
-                "amd64",
                 "/usr/lib/i386-linux-gnu/ld-linux.so.2",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
@@ -622,7 +593,6 @@
         "https://sourceforge.net/projects/deep-wine-runner-wine-download/files/spark-wine9-wow-9.11.7z",
         [
             [
-                "amd64",
                 "/usr/lib/i386-linux-gnu/ld-linux.so.2",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
@@ -651,7 +621,6 @@
         "https://sourceforge.net/projects/deep-wine-runner-wine-download/files/wine-staging-wow64-9.12-debian10-amd64.7z",
         [
             [
-                "amd64",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
             "exagear",
@@ -694,7 +663,6 @@
         "https://sourceforge.net/projects/deep-wine-runner-wine-download/files/wine-staging-9.12-debian10-x86_64.7z",
         [
             [
-                "amd64",
                 "/usr/lib/i386-linux-gnu/ld-linux.so.2",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
@@ -723,7 +691,6 @@
         "https://sourceforge.net/projects/deep-wine-runner-wine-download/files/wine-staging-9.12-debian10-amd64.7z",
         [
             [
-                "amd64",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
             "exagear",
@@ -748,7 +715,6 @@
         "https://sourceforge.net/projects/deep-wine-runner-wine-download/files/wine-staging-9.12-debian10-i386.7z",
         [
             [
-                "i386",
                 "/usr/lib/i386-linux-gnu/ld-linux.so.2"
             ],
             "exagear",
@@ -773,7 +739,6 @@
         "https://sourceforge.net/projects/deep-wine-runner-wine-download/files/deepin-wine6-stable.7z",
         [
             [
-                "amd64",
                 "/usr/lib/i386-linux-gnu/ld-linux.so.2",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
@@ -802,7 +767,6 @@
         "https://sourceforge.net/projects/deep-wine-runner-wine-download/files/wine-staging-wow64-9.11-debian10-amd64.7z",
         [
             [
-                "amd64",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
             "exagear",
@@ -845,7 +809,6 @@
         "https://sourceforge.net/projects/deep-wine-runner-wine-download/files/wine-staging-9.11-debian10-x86_64.7z",
         [
             [
-                "amd64",
                 "/usr/lib/i386-linux-gnu/ld-linux.so.2",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
@@ -874,7 +837,6 @@
         "https://sourceforge.net/projects/deep-wine-runner-wine-download/files/wine-staging-9.11-debian10-amd64.7z",
         [
             [
-                "amd64",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
             "exagear",
@@ -899,7 +861,6 @@
         "https://sourceforge.net/projects/deep-wine-runner-wine-download/files/wine-staging-9.11-debian10-i386.7z",
         [
             [
-                "i386",
                 "/usr/lib/i386-linux-gnu/ld-linux.so.2"
             ],
             "exagear",
@@ -924,7 +885,6 @@
         "https://sourceforge.net/projects/deep-wine-runner-wine-download/files/wine-staging-wow64-9.1-debian10-amd64.7z/download",
         [
             [
-                "amd64",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
             "exagear",
@@ -967,7 +927,6 @@
         "https://sourceforge.net/projects/deep-wine-runner-wine-download/files/GE-Proton9.7.7z",
         [
             [
-                "amd64",
                 "/usr/lib/i386-linux-gnu/ld-linux.so.2",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
@@ -996,7 +955,6 @@
         "https://sourceforge.net/projects/deep-wine-runner-wine-download/files/GE-Proton9.6.7z",
         [
             [
-                "amd64",
                 "/usr/lib/i386-linux-gnu/ld-linux.so.2",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
@@ -1025,7 +983,6 @@
         "https://sourceforge.net/projects/deep-wine-runner-wine-download/files/wine-staging-9.10-debian10-x86_64.7z",
         [
             [
-                "amd64",
                 "/usr/lib/i386-linux-gnu/ld-linux.so.2",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
@@ -1054,7 +1011,6 @@
         "https://sourceforge.net/projects/deep-wine-runner-wine-download/files/wine-staging-9.10-debian10-amd64.7z",
         [
             [
-                "amd64",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
             "exagear",
@@ -1079,7 +1035,6 @@
         "https://sourceforge.net/projects/deep-wine-runner-wine-download/files/wine-staging-9.10-debian10-i386.7z",
         [
             [
-                "i386",
                 "/usr/lib/i386-linux-gnu/ld-linux.so.2"
             ],
             "exagear",
@@ -1104,7 +1059,6 @@
         "https://sourceforge.net/projects/deep-wine-runner-wine-download/files/wine-stable-4.0.4.7z",
         [
             [
-                "amd64",
                 "/usr/lib/i386-linux-gnu/ld-linux.so.2",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
@@ -1133,7 +1087,6 @@
         "https://sourceforge.net/projects/deep-wine-runner-wine-download/files/wine-staging-wow64-9.9-debian10-amd64.7z",
         [
             [
-                "amd64",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
             "exagear",
@@ -1176,7 +1129,6 @@
         "https://sourceforge.net/projects/deep-wine-runner-wine-download/files/wine-staging-9.9-debian10-amd64.7z",
         [
             [
-                "amd64",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
             "exagear",
@@ -1201,7 +1153,6 @@
         "https://sourceforge.net/projects/deep-wine-runner-wine-download/files/wine-staging-9.9-debian10-i386.7z",
         [
             [
-                "i386",
                 "/usr/lib/i386-linux-gnu/ld-linux.so.2"
             ],
             "exagear",
@@ -1237,7 +1188,6 @@
         "https://sourceforge.net/projects/deep-wine-runner-wine-download/files/GE-Proton9.5.7z",
         [
             [
-                "amd64",
                 "/usr/lib/i386-linux-gnu/ld-linux.so.2",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
@@ -1266,7 +1216,6 @@
         "https://sourceforge.net/projects/deep-wine-runner-wine-download/files/wine-staging-wow64-9.8-debian10-amd64.7z",
         [
             [
-                "amd64",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
             "exagear",
@@ -1309,7 +1258,6 @@
         "https://sourceforge.net/projects/deep-wine-runner-wine-download/files/wine-staging-9.8-debian10-x86_64.7z",
         [
             [
-                "amd64",
                 "/usr/lib/i386-linux-gnu/ld-linux.so.2",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
@@ -1338,7 +1286,6 @@
         "https://sourceforge.net/projects/deep-wine-runner-wine-download/files/wine-staging-9.8-debian10-amd64.7z",
         [
             [
-                "amd64",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
             "exagear",
@@ -1363,7 +1310,6 @@
         "https://sourceforge.net/projects/deep-wine-runner-wine-download/files/wine-staging-9.8-debian10-i386.7z",
         [
             [
-                "i386",
                 "/usr/lib/i386-linux-gnu/ld-linux.so.2"
             ],
             "exagear",
@@ -1388,7 +1334,6 @@
         "https://sourceforge.net/projects/deep-wine-runner-wine-download/files/wine-staging-wow64-9.7-debian10-amd64.7z",
         [
             [
-                "amd64",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
             "exagear",
@@ -1431,7 +1376,6 @@
         "https://sourceforge.net/projects/deep-wine-runner-wine-download/files/wine-staging-9.7-debian10-x86_64.7z",
         [
             [
-                "amd64",
                 "/usr/lib/i386-linux-gnu/ld-linux.so.2",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
@@ -1460,7 +1404,6 @@
         "https://sourceforge.net/projects/deep-wine-runner-wine-download/files/wine-staging-9.7-debian10-amd64.7z",
         [
             [
-                "amd64",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
             "exagear",
@@ -1485,7 +1428,6 @@
         "https://sourceforge.net/projects/deep-wine-runner-wine-download/files/wine-staging-9.7-debian10-i386.7z",
         [
             [
-                "i386",
                 "/usr/lib/i386-linux-gnu/ld-linux.so.2"
             ],
             "exagear",
@@ -1510,7 +1452,6 @@
         "https://sourceforge.net/projects/deep-wine-runner-wine-download/files/GE-Proton9.4.7z",
         [
             [
-                "amd64",
                 "/usr/lib/i386-linux-gnu/ld-linux.so.2",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
@@ -1539,7 +1480,6 @@
         "https://sourceforge.net/projects/deep-wine-runner-wine-download/files/GE-Proton9.3.7z",
         [
             [
-                "amd64",
                 "/usr/lib/i386-linux-gnu/ld-linux.so.2",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
@@ -1568,7 +1508,6 @@
         "https://sourceforge.net/projects/deep-wine-runner-wine-download/files/wine-staging-wow64-9.6-debian10-amd64.7z",
         [
             [
-                "amd64",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
             "exagear",
@@ -1611,7 +1550,6 @@
         "https://sourceforge.net/projects/deep-wine-runner-wine-download/files/wine-staging-9.6-debian10-x86_64.7z",
         [
             [
-                "amd64",
                 "/usr/lib/i386-linux-gnu/ld-linux.so.2",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
@@ -1640,7 +1578,6 @@
         "https://sourceforge.net/projects/deep-wine-runner-wine-download/files/wine-staging-9.6-debian10-amd64.7z",
         [
             [
-                "amd64",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
             "exagear",
@@ -1665,7 +1602,6 @@
         "https://sourceforge.net/projects/deep-wine-runner-wine-download/files/wine-staging-9.6-debian10-i386.7z",
         [
             [
-                "i386",
                 "/usr/lib/i386-linux-gnu/ld-linux.so.2"
             ],
             "exagear",
@@ -1690,7 +1626,6 @@
         "https://sourceforge.net/projects/deep-wine-runner-wine-download/files/wine-staging-wow64-9.5-debian10-amd64.7z",
         [
             [
-                "amd64",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
             "exagear",
@@ -1733,7 +1668,6 @@
         "https://sourceforge.net/projects/deep-wine-runner-wine-download/files/wine-staging-9.5-debian10-x86_64.7z",
         [
             [
-                "amd64",
                 "/usr/lib/i386-linux-gnu/ld-linux.so.2",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
@@ -1762,7 +1696,6 @@
         "https://sourceforge.net/projects/deep-wine-runner-wine-download/files/wine-staging-9.5-debian10-amd64.7z",
         [
             [
-                "amd64",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
             "exagear",
@@ -1787,7 +1720,6 @@
         "https://sourceforge.net/projects/deep-wine-runner-wine-download/files/wine-staging-9.5-debian10-i386.7z",
         [
             [
-                "i386",
                 "/usr/lib/i386-linux-gnu/ld-linux.so.2"
             ],
             "exagear",
@@ -1812,7 +1744,6 @@
         "https://sourceforge.net/projects/deep-wine-runner-wine-download/files/GE-Proton9.2.7z",
         [
             [
-                "amd64",
                 "/usr/lib/i386-linux-gnu/ld-linux.so.2",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
@@ -1841,7 +1772,6 @@
         "https://sourceforge.net/projects/deep-wine-runner-wine-download/files/GE-Proton9.1.7z",
         [
             [
-                "amd64",
                 "/usr/lib/i386-linux-gnu/ld-linux.so.2",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
@@ -1870,7 +1800,6 @@
         "https://sourceforge.net/projects/deep-wine-runner-wine-download/files/GE-Proton8.32.7z",
         [
             [
-                "amd64",
                 "/usr/lib/i386-linux-gnu/ld-linux.so.2",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
@@ -1899,7 +1828,6 @@
         "https://sourceforge.net/projects/deep-wine-runner-wine-download/files/wine-staging-wow64-9.4-debian10-amd64.7z",
         [
             [
-                "amd64",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
             "exagear",
@@ -1942,7 +1870,6 @@
         "https://sourceforge.net/projects/deep-wine-runner-wine-download/files/wine-staging-9.4-debian10-x86_64.7z",
         [
             [
-                "amd64",
                 "/usr/lib/i386-linux-gnu/ld-linux.so.2",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
@@ -1971,7 +1898,6 @@
         "https://sourceforge.net/projects/deep-wine-runner-wine-download/files/wine-staging-9.4-debian10-amd64.7z",
         [
             [
-                "amd64",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
             "exagear",
@@ -1996,7 +1922,6 @@
         "https://sourceforge.net/projects/deep-wine-runner-wine-download/files/wine-staging-9.4-debian10-i386.7z",
         [
             [
-                "i386",
                 "/usr/lib/i386-linux-gnu/ld-linux.so.2"
             ],
             "exagear",
@@ -2021,7 +1946,6 @@
         "https://sourceforge.net/projects/deep-wine-runner-wine-download/files/spark-wine9-wow-9.1-spark-0.7z/download",
         [
             [
-                "amd64",
                 "/usr/lib/i386-linux-gnu/ld-linux.so.2",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
@@ -2050,7 +1974,6 @@
         "https://sourceforge.net/projects/deep-wine-runner-wine-download/files/spark-wine9-9.1-spark-0.7z/download",
         [
             [
-                "amd64",
                 "/usr/lib/i386-linux-gnu/ld-linux.so.2",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
@@ -2079,7 +2002,6 @@
         "https://sourceforge.net/projects/deep-wine-runner-wine-download/files/GE-Proton8.31.7z/download",
         [
             [
-                "amd64",
                 "/usr/lib/i386-linux-gnu/ld-linux.so.2",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
@@ -2108,7 +2030,6 @@
         "https://sourceforge.net/projects/deep-wine-runner-wine-download/files/wine-staging-wow64-9.2-debian10-amd64.7z/download",
         [
             [
-                "amd64",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
             "exagear",
@@ -2151,7 +2072,6 @@
         "https://sourceforge.net/projects/deep-wine-runner-wine-download/files/wine-staging-9.2-debian10-x86_64.7z/download",
         [
             [
-                "amd64",
                 "/usr/lib/i386-linux-gnu/ld-linux.so.2",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
@@ -2180,7 +2100,6 @@
         "https://sourceforge.net/projects/deep-wine-runner-wine-download/files/wine-staging-9.2-debian10-amd64.7z/download",
         [
             [
-                "amd64",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
             "exagear",
@@ -2205,7 +2124,6 @@
         "https://sourceforge.net/projects/deep-wine-runner-wine-download/files/wine-staging-9.2-debian10-i386.7z/download",
         [
             [
-                "i386",
                 "/usr/lib/i386-linux-gnu/ld-linux.so.2"
             ],
             "exagear",
@@ -2230,7 +2148,6 @@
         "https://sourceforge.net/projects/deep-wine-runner-wine-download/files/deepin-wine8-stable-8.16-deepin13-amd64.7z/download",
         [
             [
-                "amd64",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
             "exagear",
@@ -2255,7 +2172,6 @@
         "https://sourceforge.net/projects/deep-wine-runner-wine-download/files/GE-Proton8.30.7z/download",
         [
             [
-                "amd64",
                 "/usr/lib/i386-linux-gnu/ld-linux.so.2",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
@@ -2284,7 +2200,6 @@
         "https://sourceforge.net/projects/deep-wine-runner-wine-download/files/GE-Proton8.29.7z/download",
         [
             [
-                "amd64",
                 "/usr/lib/i386-linux-gnu/ld-linux.so.2",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
@@ -2313,7 +2228,6 @@
         "https://sourceforge.net/projects/deep-wine-runner-wine-download/files/GE-Proton8.28.7z/download",
         [
             [
-                "amd64",
                 "/usr/lib/i386-linux-gnu/ld-linux.so.2",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
@@ -2342,7 +2256,6 @@
         "https://sourceforge.net/projects/deep-wine-runner-wine-download/files/GE-Proton8.27.7z/download",
         [
             [
-                "amd64",
                 "/usr/lib/i386-linux-gnu/ld-linux.so.2",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
@@ -2371,7 +2284,6 @@
         "https://sourceforge.net/projects/deep-wine-runner-wine-download/files/mejituu-wine8-8.16+Mejituu-2024012516.7z/download",
         [
             [
-                "amd64",
                 "/usr/lib/i386-linux-gnu/ld-linux.so.2",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
@@ -2400,7 +2312,6 @@
         "https://sourceforge.net/projects/deep-wine-runner-wine-download/files/wine-staging-9.1-debian10-x86_64.7z/download",
         [
             [
-                "amd64",
                 "/usr/lib/i386-linux-gnu/ld-linux.so.2",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
@@ -2429,7 +2340,6 @@
         "https://sourceforge.net/projects/deep-wine-runner-wine-download/files/wine-staging-9.1-debian10-amd64.7z/download",
         [
             [
-                "amd64",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
             "exagear",
@@ -2454,7 +2364,6 @@
         "https://sourceforge.net/projects/deep-wine-runner-wine-download/files/wine-staging-9.1-debian10-i386.7z/download",
         [
             [
-                "i386",
                 "/usr/lib/i386-linux-gnu/ld-linux.so.2"
             ],
             "exagear",
@@ -2479,7 +2388,6 @@
         "https://sourceforge.net/projects/deep-wine-runner-wine-download/files/deepin-wine8-stable-8.16-deepin11-amd64.7z/download",
         [
             [
-                "amd64",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
             "exagear",
@@ -2514,7 +2422,6 @@
         "https://sourceforge.net/projects/deep-wine-runner-wine-download/files/wine-staging-wow64-9.0-debian10-amd64.7z/download",
         [
             [
-                "amd64",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
             "exagear",
@@ -2557,7 +2464,6 @@
         "https://sourceforge.net/projects/deep-wine-runner-wine-download/files/wine-staging-9.0-debian10-amd64.7z/download",
         [
             [
-                "amd64",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
             "exagear",
@@ -2582,7 +2488,6 @@
         "https://sourceforge.net/projects/deep-wine-runner-wine-download/files/wine-staging-9.0-debian10-i386.7z/download",
         [
             [
-                "i386",
                 "/usr/lib/i386-linux-gnu/ld-linux.so.2"
             ],
             "exagear",
@@ -2607,7 +2512,6 @@
         "https://sourceforge.net/projects/deep-wine-runner-wine-download/files/wine-staging-9.0-debian10-x86_64.7z/download",
         [
             [
-                "amd64",
                 "/usr/lib/i386-linux-gnu/ld-linux.so.2",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
@@ -2636,7 +2540,6 @@
         "https://sourceforge.net/projects/deep-wine-runner-wine-download/files/GE-Proton8.26.7z/download",
         [
             [
-                "amd64",
                 "/usr/lib/i386-linux-gnu/ld-linux.so.2",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
@@ -2665,7 +2568,6 @@
         "https://sourceforge.net/projects/deep-wine-runner-wine-download/files/wine-staging-9.0-rc5-debian10-x86_64.7z/download",
         [
             [
-                "amd64",
                 "/usr/lib/i386-linux-gnu/ld-linux.so.2",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
@@ -2694,7 +2596,6 @@
         "https://sourceforge.net/projects/deep-wine-runner-wine-download/files/wine-staging-9.0-rc5-debian10-amd64.7z/download",
         [
             [
-                "amd64",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
             "exagear",
@@ -2719,7 +2620,6 @@
         "https://sourceforge.net/projects/deep-wine-runner-wine-download/files/wine-staging-9.0-rc5-debian10-i386.7z/download",
         [
             [
-                "i386",
                 "/usr/lib/i386-linux-gnu/ld-linux.so.2"
             ],
             "exagear",
@@ -2744,7 +2644,6 @@
         "https://sourceforge.net/projects/deep-wine-runner-wine-download/files/wine-staging-wow64-9.0-rc5-debian10-amd64.7z/download",
         [
             [
-                "amd64",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
             "exagear",
@@ -2787,7 +2686,6 @@
         "https://sourceforge.net/projects/deep-wine-runner-wine-download/files/wine-devel-wow64_9.0-rc4-x86_64-appimage-sourceforge.7z/download",
         [
             [
-                "amd64",
                 "/usr/lib/i386-linux-gnu/ld-linux.so.2",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
@@ -2834,7 +2732,6 @@
         "https://sourceforge.net/projects/deep-wine-runner-wine-download/files/wine-staging-wow64_9.0-rc4-x86_64-appimage-sourceforge.7z/download",
         [
             [
-                "amd64",
                 "/usr/lib/i386-linux-gnu/ld-linux.so.2",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
@@ -2881,7 +2778,6 @@
         "https://sourceforge.net/projects/deep-wine-runner-wine-download/files/wine-staging-wow64-9.0-rc4-debian10-amd64.7z/download",
         [
             [
-                "amd64",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
             "exagear",
@@ -2924,7 +2820,6 @@
         "https://sourceforge.net/projects/deep-wine-runner-wine-download/files/wine-staging-9.0-rc4-debian10-x86_64.7z/download",
         [
             [
-                "amd64",
                 "/usr/lib/i386-linux-gnu/ld-linux.so.2",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
@@ -2953,7 +2848,6 @@
         "https://sourceforge.net/projects/deep-wine-runner-wine-download/files/wine-staging-9.0-rc4-debian10-amd64.7z/download",
         [
             [
-                "amd64",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
             "exagear",
@@ -2978,7 +2872,6 @@
         "https://sourceforge.net/projects/deep-wine-runner-wine-download/files/wine-staging-9.0-rc4-debian10-i386.7z/download",
         [
             [
-                "i386",
                 "/usr/lib/i386-linux-gnu/ld-linux.so.2"
             ],
             "exagear",
@@ -3003,7 +2896,6 @@
         "https://sourceforge.net/projects/deep-wine-runner-wine-download/files/wine-stable_8.0.2-x86_64-appimage-sourceforge.7z/download",
         [
             [
-                "amd64",
                 "/usr/lib/i386-linux-gnu/ld-linux.so.2",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
@@ -3032,7 +2924,6 @@
         "https://sourceforge.net/projects/deep-wine-runner-wine-download/files/wine-staging_ge-proton_8-25-x86_64-appimage-sourceforge.7z/download",
         [
             [
-                "amd64",
                 "/usr/lib/i386-linux-gnu/ld-linux.so.2",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
@@ -3061,7 +2952,6 @@
         "https://sourceforge.net/projects/deep-wine-runner-wine-download/files/wine-staging_9.0-x86_64-appimage-sourceforge.7z/download",
         [
             [
-                "amd64",
                 "/usr/lib/i386-linux-gnu/ld-linux.so.2",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
@@ -3090,7 +2980,6 @@
         "https://sourceforge.net/projects/deep-wine-runner-wine-download/files/ukylin-wine-70.6.3.25-amd64.7z/download",
         [
             [
-                "amd64",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
             "exagear",
@@ -3115,7 +3004,6 @@
         "https://sourceforge.net/projects/deep-wine-runner-wine-download/files/wine-staging_8.21-x86_64-appimage-sourceforge.7z/download",
         [
             [
-                "amd64",
                 "/usr/lib/i386-linux-gnu/ld-linux.so.2",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
@@ -3144,7 +3032,6 @@
         "https://sourceforge.net/projects/deep-wine-runner-wine-download/files/wine-staging-wow64_8.21-x86_64-appimage-sourceforge.7z/download",
         [
             [
-                "amd64",
                 "/usr/lib/i386-linux-gnu/ld-linux.so.2",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
@@ -3191,7 +3078,6 @@
         "https://sourceforge.net/projects/deep-wine-runner-wine-download/files/wine-devel-wow64_8.21-x86_64-appimage-sourceforge.7z/download",
         [
             [
-                "amd64",
                 "/usr/lib/i386-linux-gnu/ld-linux.so.2",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
@@ -3238,7 +3124,6 @@
         "https://sourceforge.net/projects/deep-wine-runner-wine-download/files/wine-devel_9.0-x86_64-appimage-sourceforge.7z/download",
         [
             [
-                "amd64",
                 "/usr/lib/i386-linux-gnu/ld-linux.so.2",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
@@ -3267,7 +3152,6 @@
         "https://sourceforge.net/projects/deep-wine-runner-wine-download/files/wine-staging_ge-lol_7-1-x86_64-appimage-sourceforge.7z/download",
         [
             [
-                "amd64",
                 "/usr/lib/i386-linux-gnu/ld-linux.so.2",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
@@ -3296,7 +3180,6 @@
         "https://sourceforge.net/projects/deep-wine-runner-wine-download/files/wine-stable-multi_4.0.4-x86_64-appimage-sourceforge.7z/download",
         [
             [
-                "amd64",
                 "/usr/lib/i386-linux-gnu/ld-linux.so.2",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
@@ -3325,7 +3208,6 @@
         "https://sourceforge.net/projects/deep-wine-runner-wine-download/files/wine-stable-i386_4.0.4-x86_64-appimage-sourceforge.7z/download",
         [
             [
-                "i386",
                 "/usr/lib/i386-linux-gnu/ld-linux.so.2"
             ],
             "exagear",
@@ -3344,7 +3226,6 @@
                 "binfmt"
             ],
             [
-                "amd64",
                 "/usr/lib/i386-linux-gnu/ld-linux.so.2",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
@@ -3373,7 +3254,6 @@
         "https://sourceforge.net/projects/deep-wine-runner-wine-download/files/wine-stable-amd64_4.0.4-x86_64-appimage-sourceforge.7z/download",
         [
             [
-                "amd64",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
             "exagear",
@@ -3392,7 +3272,6 @@
                 "binfmt"
             ],
             [
-                "amd64",
                 "/usr/lib/i386-linux-gnu/ld-linux.so.2",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
@@ -3421,7 +3300,6 @@
         "https://sourceforge.net/projects/deep-wine-runner-wine-download/files/wine-ce-9.0-rc1-ubuntu22.04-arm64.7z/download",
         [
             [
-                "arm64",
                 "2.35",
                 "/usr/lib/aarch64-linux-gnu/ld-linux-aarch64.so.1"
             ]
@@ -3454,7 +3332,6 @@
         "https://sourceforge.net/projects/deep-wine-runner-wine-download/files/wine-staging-wow64-9.0-rc3-debian10-amd64.7z/download",
         [
             [
-                "amd64",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
             "exagear",
@@ -3497,7 +3374,6 @@
         "https://sourceforge.net/projects/deep-wine-runner-wine-download/files/wine-staging-9.0-rc3-debian10-x86_64.7z/download",
         [
             [
-                "amd64",
                 "/usr/lib/i386-linux-gnu/ld-linux.so.2",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
@@ -3526,7 +3402,6 @@
         "https://sourceforge.net/projects/deep-wine-runner-wine-download/files/wine-staging-9.0-rc3-debian10-amd64.7z/download",
         [
             [
-                "amd64",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
             "exagear",
@@ -3551,7 +3426,6 @@
         "https://sourceforge.net/projects/deep-wine-runner-wine-download/files/wine-staging-9.0-rc3-debian10-i386.7z/download",
         [
             [
-                "i386",
                 "/usr/lib/i386-linux-gnu/ld-linux.so.2"
             ],
             "exagear",
@@ -3576,7 +3450,6 @@
         "https://sourceforge.net/projects/deep-wine-runner-wine-download/files/okylin-wine-20231110-x86_64.7z/download",
         [
             [
-                "amd64",
                 "/usr/lib/i386-linux-gnu/ld-linux.so.2",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
@@ -3605,7 +3478,6 @@
         "https://sourceforge.net/projects/deep-wine-runner-wine-download/files/okylin-wine-20230928-x86_64.7z/download",
         [
             [
-                "amd64",
                 "/usr/lib/i386-linux-gnu/ld-linux.so.2",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
@@ -3634,7 +3506,6 @@
         "https://sourceforge.net/projects/deep-wine-runner-wine-download/files/deepin-wine8-stable-8.16-deepin10-amd64.7z/download",
         [
             [
-                "amd64",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
             "exagear",
@@ -3659,7 +3530,6 @@
         "https://sourceforge.net/projects/deep-wine-runner-wine-download/files/wine-staging-wow64-9.0-rc2-debian10-amd64.7z/download",
         [
             [
-                "amd64",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
             "exagear",
@@ -3702,7 +3572,6 @@
         "https://sourceforge.net/projects/deep-wine-runner-wine-download/files/wine-staging-9.0-rc2-debian10-x86_64.7z/download",
         [
             [
-                "amd64",
                 "/usr/lib/i386-linux-gnu/ld-linux.so.2",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
@@ -3731,7 +3600,6 @@
         "https://sourceforge.net/projects/deep-wine-runner-wine-download/files/wine-staging-9.0-rc2-debian10-amd64.7z/download",
         [
             [
-                "amd64",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
             "exagear",
@@ -3756,7 +3624,6 @@
         "https://sourceforge.net/projects/deep-wine-runner-wine-download/files/wine-staging-9.0-rc2-debian10-i386.7z/download",
         [
             [
-                "i386",
                 "/usr/lib/i386-linux-gnu/ld-linux.so.2"
             ],
             "exagear",
@@ -3781,7 +3648,6 @@
         "https://sourceforge.net/projects/deep-wine-runner-wine-download/files/wine-lutris-GE-Proton8.27-LoL-x86_64.7z/download",
         [
             [
-                "amd64",
                 "/usr/lib/i386-linux-gnu/ld-linux.so.2",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
@@ -3810,7 +3676,6 @@
         "https://sourceforge.net/projects/deep-wine-runner-wine-download/files/wine-lutris-GE-Proton8.26-LoL-x86_64.7z/download",
         [
             [
-                "amd64",
                 "/usr/lib/i386-linux-gnu/ld-linux.so.2",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
@@ -3839,7 +3704,6 @@
         "https://sourceforge.net/projects/deep-wine-runner-wine-download/files/wine-lutris-GE-Proton8.25-LoL-x86_64.7z/download",
         [
             [
-                "amd64",
                 "/usr/lib/i386-linux-gnu/ld-linux.so.2",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
@@ -3868,7 +3732,6 @@
         "https://sourceforge.net/projects/deep-wine-runner-wine-download/files/wine-ce-9.0-rc1-riscv64.7z/download",
         [
             [
-                "riscv64",
                 "/usr/lib/riscv64-linux-gnu/ld-linux-riscv64-lp64d.so.1"
             ]
         ]
@@ -3878,7 +3741,6 @@
         "https://sourceforge.net/projects/deep-wine-runner-wine-download/files/wine-ce-9.0-rc1-arm64.7z/download",
         [
             [
-                "arm64",
                 "/usr/lib/aarch64-linux-gnu/ld-linux-aarch64.so.1"
             ]
         ]
@@ -3888,7 +3750,6 @@
         "https://sourceforge.net/projects/deep-wine-runner-wine-download/files/wine-staging-wow64-9.0-rc1-debian10-amd64.7z/download",
         [
             [
-                "amd64",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
             "exagear",
@@ -3931,7 +3792,6 @@
         "https://sourceforge.net/projects/deep-wine-runner-wine-download/files/wine-staging-9.0-rc1-debian10-x86_64.7z/download",
         [
             [
-                "amd64",
                 "/usr/lib/i386-linux-gnu/ld-linux.so.2",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
@@ -3960,7 +3820,6 @@
         "https://sourceforge.net/projects/deep-wine-runner-wine-download/files/wine-staging-9.0-rc1-debian10-amd64.7z/download",
         [
             [
-                "amd64",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
             "exagear",
@@ -3985,7 +3844,6 @@
         "https://sourceforge.net/projects/deep-wine-runner-wine-download/files/wine-staging-9.0-rc1-debian10-i386.7z/download",
         [
             [
-                "i386",
                 "/usr/lib/i386-linux-gnu/ld-linux.so.2"
             ],
             "exagear",
@@ -4010,7 +3868,6 @@
         "https://sourceforge.net/projects/deep-wine-runner-wine-download/files/wine-lutris-GE-Proton8.25-x86_64.7z/download",
         [
             [
-                "amd64",
                 "/usr/lib/i386-linux-gnu/ld-linux.so.2",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
@@ -4039,7 +3896,6 @@
         "https://sourceforge.net/projects/deep-wine-runner-wine-download/files/wine-ce-8.20-arm64.7z/download",
         [
             [
-                "arm64",
                 "/usr/lib/aarch64-linux-gnu/ld-linux-aarch64.so.1"
             ]
         ]
@@ -4049,7 +3905,6 @@
         "https://sourceforge.net/projects/deep-wine-runner-wine-download/files/GE-Proton8.24.7z/download",
         [
             [
-                "amd64",
                 "/usr/lib/i386-linux-gnu/ld-linux.so.2",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
@@ -4078,7 +3933,6 @@
         "https://sourceforge.net/projects/deep-wine-runner-wine-download/files/GE-Proton8.23.7z/download",
         [
             [
-                "amd64",
                 "/usr/lib/i386-linux-gnu/ld-linux.so.2",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
@@ -4107,7 +3961,6 @@
         "https://sourceforge.net/projects/deep-wine-runner-wine-download/files/wine-lutris-GE-Proton8.24-x86_64.7z/download",
         [
             [
-                "amd64",
                 "/usr/lib/i386-linux-gnu/ld-linux.so.2",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
@@ -4136,7 +3989,6 @@
         "https://sourceforge.net/projects/deep-wine-runner-wine-download/files/wine-lutris-GE-Proton8.23-x86_64.7z/download",
         [
             [
-                "amd64",
                 "/usr/lib/i386-linux-gnu/ld-linux.so.2",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
@@ -4165,7 +4017,6 @@
         "https://sourceforge.net/projects/deep-wine-runner-wine-download/files/wine-staging-8.21-debian10-i386.7z/download",
         [
             [
-                "i386",
                 "/usr/lib/i386-linux-gnu/ld-linux.so.2"
             ],
             "exagear",
@@ -4190,7 +4041,6 @@
         "https://sourceforge.net/projects/deep-wine-runner-wine-download/files/wine-staging-8.21-debian10-amd64.7z/download",
         [
             [
-                "amd64",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
             "exagear",
@@ -4215,7 +4065,6 @@
         "https://sourceforge.net/projects/deep-wine-runner-wine-download/files/wine-staging-8.21-debian10-x86_64.7z/download",
         [
             [
-                "amd64",
                 "/usr/lib/i386-linux-gnu/ld-linux.so.2",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
@@ -4244,7 +4093,6 @@
         "https://sourceforge.net/projects/deep-wine-runner-wine-download/files/wine-staging-wow64-8.21-debian10-amd64.7z/download",
         [
             [
-                "amd64",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
             "exagear",
@@ -4287,7 +4135,6 @@
         "https://sourceforge.net/projects/deep-wine-runner-wine-download/files/spark-wine8-8.20.7z/download",
         [
             [
-                "amd64",
                 "/usr/lib/i386-linux-gnu/ld-linux.so.2",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
@@ -4316,7 +4163,6 @@
         "https://jihulab.com/gfdgd-xi/wine-mirrors-6/-/raw/main/wine-staging-wow64-8.20-debian10-amd64.7z",
         [
             [
-                "amd64",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
             "exagear",
@@ -4359,7 +4205,6 @@
         "https://jihulab.com/gfdgd-xi/wine-mirrors-6/-/raw/main/wine-staging-8.20-debian10-amd64.7z",
         [
             [
-                "amd64",
                 "/usr/lib/i386-linux-gnu/ld-linux.so.2",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
@@ -4388,7 +4233,6 @@
         "http://seafile.jyx2048.com:2345/spark-deepin-wine-runner/data/wine/wine-staging-8.20-debian10-amd64.7z",
         [
             [
-                "amd64",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
             "exagear",
@@ -4413,7 +4257,6 @@
         "http://seafile.jyx2048.com:2345/spark-deepin-wine-runner/data/wine/wine-staging-8.20-debian10-i386.7z",
         [
             [
-                "i386",
                 "/usr/lib/i386-linux-gnu/ld-linux.so.2"
             ],
             "exagear",
@@ -4438,7 +4281,6 @@
         "https://jihulab.com/gfdgd-xi/wine-mirrors-5/-/raw/main/wine-staging-wow64-8.19-debian10-amd64.7z",
         [
             [
-                "amd64",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
             "exagear",
@@ -4481,7 +4323,6 @@
         "https://jihulab.com/gfdgd-xi/wine-mirrors-5/-/raw/main/wine-staging-8.19-debian10-x86_64.7z",
         [
             [
-                "amd64",
                 "/usr/lib/i386-linux-gnu/ld-linux.so.2",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
@@ -4510,7 +4351,6 @@
         "http://seafile.jyx2048.com:2345/spark-deepin-wine-runner/data/wine/wine-staging-8.19-debian10-amd64.7z",
         [
             [
-                "amd64",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
             "exagear",
@@ -4535,7 +4375,6 @@
         "http://seafile.jyx2048.com:2345/spark-deepin-wine-runner/data/wine/wine-staging-8.19-debian10-i386.7z",
         [
             [
-                "i386",
                 "/usr/lib/i386-linux-gnu/ld-linux.so.2"
             ],
             "exagear",
@@ -4560,7 +4399,6 @@
         "http://seafile.jyx2048.com:2345/spark-deepin-wine-runner/data/wine/wine-lutris-GE-Proton8.22-x86_64.7z",
         [
             [
-                "amd64",
                 "/usr/lib/i386-linux-gnu/ld-linux.so.2",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
@@ -4589,7 +4427,6 @@
         "http://seafile.jyx2048.com:2345/spark-deepin-wine-runner/data/wine/wine-lutris-GE-Proton8.21-x86_64.7z",
         [
             [
-                "amd64",
                 "/usr/lib/i386-linux-gnu/ld-linux.so.2",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
@@ -4618,7 +4455,6 @@
         "http://seafile.jyx2048.com:2345/spark-deepin-wine-runner/data/wine/GE-Proton-8.22.7z",
         [
             [
-                "amd64",
                 "/usr/lib/i386-linux-gnu/ld-linux.so.2",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
@@ -4647,7 +4483,6 @@
         "http://seafile.jyx2048.com:2345/spark-deepin-wine-runner/data/wine/GE-Proton-8.21.7z",
         [
             [
-                "amd64",
                 "/usr/lib/i386-linux-gnu/ld-linux.so.2",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
@@ -4676,7 +4511,6 @@
         "https://master.dl.sourceforge.net/project/deep-wine-runner-wine-download/wine-lutris-GE-Proton8.20-x86_64/wine-lutris-GE-Proton8.20-x86_64.7z",
         [
             [
-                "amd64",
                 "/usr/lib/i386-linux-gnu/ld-linux.so.2",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
@@ -4705,7 +4539,6 @@
         "https://master.dl.sourceforge.net/project/deep-wine-runner-wine-download/wine-lutris-GE-Proton8.19-x86_64/wine-lutris-GE-Proton8.19-x86_64.7z",
         [
             [
-                "amd64",
                 "/usr/lib/i386-linux-gnu/ld-linux.so.2",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
@@ -4734,7 +4567,6 @@
         "https://master.dl.sourceforge.net/project/deep-wine-runner-wine-download/wine-lutris-GE-Proton8.18-x86_64/wine-lutris-GE-Proton8.18-x86_64.7z",
         [
             [
-                "amd64",
                 "/usr/lib/i386-linux-gnu/ld-linux.so.2",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
@@ -4763,7 +4595,6 @@
         "https://master.dl.sourceforge.net/project/deep-wine-runner-wine-download/GE-Proton-8.20/GE-Proton-8.20.7z",
         [
             [
-                "amd64",
                 "/usr/lib/i386-linux-gnu/ld-linux.so.2",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
@@ -4792,7 +4623,6 @@
         "https://master.dl.sourceforge.net/project/deep-wine-runner-wine-download/GE-Proton-8.19/GE-Proton-8.19.7z",
         [
             [
-                "amd64",
                 "/usr/lib/i386-linux-gnu/ld-linux.so.2",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
@@ -4821,7 +4651,6 @@
         "https://master.dl.sourceforge.net/project/deep-wine-runner-wine-download/GE-Proton-8.18/GE-Proton-8.18.7z",
         [
             [
-                "amd64",
                 "/usr/lib/i386-linux-gnu/ld-linux.so.2",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
@@ -4850,7 +4679,6 @@
         "https://master.dl.sourceforge.net/project/deep-wine-runner-wine-download/GE-Proton-8.17/GE-Proton-8.17.7z",
         [
             [
-                "amd64",
                 "/usr/lib/i386-linux-gnu/ld-linux.so.2",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
@@ -4879,7 +4707,6 @@
         "https://jihulab.com/gfdgd-xi/wine-mirrors-4/-/raw/main/spark-wine8-8.15.7z",
         [
             [
-                "amd64",
                 "/usr/lib/i386-linux-gnu/ld-linux.so.2",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
@@ -4908,7 +4735,6 @@
         "https://jihulab.com/gfdgd-xi/wine-mirrors-5/-/raw/main/spark-wine8-wow64-8.15.7z",
         [
             [
-                "amd64",
                 "/usr/lib/i386-linux-gnu/ld-linux.so.2",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
@@ -4937,7 +4763,6 @@
         "https://jihulab.com/gfdgd-xi/wine-mirrors-4/-/raw/main/wine-stable-8.0.2-debian10-x86_64.7z",
         [
             [
-                "amd64",
                 "/usr/lib/i386-linux-gnu/ld-linux.so.2",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
@@ -4966,7 +4791,6 @@
         "https://master.dl.sourceforge.net/project/deep-wine-runner-wine-download/wine-stable-8.0.2-debian10-amd64/wine-stable-8.0.2-debian10-amd64.7z",
         [
             [
-                "amd64",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
             "exagear",
@@ -4991,7 +4815,6 @@
         "https://master.dl.sourceforge.net/project/deep-wine-runner-wine-download/wine-stable-8.0.2-debian10-i386/wine-stable-8.0.2-debian10-i386.7z",
         [
             [
-                "i386",
                 "/usr/lib/i386-linux-gnu/ld-linux.so.2"
             ],
             "exagear",
@@ -5016,7 +4839,6 @@
         "https://jihulab.com/gfdgd-xi/wine-mirrors-4/-/raw/main/wine-stable-wow64-8.0.2-debian10-x86_64.7z",
         [
             [
-                "amd64",
                 "/usr/lib/i386-linux-gnu/ld-linux.so.2",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
@@ -5074,7 +4896,6 @@
         "https://jihulab.com/gfdgd-xi/wine-mirrors-5/-/raw/main/wine-staging-8.17-debian10-x86_64.7z",
         [
             [
-                "amd64",
                 "/usr/lib/i386-linux-gnu/ld-linux.so.2",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
@@ -5103,7 +4924,6 @@
         "https://jihulab.com/gfdgd-xi/wine-mirrors-5/-/raw/main/wine-staging-wow64-8.17-debian10-amd64.7z",
         [
             [
-                "amd64",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
             "exagear",
@@ -5146,7 +4966,6 @@
         "https://jihulab.com/gfdgd-xi/wine-mirrors-5/-/raw/main/wine-staging-8.18-debian10-x86_64.7z",
         [
             [
-                "amd64",
                 "/usr/lib/i386-linux-gnu/ld-linux.so.2",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
@@ -5175,7 +4994,6 @@
         "https://jihulab.com/gfdgd-xi/wine-mirrors-5/-/raw/main/wine-staging-wow64-8.18-debian10-amd64.7z",
         [
             [
-                "amd64",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
             "exagear",
@@ -5218,7 +5036,6 @@
         "https://master.dl.sourceforge.net/project/deep-wine-runner-wine-download/wine-staging-8.18-debian10-amd64/wine-staging-8.18-debian10-amd64.7z",
         [
             [
-                "amd64",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
             "exagear",
@@ -5243,7 +5060,6 @@
         "https://master.dl.sourceforge.net/project/deep-wine-runner-wine-download/wine-staging-8.18-debian10-i386/wine-staging-8.18-debian10-i386.7z",
         [
             [
-                "i386",
                 "/usr/lib/i386-linux-gnu/ld-linux.so.2"
             ],
             "exagear",
@@ -5268,7 +5084,6 @@
         "https://master.dl.sourceforge.net/project/deep-wine-runner-wine-download/GE-Proton-8.17/GE-Proton-8.17.7z",
         [
             [
-                "amd64",
                 "/usr/lib/i386-linux-gnu/ld-linux.so.2",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
@@ -5297,7 +5112,6 @@
         "https://master.dl.sourceforge.net/project/deep-wine-runner-wine-download/wine-staging-8.17-debian10-amd64/wine-staging-8.17-debian10-amd64.7z",
         [
             [
-                "amd64",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
             "exagear",
@@ -5322,7 +5136,6 @@
         "https://master.dl.sourceforge.net/project/deep-wine-runner-wine-download/wine-staging-8.17-debian10-i386/wine-staging-8.17-debian10-i386.7z",
         [
             [
-                "i386",
                 "/usr/lib/i386-linux-gnu/ld-linux.so.2"
             ],
             "exagear",
@@ -5358,7 +5171,6 @@
         "https://master.dl.sourceforge.net/project/deep-wine-runner-wine-download/wine-lutris-GE-Proton8.17-x86_64/wine-lutris-GE-Proton8.17-x86_64.7z",
         [
             [
-                "amd64",
                 "/usr/lib/i386-linux-gnu/ld-linux.so.2",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
@@ -5387,7 +5199,6 @@
         "https://master.dl.sourceforge.net/project/deep-wine-runner-wine-download/GE-Proton-8.16/GE-Proton-8.16.7z",
         [
             [
-                "amd64",
                 "/usr/lib/i386-linux-gnu/ld-linux.so.2",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
@@ -5416,7 +5227,6 @@
         "https://jihulab.com/gfdgd-xi/wine-mirrors-5/-/raw/main/wine-staging-8.16-debian10-x86_64.7z",
         [
             [
-                "amd64",
                 "/usr/lib/i386-linux-gnu/ld-linux.so.2",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
@@ -5445,7 +5255,6 @@
         "https://jihulab.com/gfdgd-xi/wine-mirrors-5/-/raw/main/wine-staging-wow64-8.16-debian10-amd64.7z",
         [
             [
-                "amd64",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
             "exagear",
@@ -5488,7 +5297,6 @@
         "https://master.dl.sourceforge.net/project/deep-wine-runner-wine-download/wine-staging-8.16-debian10-amd64/wine-staging-8.16-debian10-amd64.7z",
         [
             [
-                "amd64",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
             "exagear",
@@ -5513,7 +5321,6 @@
         "https://master.dl.sourceforge.net/project/deep-wine-runner-wine-download/wine-staging-8.16-debian10-i386/wine-staging-8.16-debian10-i386.7z",
         [
             [
-                "i386",
                 "/usr/lib/i386-linux-gnu/ld-linux.so.2"
             ],
             "exagear",
@@ -5549,7 +5356,6 @@
         "https://master.dl.sourceforge.net/project/deep-wine-runner-wine-download/wine-lutris-GE-Proton8.15-x86_64/wine-lutris-GE-Proton8.15-x86_64.7z",
         [
             [
-                "amd64",
                 "/usr/lib/i386-linux-gnu/ld-linux.so.2",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
@@ -5578,7 +5384,6 @@
         "https://master.dl.sourceforge.net/project/deep-wine-runner-wine-download/GE-Proton-8.15/GE-Proton-8.15.7z",
         [
             [
-                "amd64",
                 "/usr/lib/i386-linux-gnu/ld-linux.so.2",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
@@ -5607,7 +5412,6 @@
         "https://jihulab.com/gfdgd-xi/wine-mirrors-4/-/raw/main/wine-staging-8.15-debian10-x86_64.7z",
         [
             [
-                "amd64",
                 "/usr/lib/i386-linux-gnu/ld-linux.so.2",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
@@ -5636,7 +5440,6 @@
         "https://jihulab.com/gfdgd-xi/wine-mirrors-4/-/raw/main/wine-staging-wow64-8.15-debian10-amd64.7z",
         [
             [
-                "amd64",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
             "exagear",
@@ -5679,7 +5482,6 @@
         "https://master.dl.sourceforge.net/project/deep-wine-runner-wine-download/wine-staging-8.15-debian10-amd64/wine-staging-8.15-debian10-amd64.7z",
         [
             [
-                "amd64",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
             "exagear",
@@ -5704,7 +5506,6 @@
         "https://master.dl.sourceforge.net/project/deep-wine-runner-wine-download/wine-staging-8.15-debian10-i386/wine-staging-8.15-debian10-i386.7z",
         [
             [
-                "i386",
                 "/usr/lib/i386-linux-gnu/ld-linux.so.2"
             ],
             "exagear",
@@ -5740,7 +5541,6 @@
         "https://jihulab.com/gfdgd-xi/wine-mirrors-4/-/raw/main/wine-staging-8.14-debian10-x86_64.7z",
         [
             [
-                "amd64",
                 "/usr/lib/i386-linux-gnu/ld-linux.so.2",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
@@ -5769,7 +5569,6 @@
         "https://jihulab.com/gfdgd-xi/wine-mirrors-4/-/raw/main/wine-staging-wow64-8.14-debian10-amd64.7z",
         [
             [
-                "amd64",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
             "exagear",
@@ -5812,7 +5611,6 @@
         "https://master.dl.sourceforge.net/project/deep-wine-runner-wine-download/lutris-GE-Proton8-14-x86_64/lutris-GE-Proton8-14-x86_64.7z",
         [
             [
-                "amd64",
                 "/usr/lib/i386-linux-gnu/ld-linux.so.2",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
@@ -5841,7 +5639,6 @@
         "https://master.dl.sourceforge.net/project/deep-wine-runner-wine-download/GE-Proton8-14/GE-Proton8-14.7z",
         [
             [
-                "amd64",
                 "/usr/lib/i386-linux-gnu/ld-linux.so.2",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
@@ -5870,7 +5667,6 @@
         "https://master.dl.sourceforge.net/project/deep-wine-runner-wine-download/wine-staging-8.14-debian10-amd64/wine-staging-8.14-debian10-amd64.7z",
         [
             [
-                "amd64",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
             "exagear",
@@ -5895,7 +5691,6 @@
         "https://master.dl.sourceforge.net/project/deep-wine-runner-wine-download/wine-staging-8.14-debian10-i386/wine-staging-8.14-debian10-i386.7z",
         [
             [
-                "i386",
                 "/usr/lib/i386-linux-gnu/ld-linux.so.2"
             ],
             "exagear",
@@ -5920,7 +5715,6 @@
         "https://master.dl.sourceforge.net/project/deep-wine-runner-wine-download/wine-ce-8.14-amd64/wine-ce-8.14-amd64.7z",
         [
             [
-                "amd64",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
             "exagear",
@@ -5955,7 +5749,6 @@
         "https://master.dl.sourceforge.net/project/deep-wine-runner-wine-download/wine-ce-8.14-riscv64/wine-ce-8.14-riscv64.7z",
         [
             [
-                "riscv64",
                 "/usr/lib/riscv64-linux-gnu/ld-linux-riscv64-lp64d.so.1"
             ]
         ]
@@ -5965,7 +5758,6 @@
         "https://master.dl.sourceforge.net/project/deep-wine-runner-wine-download/wine-lutris-GE-Proton8-13-x86_64/wine-lutris-GE-Proton8-13-x86_64.7z",
         [
             [
-                "amd64",
                 "/usr/lib/i386-linux-gnu/ld-linux.so.2",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
@@ -5994,7 +5786,6 @@
         "https://master.dl.sourceforge.net/project/deep-wine-runner-wine-download/GE-Proton8-13/GE-Proton8-13.7z",
         [
             [
-                "amd64",
                 "/usr/lib/i386-linux-gnu/ld-linux.so.2",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
@@ -6023,7 +5814,6 @@
         "https://jihulab.com/gfdgd-xi/wine-mirrors-4/-/raw/main/spark-wine8-8.13.7z",
         [
             [
-                "amd64",
                 "/usr/lib/i386-linux-gnu/ld-linux.so.2",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
@@ -6052,7 +5842,6 @@
         "https://jihulab.com/gfdgd-xi/wine-mirrors-4/-/raw/main/wine-staging-8.13-debian10-x86_64.7z",
         [
             [
-                "amd64",
                 "/usr/lib/i386-linux-gnu/ld-linux.so.2",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
@@ -6081,7 +5870,6 @@
         "https://master.dl.sourceforge.net/project/deep-wine-runner-wine-download/wine-staging-8.13-debian10-amd64/wine-staging-8.13-debian10-amd64.7z",
         [
             [
-                "amd64",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
             "exagear",
@@ -6106,7 +5894,6 @@
         "https://master.dl.sourceforge.net/project/deep-wine-runner-wine-download/wine-staging-8.13-debian10-i386/wine-staging-8.13-debian10-i386.7z",
         [
             [
-                "i386",
                 "/usr/lib/i386-linux-gnu/ld-linux.so.2"
             ],
             "exagear",
@@ -6131,7 +5918,6 @@
         "https://jihulab.com/gfdgd-xi/wine-mirrors-4/-/raw/main/wine-staging-wow64-8.13-debian10-amd64.7z",
         [
             [
-                "amd64",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
             "exagear",
@@ -6195,7 +5981,6 @@
         "https://master.dl.sourceforge.net/project/deep-wine-runner-wine-download/wine-ce-8.13-amd64/wine-ce-8.13-amd64.7z",
         [
             [
-                "amd64",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
             "exagear",
@@ -6230,7 +6015,6 @@
         "https://master.dl.sourceforge.net/project/deep-wine-runner-wine-download/wine-ce-8.13-riscv64/wine-ce-8.13-riscv64.7z",
         [
             [
-                "riscv64",
                 "/usr/lib/riscv64-linux-gnu/ld-linux-riscv64-lp64d.so.1"
             ]
         ]
@@ -6240,7 +6024,6 @@
         "https://jihulab.com/gfdgd-xi/wine-mirrors-3/-/raw/main/spark-wine8-8.12.7z",
         [
             [
-                "amd64",
                 "/usr/lib/i386-linux-gnu/ld-linux.so.2",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
@@ -6269,7 +6052,6 @@
         "https://jihulab.com/gfdgd-xi/wine-mirrors-3/-/raw/main/spark-wine8-8.12-wow64.7z",
         [
             [
-                "amd64",
                 "/usr/lib/i386-linux-gnu/ld-linux.so.2",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
@@ -6298,7 +6080,6 @@
         "https://jihulab.com/gfdgd-xi/wine-mirrors-3/-/raw/main/wine-staging-8.12-debian10-x86_64.7z",
         [
             [
-                "amd64",
                 "/usr/lib/i386-linux-gnu/ld-linux.so.2",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
@@ -6327,7 +6108,6 @@
         "https://master.dl.sourceforge.net/project/deep-wine-runner-wine-download/wine-lutris-ge-lol-p8-12-x86_64/wine-lutris-ge-lol-p8-12-x86_64.7z",
         [
             [
-                "amd64",
                 "/usr/lib/i386-linux-gnu/ld-linux.so.2",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
@@ -6356,7 +6136,6 @@
         "https://master.dl.sourceforge.net/project/deep-wine-runner-wine-download/wine-lutris-GE-Proton8-12-x86_64/wine-lutris-GE-Proton8-12-x86_64.7z",
         [
             [
-                "amd64",
                 "/usr/lib/i386-linux-gnu/ld-linux.so.2",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
@@ -6385,7 +6164,6 @@
         "https://master.dl.sourceforge.net/project/deep-wine-runner-wine-download/GE-Proton8-12/GE-Proton8-12.7z",
         [
             [
-                "amd64",
                 "/usr/lib/i386-linux-gnu/ld-linux.so.2",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
@@ -6414,7 +6192,6 @@
         "https://jihulab.com/gfdgd-xi/wine-mirrors-3/-/raw/main/wine-staging-wow64-8.12-debian10-amd64.7z",
         [
             [
-                "amd64",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
             "exagear",
@@ -6457,7 +6234,6 @@
         "https://master.dl.sourceforge.net/project/deep-wine-runner-wine-download/wine-staging-8.12-debian10-amd64/wine-staging-8.12-debian10-amd64.7z",
         [
             [
-                "amd64",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
             "exagear",
@@ -6482,7 +6258,6 @@
         "https://master.dl.sourceforge.net/project/deep-wine-runner-wine-download/wine-staging-8.12-debian10-i386/wine-staging-8.12-debian10-i386.7z",
         [
             [
-                "i386",
                 "/usr/lib/i386-linux-gnu/ld-linux.so.2"
             ],
             "exagear",
@@ -6518,7 +6293,6 @@
         "https://jihulab.com/gfdgd-xi/wine-mirrors/-/raw/main/wine-stable-8.0.1.7z",
         [
             [
-                "amd64",
                 "/usr/lib/i386-linux-gnu/ld-linux.so.2",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
@@ -6547,7 +6321,6 @@
         "https://master.dl.sourceforge.net/project/deep-wine-runner-wine-download/wine-stable-8.0.1-debian10-x86_64/wine-stable-8.0.1-debian10-x86_64.7z",
         [
             [
-                "amd64",
                 "/usr/lib/i386-linux-gnu/ld-linux.so.2",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
@@ -6576,7 +6349,6 @@
         "https://master.dl.sourceforge.net/project/deep-wine-runner-wine-download/wine-stable-8.0.1-debian10-amd64/wine-stable-8.0.1-debian10-amd64.7z",
         [
             [
-                "amd64",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
             "exagear",
@@ -6601,7 +6373,6 @@
         "https://master.dl.sourceforge.net/project/deep-wine-runner-wine-download/wine-stable-8.0.1-debian10-i386/wine-stable-8.0.1-debian10-i386.7z",
         [
             [
-                "i386",
                 "/usr/lib/i386-linux-gnu/ld-linux.so.2"
             ],
             "exagear",
@@ -6626,7 +6397,6 @@
         "https://jihulab.com/gfdgd-xi/wine-mirrors-3/-/raw/main/spark-wine8-8.10.7z",
         [
             [
-                "amd64",
                 "/usr/lib/i386-linux-gnu/ld-linux.so.2",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
@@ -6655,7 +6425,6 @@
         "https://jihulab.com/gfdgd-xi/wine-mirrors/-/raw/main/spark-wine8-8.0.7z",
         [
             [
-                "amd64",
                 "/usr/lib/i386-linux-gnu/ld-linux.so.2",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
@@ -6684,7 +6453,6 @@
         "https://master.dl.sourceforge.net/project/deep-wine-runner-wine-download/wine-lutris-GE-Proton8-11-x86_64/wine-lutris-GE-Proton8-11-x86_64.7z",
         [
             [
-                "amd64",
                 "/usr/lib/i386-linux-gnu/ld-linux.so.2",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
@@ -6713,7 +6481,6 @@
         "https://master.dl.sourceforge.net/project/deep-wine-runner-wine-download/GE-Proton8-11/GE-Proton8-11.7z",
         [
             [
-                "amd64",
                 "/usr/lib/i386-linux-gnu/ld-linux.so.2",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
@@ -6742,7 +6509,6 @@
         "https://jihulab.com/gfdgd-xi/wine-mirrors-3/-/raw/main/wine-staging-8.11-debian10-x86_64.7z",
         [
             [
-                "amd64",
                 "/usr/lib/i386-linux-gnu/ld-linux.so.2",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
@@ -6771,7 +6537,6 @@
         "https://jihulab.com/gfdgd-xi/wine-mirrors-3/-/raw/main/wine-staging-wow64-8.11-debian10-amd64.7z",
         [
             [
-                "amd64",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
             "exagear",
@@ -6814,7 +6579,6 @@
         "https://master.dl.sourceforge.net/project/deep-wine-runner-wine-download/wine-staging-8.11-debian10-amd64/wine-staging-8.11-debian10-amd64.7z",
         [
             [
-                "amd64",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
             "exagear",
@@ -6839,7 +6603,6 @@
         "https://master.dl.sourceforge.net/project/deep-wine-runner-wine-download/wine-staging-8.11-debian10-i386/wine-staging-8.11-debian10-i386.7z",
         [
             [
-                "i386",
                 "/usr/lib/i386-linux-gnu/ld-linux.so.2"
             ],
             "exagear",
@@ -6875,7 +6638,6 @@
         "https://master.dl.sourceforge.net/project/deep-wine-runner-wine-download/wine-stable-8.0/wine-stable-8.0.7z",
         [
             [
-                "amd64",
                 "/usr/lib/i386-linux-gnu/ld-linux.so.2",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
@@ -6904,7 +6666,6 @@
         "https://master.dl.sourceforge.net/project/deep-wine-runner-wine-download/wine-lutris-GE-Proton8-10-x86_64/wine-lutris-GE-Proton8-10-x86_64.7z",
         [
             [
-                "amd64",
                 "/usr/lib/i386-linux-gnu/ld-linux.so.2",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
@@ -6933,7 +6694,6 @@
         "https://jihulab.com/gfdgd-xi/wine-mirrors-3/-/raw/main/wine-staging-8.10-debian10-x86_64.7z",
         [
             [
-                "amd64",
                 "/usr/lib/i386-linux-gnu/ld-linux.so.2",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
@@ -6962,7 +6722,6 @@
         "https://master.dl.sourceforge.net/project/deep-wine-runner-wine-download/wine-staging-8.10-debian10-amd64/wine-staging-8.10-debian10-amd64.7z",
         [
             [
-                "amd64",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
             "exagear",
@@ -6987,7 +6746,6 @@
         "https://master.dl.sourceforge.net/project/deep-wine-runner-wine-download/wine-staging-8.10-debian10-i386/wine-staging-8.10-debian10-i386.7z",
         [
             [
-                "i386",
                 "/usr/lib/i386-linux-gnu/ld-linux.so.2"
             ],
             "exagear",
@@ -7023,7 +6781,6 @@
         "https://master.dl.sourceforge.net/project/deep-wine-runner-wine-download/wine-lutris-GE-Proton8-9-x86_64/wine-lutris-GE-Proton8-9-x86_64.7z",
         [
             [
-                "amd64",
                 "/usr/lib/i386-linux-gnu/ld-linux.so.2",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
@@ -7052,7 +6809,6 @@
         "https://jihulab.com/gfdgd-xi/wine-mirrors-2/-/raw/main/wine-staging-8.9-debian10-x86_64.7z",
         [
             [
-                "amd64",
                 "/usr/lib/i386-linux-gnu/ld-linux.so.2",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
@@ -7081,7 +6837,6 @@
         "https://master.dl.sourceforge.net/project/deep-wine-runner-wine-download/wine-staging-8.9-debian10-amd64/wine-staging-8.9-debian10-amd64.7z",
         [
             [
-                "amd64",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
             "exagear",
@@ -7106,7 +6861,6 @@
         "https://master.dl.sourceforge.net/project/deep-wine-runner-wine-download/wine-staging-8.9-debian10-i386/wine-staging-8.9-debian10-i386.7z",
         [
             [
-                "i386",
                 "/usr/lib/i386-linux-gnu/ld-linux.so.2"
             ],
             "exagear",
@@ -7131,7 +6885,6 @@
         "https://master.dl.sourceforge.net/project/deep-wine-runner-wine-download/wine-ce-8.9-amd64/wine-ce-8.9-amd64.7z",
         [
             [
-                "amd64",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
             "exagear",
@@ -7156,7 +6909,6 @@
         "https://master.dl.sourceforge.net/project/deep-wine-runner-wine-download/wine-ce-8.9-riscv64/wine-ce-8.9-riscv64.7z",
         [
             [
-                "riscv64",
                 "/usr/lib/riscv64-linux-gnu/ld-linux-riscv64-lp64d.so.1"
             ]
         ]
@@ -7187,7 +6939,6 @@
         "https://master.dl.sourceforge.net/project/deep-wine-runner-wine-download/wine-lutris-GE-Proton8-8-x86_64/wine-lutris-GE-Proton8-8-x86_64.7z",
         [
             [
-                "amd64",
                 "/usr/lib/i386-linux-gnu/ld-linux.so.2",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
@@ -7216,7 +6967,6 @@
         "https://jihulab.com/gfdgd-xi/wine-mirrors/-/raw/main/wine-staging-8.8-debian10-x86_64.7z",
         [
             [
-                "amd64",
                 "/usr/lib/i386-linux-gnu/ld-linux.so.2",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
@@ -7245,7 +6995,6 @@
         "https://master.dl.sourceforge.net/project/deep-wine-runner-wine-download/wine-staging-8.8-debian10-amd64/wine-staging-8.8-debian10-amd64.7z",
         [
             [
-                "amd64",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
             "exagear",
@@ -7270,7 +7019,6 @@
         "https://master.dl.sourceforge.net/project/deep-wine-runner-wine-download/wine-staging-8.8-debian10-i386/wine-staging-8.8-debian10-i386.7z",
         [
             [
-                "i386",
                 "/usr/lib/i386-linux-gnu/ld-linux.so.2"
             ],
             "exagear",
@@ -7295,7 +7043,6 @@
         "https://master.dl.sourceforge.net/project/deep-wine-runner-wine-download/wine-ce-8.8-amd64/wine-ce-8.8-amd64.7z",
         [
             [
-                "amd64",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
             "exagear",
@@ -7330,7 +7077,6 @@
         "https://master.dl.sourceforge.net/project/deep-wine-runner-wine-download/wine-ce-8.8-riscv64/wine-ce-8.8-riscv64.7z",
         [
             [
-                "riscv64",
                 "/usr/lib/riscv64-linux-gnu/ld-linux-riscv64-lp64d.so.1"
             ]
         ]
@@ -7351,7 +7097,6 @@
         "https://master.dl.sourceforge.net/project/deep-wine-runner-wine-download/wine-lutris-GE-Proton8-7-x86_64/wine-lutris-GE-Proton8-7-x86_64.7z",
         [
             [
-                "amd64",
                 "/usr/lib/i386-linux-gnu/ld-linux.so.2",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
@@ -7380,7 +7125,6 @@
         "https://master.dl.sourceforge.net/project/deep-wine-runner-wine-download/wine-lutris-ge-lol-8.7-1-x86_64/wine-lutris-ge-lol-8.7-1-x86_64.7z",
         [
             [
-                "amd64",
                 "/usr/lib/i386-linux-gnu/ld-linux.so.2",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
@@ -7409,7 +7153,6 @@
         "https://jihulab.com/gfdgd-xi/wine-mirrors/-/raw/main/wine-staging-8.7-debian10-x86_64.7z",
         [
             [
-                "amd64",
                 "/usr/lib/i386-linux-gnu/ld-linux.so.2",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
@@ -7438,7 +7181,6 @@
         "https://master.dl.sourceforge.net/project/deep-wine-runner-wine-download/wine-staging-8.7-debian10-amd64/wine-staging-8.7-debian10-amd64.7z",
         [
             [
-                "amd64",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
             "exagear",
@@ -7463,7 +7205,6 @@
         "https://jihulab.com/gfdgd-xi/wine-mirrors/-/raw/main/wine-staging-8.7-debian10-i386.7z",
         [
             [
-                "i386",
                 "/usr/lib/i386-linux-gnu/ld-linux.so.2"
             ],
             "exagear",
@@ -7488,7 +7229,6 @@
         "https://master.dl.sourceforge.net/project/deep-wine-runner-wine-download/wine-ce-8.7-amd64/wine-ce-8.7-amd64.7z",
         [
             [
-                "amd64",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
             "exagear",
@@ -7523,7 +7263,6 @@
         "https://master.dl.sourceforge.net/project/deep-wine-runner-wine-download/wine-staging-8.6-debian10-x86_64/wine-staging-8.6-debian10-x86_64.7z",
         [
             [
-                "amd64",
                 "/usr/lib/i386-linux-gnu/ld-linux.so.2",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
@@ -7552,7 +7291,6 @@
         "https://master.dl.sourceforge.net/project/deep-wine-runner-wine-download/wine-staging-8.6-debian10-amd64/wine-staging-8.6-debian10-amd64.7z",
         [
             [
-                "amd64",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
             "exagear",
@@ -7577,7 +7315,6 @@
         "https://master.dl.sourceforge.net/project/deep-wine-runner-wine-download/wine-staging-8.6-debian10-i386/wine-staging-8.6-debian10-i386.7z",
         [
             [
-                "i386",
                 "/usr/lib/i386-linux-gnu/ld-linux.so.2"
             ],
             "exagear",
@@ -7613,7 +7350,6 @@
         "https://master.dl.sourceforge.net/project/deep-wine-runner-wine-download/wine-staging-8.5-debian10-x86_64/wine-staging-8.5-debian10-x86_64.7z",
         [
             [
-                "amd64",
                 "/usr/lib/i386-linux-gnu/ld-linux.so.2",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
@@ -7642,7 +7378,6 @@
         "https://master.dl.sourceforge.net/project/deep-wine-runner-wine-download/wine-staging-8.5-debian10-amd64/wine-staging-8.5-debian10-amd64.7z",
         [
             [
-                "amd64",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
             "exagear",
@@ -7667,7 +7402,6 @@
         "https://master.dl.sourceforge.net/project/deep-wine-runner-wine-download/wine-staging-8.5-debian10-i386/wine-staging-8.5-debian10-i386.7z",
         [
             [
-                "i386",
                 "/usr/lib/i386-linux-gnu/ld-linux.so.2"
             ],
             "exagear",
@@ -7702,7 +7436,6 @@
         "https://master.dl.sourceforge.net/project/deep-wine-runner-wine-download/wine-ce-8.5-riscv64/wine-ce-8.5-riscv64.7z",
         [
             [
-                "riscv64",
                 "/usr/lib/riscv64-linux-gnu/ld-linux-riscv64-lp64d.so.1"
             ]
         ]
@@ -7712,7 +7445,6 @@
         "https://master.dl.sourceforge.net/project/deep-wine-runner-wine-download/wine-staging-8.4-debian10-x86_64/wine-staging-8.4-debian10-x86_64.7z",
         [
             [
-                "amd64",
                 "/usr/lib/i386-linux-gnu/ld-linux.so.2",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
@@ -7741,7 +7473,6 @@
         "https://master.dl.sourceforge.net/project/deep-wine-runner-wine-download/wine-staging-8.4-debian10-amd64/wine-staging-8.4-debian10-amd64.7z",
         [
             [
-                "amd64",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
             "exagear",
@@ -7766,7 +7497,6 @@
         "https://master.dl.sourceforge.net/project/deep-wine-runner-wine-download/wine-staging-8.4-debian10-i386/wine-staging-8.4-debian10-i386.7z",
         [
             [
-                "i386",
                 "/usr/lib/i386-linux-gnu/ld-linux.so.2"
             ],
             "exagear",
@@ -7791,7 +7521,6 @@
         "https://master.dl.sourceforge.net/project/deep-wine-runner-wine-download/wine-ce-8.4-riscv64/wine-ce-8.4-riscv64.7z",
         [
             [
-                "riscv64",
                 "/usr/lib/riscv64-linux-gnu/ld-linux-riscv64-lp64d.so.1"
             ]
         ]
@@ -7812,7 +7541,6 @@
         "https://master.dl.sourceforge.net/project/deep-wine-runner-wine-download/wine-staging-8.3/wine-staging-8.3.7z",
         [
             [
-                "amd64",
                 "/usr/lib/i386-linux-gnu/ld-linux.so.2",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
@@ -7841,7 +7569,6 @@
         "https://master.dl.sourceforge.net/project/deep-wine-runner-wine-download/wine-staging-8.3-debian10-x86_64/wine-staging-8.3-debian10-x86_64.7z",
         [
             [
-                "amd64",
                 "/usr/lib/i386-linux-gnu/ld-linux.so.2",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
@@ -7870,7 +7597,6 @@
         "https://master.dl.sourceforge.net/project/deep-wine-runner-wine-download/wine-staging-8.3-debian10-i386/wine-staging-8.3-debian10-i386.7z",
         [
             [
-                "i386",
                 "/usr/lib/i386-linux-gnu/ld-linux.so.2"
             ],
             "exagear",
@@ -7895,7 +7621,6 @@
         "https://master.dl.sourceforge.net/project/deep-wine-runner-wine-download/wine-staging-8.3-debian10-amd64/wine-staging-8.3-debian10-amd64.7z",
         [
             [
-                "amd64",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
             "exagear",
@@ -7920,7 +7645,6 @@
         "https://master.dl.sourceforge.net/project/deep-wine-runner-wine-download/wine-staging-8.2/wine-staging-8.2.7z",
         [
             [
-                "amd64",
                 "/usr/lib/i386-linux-gnu/ld-linux.so.2",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
@@ -7949,7 +7673,6 @@
         "https://master.dl.sourceforge.net/project/deep-wine-runner-wine-download/wine-devel-8.2/wine-devel-8.2.7z",
         [
             [
-                "amd64",
                 "/usr/lib/i386-linux-gnu/ld-linux.so.2",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
@@ -7978,7 +7701,6 @@
         "https://master.dl.sourceforge.net/project/deep-wine-runner-wine-download/wine-staging-8.2-debian10-x86_64/wine-staging-8.2-debian10-x86_64.7z",
         [
             [
-                "amd64",
                 "/usr/lib/i386-linux-gnu/ld-linux.so.2",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
@@ -8007,7 +7729,6 @@
         "https://master.dl.sourceforge.net/project/deep-wine-runner-wine-download/wine-staging-8.2-debian10-amd64/wine-staging-8.2-debian10-amd64.7z",
         [
             [
-                "amd64",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
             "exagear",
@@ -8032,7 +7753,6 @@
         "https://master.dl.sourceforge.net/project/deep-wine-runner-wine-download/wine-staging-8.2-debian10-i386/wine-staging-8.2-debian10-i386.7z",
         [
             [
-                "i386",
                 "/usr/lib/i386-linux-gnu/ld-linux.so.2"
             ],
             "exagear",
@@ -8067,7 +7787,6 @@
         "https://master.dl.sourceforge.net/project/deep-wine-runner-wine-download/wine-ce-8.2-riscv64/wine-ce-8.2-riscv64.7z",
         [
             [
-                "riscv64",
                 "/usr/lib/riscv64-linux-gnu/ld-linux-riscv64-lp64d.so.1"
             ]
         ]
@@ -8087,7 +7806,6 @@
         "https://master.dl.sourceforge.net/project/deep-wine-runner-wine-download/wine-staging-8.1/wine-staging-8.1.7z",
         [
             [
-                "amd64",
                 "/usr/lib/i386-linux-gnu/ld-linux.so.2",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
@@ -8116,7 +7834,6 @@
         "https://master.dl.sourceforge.net/project/deep-wine-runner-wine-download/wine-staging-8.1-debian10-x86_64/wine-staging-8.1-debian10-x86_64.7z",
         [
             [
-                "amd64",
                 "/usr/lib/i386-linux-gnu/ld-linux.so.2",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
@@ -8145,7 +7862,6 @@
         "https://master.dl.sourceforge.net/project/deep-wine-runner-wine-download/wine-staging-8.1-debian10-amd64/wine-staging-8.1-debian10-amd64.7z",
         [
             [
-                "amd64",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
             "exagear",
@@ -8170,7 +7886,6 @@
         "https://master.dl.sourceforge.net/project/deep-wine-runner-wine-download/wine-staging-8.1-debian10-i386/wine-staging-8.1-debian10-i386.7z",
         [
             [
-                "i386",
                 "/usr/lib/i386-linux-gnu/ld-linux.so.2"
             ],
             "exagear",
@@ -8216,7 +7931,6 @@
         "https://master.dl.sourceforge.net/project/deep-wine-runner-wine-download/wine-stable-8.0-debian10-x86_64/wine-stable-8.0-debian10-x86_64.7z",
         [
             [
-                "amd64",
                 "/usr/lib/i386-linux-gnu/ld-linux.so.2",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
@@ -8245,7 +7959,6 @@
         "https://master.dl.sourceforge.net/project/deep-wine-runner-wine-download/wine-stable-8.0-debian10-amd64/wine-stable-8.0-debian10-amd64.7z",
         [
             [
-                "amd64",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
             "exagear",
@@ -8270,7 +7983,6 @@
         "https://master.dl.sourceforge.net/project/deep-wine-runner-wine-download/wine-stable-8.0-debian10-i386/wine-stable-8.0-debian10-i386.7z",
         [
             [
-                "i386",
                 "/usr/lib/i386-linux-gnu/ld-linux.so.2"
             ],
             "exagear",
@@ -8305,7 +8017,6 @@
         "https://master.dl.sourceforge.net/project/deep-wine-runner-wine-download/wine-staging-8.0-rc5/wine-staging-8.0-rc5.7z",
         [
             [
-                "amd64",
                 "/usr/lib/i386-linux-gnu/ld-linux.so.2",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
@@ -8334,7 +8045,6 @@
         "https://master.dl.sourceforge.net/project/deep-wine-runner-wine-download/wine-devel-8.0-rc5/wine-devel-8.0-rc5.7z",
         [
             [
-                "amd64",
                 "/usr/lib/i386-linux-gnu/ld-linux.so.2",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
@@ -8363,7 +8073,6 @@
         "https://master.dl.sourceforge.net/project/deep-wine-runner-wine-download/wine-staging-8.0-rc5-debian10-x86_64/wine-staging-8.0-rc5-debian10-x86_64.7z",
         [
             [
-                "amd64",
                 "/usr/lib/i386-linux-gnu/ld-linux.so.2",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
@@ -8392,7 +8101,6 @@
         "https://master.dl.sourceforge.net/project/deep-wine-runner-wine-download/wine-staging-8.0-rc5-debian10-amd64/wine-staging-8.0-rc5-debian10-amd64.7z",
         [
             [
-                "amd64",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
             "exagear",
@@ -8417,7 +8125,6 @@
         "https://master.dl.sourceforge.net/project/deep-wine-runner-wine-download/wine-staging-8.0-rc5-debian10-i386/wine-staging-8.0-rc5-debian10-i386.7z",
         [
             [
-                "i386",
                 "/usr/lib/i386-linux-gnu/ld-linux.so.2"
             ],
             "exagear",
@@ -8453,7 +8160,6 @@
         "https://master.dl.sourceforge.net/project/deep-wine-runner-wine-download/wine-staging-8.0-rc5-debian10-armv71/wine-staging-8.0-rc5-debian10-armv71.7z",
         [
             [
-                "amd64",
                 "/usr/lib/i386-linux-gnu/ld-linux.so.2",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
@@ -8492,7 +8198,6 @@
         "https://master.dl.sourceforge.net/project/deep-wine-runner-wine-download/wine-staging-8.0-rc4/wine-staging-8.0-rc4.7z",
         [
             [
-                "amd64",
                 "/usr/lib/i386-linux-gnu/ld-linux.so.2",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
@@ -8521,7 +8226,6 @@
         "https://master.dl.sourceforge.net/project/deep-wine-runner-wine-download/wine-devel-8.0-rc4/wine-devel-8.0-rc4.7z",
         [
             [
-                "amd64",
                 "/usr/lib/i386-linux-gnu/ld-linux.so.2",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
@@ -8550,7 +8254,6 @@
         "https://master.dl.sourceforge.net/project/deep-wine-runner-wine-download/wine-staging-8.0-rc4-debian10-x86_64/wine-staging-8.0-rc4-debian10-x86_64.7z",
         [
             [
-                "amd64",
                 "/usr/lib/i386-linux-gnu/ld-linux.so.2",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
@@ -8579,7 +8282,6 @@
         "https://master.dl.sourceforge.net/project/deep-wine-runner-wine-download/wine-staging-8.0-rc4-debian10-i386/wine-staging-8.0-rc4-debian10-i386.7z",
         [
             [
-                "i386",
                 "/usr/lib/i386-linux-gnu/ld-linux.so.2"
             ],
             "exagear",
@@ -8604,7 +8306,6 @@
         "https://master.dl.sourceforge.net/project/deep-wine-runner-wine-download/wine-staging-8.0-rc4-debian10-amd64/wine-staging-8.0-rc4-debian10-amd64.7z",
         [
             [
-                "amd64",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
             "exagear",
@@ -8639,7 +8340,6 @@
         "https://master.dl.sourceforge.net/project/deep-wine-runner-wine-download/wine-staging-8.0-rc3/wine-staging-8.0-rc3.7z",
         [
             [
-                "amd64",
                 "/usr/lib/i386-linux-gnu/ld-linux.so.2",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
@@ -8668,7 +8368,6 @@
         "https://master.dl.sourceforge.net/project/deep-wine-runner-wine-download/lutris-fshack-7.2/lutris-fshack-7.2.7z",
         [
             [
-                "amd64",
                 "/usr/lib/i386-linux-gnu/ld-linux.so.2",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
@@ -8697,7 +8396,6 @@
         "https://master.dl.sourceforge.net/project/deep-wine-runner-wine-download/wine-staging-8.0-rc2/wine-staging-8.0-rc2.7z",
         [
             [
-                "amd64",
                 "/usr/lib/i386-linux-gnu/ld-linux.so.2",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
@@ -8726,7 +8424,6 @@
         "https://master.dl.sourceforge.net/project/deep-wine-runner-wine-download/wine-staging-8.0-rc1/wine-staging-8.0-rc1.7z",
         [
             [
-                "amd64",
                 "/usr/lib/i386-linux-gnu/ld-linux.so.2",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
@@ -8755,7 +8452,6 @@
         "https://jihulab.com/gfdgd-xi/wine-mirrors-3/-/raw/main/wine-stable-7.0.2-debian10-x86_64.7z",
         [
             [
-                "amd64",
                 "/usr/lib/i386-linux-gnu/ld-linux.so.2",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
@@ -8784,7 +8480,6 @@
         "https://master.dl.sourceforge.net/project/deep-wine-runner-wine-download/wine-staging-wow64-7.0.2-debian10-amd64/wine-staging-wow64-7.0.2-debian10-amd64.7z",
         [
             [
-                "amd64",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
             "exagear",
@@ -8827,7 +8522,6 @@
         "https://master.dl.sourceforge.net/project/deep-wine-runner-wine-download/wine-stable-7.0.2-debian10-amd64/wine-stable-7.0.2-debian10-amd64.7z",
         [
             [
-                "amd64",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
             "exagear",
@@ -8852,7 +8546,6 @@
         "https://master.dl.sourceforge.net/project/deep-wine-runner-wine-download/wine-stable-7.0.2-debian10-i386/wine-stable-7.0.2-debian10-i386.7z",
         [
             [
-                "i386",
                 "/usr/lib/i386-linux-gnu/ld-linux.so.2"
             ],
             "exagear",
@@ -8877,7 +8570,6 @@
         "https://master.dl.sourceforge.net/project/deep-wine-runner-wine-download/wine-stable-7.0.1/wine-stable-7.0.1.7z",
         [
             [
-                "amd64",
                 "/usr/lib/i386-linux-gnu/ld-linux.so.2",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
@@ -8906,7 +8598,6 @@
         "https://master.dl.sourceforge.net/project/deep-wine-runner-wine-download/wine-stable-7.0/wine-stable-7.0.7z",
         [
             [
-                "amd64",
                 "/usr/lib/i386-linux-gnu/ld-linux.so.2",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
@@ -8935,7 +8626,6 @@
         "https://jihulab.com/gfdgd-xi/wine-mirrors/-/raw/main/wine-staging-7.22.7z",
         [
             [
-                "amd64",
                 "/usr/lib/i386-linux-gnu/ld-linux.so.2",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
@@ -8964,7 +8654,6 @@
         "https://master.dl.sourceforge.net/project/deep-wine-runner-wine-download/wine-staging-7.22-debian10/wine-staging-7.22-debian10.7z",
         [
             [
-                "amd64",
                 "/usr/lib/i386-linux-gnu/ld-linux.so.2",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
@@ -8993,7 +8682,6 @@
         "https://master.dl.sourceforge.net/project/deep-wine-runner-wine-download/wine-staging-7.22-debian10-i386/wine-staging-7.22-debian10-i386.7z",
         [
             [
-                "i386",
                 "/usr/lib/i386-linux-gnu/ld-linux.so.2"
             ],
             "exagear",
@@ -9018,7 +8706,6 @@
         "https://master.dl.sourceforge.net/project/deep-wine-runner-wine-download/wine-devel-7.22-debian10-x86_64/wine-devel-7.22-debian10-x86_64.7z",
         [
             [
-                "amd64",
                 "/usr/lib/i386-linux-gnu/ld-linux.so.2",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
@@ -9047,7 +8734,6 @@
         "https://master.dl.sourceforge.net/project/deep-wine-runner-wine-download/wine-staging-7.21/wine-staging-7.21.7z",
         [
             [
-                "amd64",
                 "/usr/lib/i386-linux-gnu/ld-linux.so.2",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
@@ -9076,7 +8762,6 @@
         "https://master.dl.sourceforge.net/project/deep-wine-runner-wine-download/wine-staging-7.21-debian10/wine-staging-7.21-debian10.7z",
         [
             [
-                "amd64",
                 "/usr/lib/i386-linux-gnu/ld-linux.so.2",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
@@ -9105,7 +8790,6 @@
         "https://master.dl.sourceforge.net/project/deep-wine-runner-wine-download/wine-staging-7.20/wine-staging-7.20.7z",
         [
             [
-                "amd64",
                 "/usr/lib/i386-linux-gnu/ld-linux.so.2",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
@@ -9134,7 +8818,6 @@
         "https://master.dl.sourceforge.net/project/deep-wine-runner-wine-download/wine-staging-7.19/wine-staging-7.19.7z",
         [
             [
-                "amd64",
                 "/usr/lib/i386-linux-gnu/ld-linux.so.2",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
@@ -9163,7 +8846,6 @@
         "https://master.dl.sourceforge.net/project/deep-wine-runner-wine-download/wine-staging-7.19-debian10-x86_64/wine-staging-7.19-debian10-x86_64.7z",
         [
             [
-                "amd64",
                 "/usr/lib/i386-linux-gnu/ld-linux.so.2",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
@@ -9192,7 +8874,6 @@
         "https://master.dl.sourceforge.net/project/deep-wine-runner-wine-download/wine-staging-7.18/wine-staging-7.18.7z",
         [
             [
-                "amd64",
                 "/usr/lib/i386-linux-gnu/ld-linux.so.2",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
@@ -9221,7 +8902,6 @@
         "https://master.dl.sourceforge.net/project/deep-wine-runner-wine-download/wine-staging-7.18-debian10-x86_64/wine-staging-7.18-debian10-x86_64.7z",
         [
             [
-                "amd64",
                 "/usr/lib/i386-linux-gnu/ld-linux.so.2",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
@@ -9250,7 +8930,6 @@
         "https://master.dl.sourceforge.net/project/deep-wine-runner-wine-download/wine-staging-7.17/wine-staging-7.17.7z",
         [
             [
-                "amd64",
                 "/usr/lib/i386-linux-gnu/ld-linux.so.2",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
@@ -9279,7 +8958,6 @@
         "https://master.dl.sourceforge.net/project/deep-wine-runner-wine-download/wine-devel-7.17/wine-devel-7.17.7z",
         [
             [
-                "amd64",
                 "/usr/lib/i386-linux-gnu/ld-linux.so.2",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
@@ -9308,7 +8986,6 @@
         "https://master.dl.sourceforge.net/project/deep-wine-runner-wine-download/spark-wine7-devel-7.17~spark-1/spark-wine7-devel-7.17~spark-1.7z",
         [
             [
-                "amd64",
                 "/usr/lib/i386-linux-gnu/ld-linux.so.2",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
@@ -9337,7 +9014,6 @@
         "https://master.dl.sourceforge.net/project/deep-wine-runner-wine-download/spark-wine7-devel-7.17/spark-wine7-devel-7.17.7z",
         [
             [
-                "amd64",
                 "/usr/lib/i386-linux-gnu/ld-linux.so.2",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
@@ -9366,7 +9042,6 @@
         "https://master.dl.sourceforge.net/project/deep-wine-runner-wine-download/wine-staging-7.16/wine-staging-7.16.7z",
         [
             [
-                "amd64",
                 "/usr/lib/i386-linux-gnu/ld-linux.so.2",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
@@ -9395,7 +9070,6 @@
         "https://master.dl.sourceforge.net/project/deep-wine-runner-wine-download/wine-devel-7.15/wine-devel-7.15.7z",
         [
             [
-                "amd64",
                 "/usr/lib/i386-linux-gnu/ld-linux.so.2",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
@@ -9424,7 +9098,6 @@
         "https://master.dl.sourceforge.net/project/deep-wine-runner-wine-download/wine-staging-7.15/wine-staging-7.15.7z",
         [
             [
-                "amd64",
                 "/usr/lib/i386-linux-gnu/ld-linux.so.2",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
@@ -9453,7 +9126,6 @@
         "https://master.dl.sourceforge.net/project/deep-wine-runner-wine-download/spark-wine7-devel-7.14/spark-wine7-devel-7.14.7z",
         [
             [
-                "amd64",
                 "/usr/lib/i386-linux-gnu/ld-linux.so.2",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
@@ -9482,7 +9154,6 @@
         "https://master.dl.sourceforge.net/project/deep-wine-runner-wine-download/wine-devel-7.12/wine-devel-7.12.7z",
         [
             [
-                "amd64",
                 "/usr/lib/i386-linux-gnu/ld-linux.so.2",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
@@ -9511,7 +9182,6 @@
         "https://master.dl.sourceforge.net/project/deep-wine-runner-wine-download/wine-devel-7.5/wine-devel-7.5.7z",
         [
             [
-                "amd64",
                 "/usr/lib/i386-linux-gnu/ld-linux.so.2",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
@@ -9540,7 +9210,6 @@
         "https://master.dl.sourceforge.net/project/deep-wine-runner-wine-download/wine-staging-7.4/wine-staging-7.4.7z",
         [
             [
-                "amd64",
                 "/usr/lib/i386-linux-gnu/ld-linux.so.2",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
@@ -9569,7 +9238,6 @@
         "https://master.dl.sourceforge.net/project/deep-wine-runner-wine-download/wine-staging-7.2/wine-staging-7.2.7z",
         [
             [
-                "amd64",
                 "/usr/lib/i386-linux-gnu/ld-linux.so.2",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
@@ -9598,7 +9266,6 @@
         "https://master.dl.sourceforge.net/project/deep-wine-runner-wine-download/wine-staging-7.0/wine-staging-7.0.7z",
         [
             [
-                "amd64",
                 "/usr/lib/i386-linux-gnu/ld-linux.so.2",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
@@ -9627,7 +9294,6 @@
         "https://jihulab.com/gfdgd-xi/wine-mirrors/-/raw/main/deepin-wine6-stable.7z",
         [
             [
-                "amd64",
                 "/usr/lib/i386-linux-gnu/ld-linux.so.2",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
@@ -9656,7 +9322,6 @@
         "https://master.dl.sourceforge.net/project/deep-wine-runner-wine-download/wine-lutris-ge-6.12-x86_64/wine-lutris-ge-6.12-x86_64.7z",
         [
             [
-                "amd64",
                 "/usr/lib/i386-linux-gnu/ld-linux.so.2",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
@@ -9685,7 +9350,6 @@
         "https://master.dl.sourceforge.net/project/deep-wine-runner-wine-download/wine-lutris-ge-6.9-x86_64/wine-lutris-ge-6.9-x86_64.7z",
         [
             [
-                "amd64",
                 "/usr/lib/i386-linux-gnu/ld-linux.so.2",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
@@ -9714,7 +9378,6 @@
         "https://master.dl.sourceforge.net/project/deep-wine-runner-wine-download/lutris-6.4-i386/lutris-6.4-i386.7z",
         [
             [
-                "i386",
                 "/usr/lib/i386-linux-gnu/ld-linux.so.2"
             ],
             "exagear",
@@ -9739,7 +9402,6 @@
         "https://jihulab.com/gfdgd-xi/wine-mirrors/-/raw/main/wine-stable-6.0.4.7z",
         [
             [
-                "amd64",
                 "/usr/lib/i386-linux-gnu/ld-linux.so.2",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
@@ -9768,7 +9430,6 @@
         "https://master.dl.sourceforge.net/project/deep-wine-runner-wine-download/wine-staging-6.18/wine-staging-6.18.7z",
         [
             [
-                "amd64",
                 "/usr/lib/i386-linux-gnu/ld-linux.so.2",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
@@ -9797,7 +9458,6 @@
         "https://master.dl.sourceforge.net/project/deep-wine-runner-wine-download/wine-staging-6.7/wine-staging-6.7.7z",
         [
             [
-                "amd64",
                 "/usr/lib/i386-linux-gnu/ld-linux.so.2",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
@@ -9826,7 +9486,6 @@
         "https://master.dl.sourceforge.net/project/deep-wine-runner-wine-download/wine-staging-6.1/wine-staging-6.1.7z",
         [
             [
-                "amd64",
                 "/usr/lib/i386-linux-gnu/ld-linux.so.2",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
@@ -9855,7 +9514,6 @@
         "https://master.dl.sourceforge.net/project/deep-wine-runner-wine-download/wine-staging-6.0-amd64/wine-staging-6.0-amd64.7z",
         [
             [
-                "amd64",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
             "exagear",
@@ -9880,7 +9538,6 @@
         "https://master.dl.sourceforge.net/project/deep-wine-runner-wine-download/deepin-wine5-stable/deepin-wine5-stable.7z",
         [
             [
-                "amd64",
                 "/usr/lib/i386-linux-gnu/ld-linux.so.2",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
@@ -9909,7 +9566,6 @@
         "https://jihulab.com/gfdgd-xi/wine-mirrors/-/raw/main/wine-stable-5.0.4.7z",
         [
             [
-                "amd64",
                 "/usr/lib/i386-linux-gnu/ld-linux.so.2",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
@@ -9938,7 +9594,6 @@
         "https://jihulab.com/gfdgd-xi/wine-mirrors/-/raw/main/proton-5.0-debian10-x86_64.7z",
         [
             [
-                "amd64",
                 "/usr/lib/i386-linux-gnu/ld-linux.so.2",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
@@ -9967,7 +9622,6 @@
         "https://master.dl.sourceforge.net/project/deep-wine-runner-wine-download/proton-5.0-debian10-amd64/proton-5.0-debian10-amd64.7z",
         [
             [
-                "amd64",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
             "exagear",
@@ -9992,7 +9646,6 @@
         "https://master.dl.sourceforge.net/project/deep-wine-runner-wine-download/proton-5.0-debian10-i386/proton-5.0-debian10-i386.7z",
         [
             [
-                "i386",
                 "/usr/lib/i386-linux-gnu/ld-linux.so.2"
             ],
             "exagear",
@@ -10017,7 +9670,6 @@
         "https://master.dl.sourceforge.net/project/deep-wine-runner-wine-download/wine-staging-5.22/wine-staging-5.22.7z",
         [
             [
-                "amd64",
                 "/usr/lib/i386-linux-gnu/ld-linux.so.2",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
@@ -10046,7 +9698,6 @@
         "https://master.dl.sourceforge.net/project/deep-wine-runner-wine-download/wine-staging-5.1/wine-staging-5.1.7z",
         [
             [
-                "amd64",
                 "/usr/lib/i386-linux-gnu/ld-linux.so.2",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
@@ -10075,7 +9726,6 @@
         "https://master.dl.sourceforge.net/project/deep-wine-runner-wine-download/wine-staging-5.0-rc4-amd64/wine-staging-5.0-rc4-amd64.7z",
         [
             [
-                "amd64",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
             "exagear",
@@ -10100,7 +9750,6 @@
         "https://master.dl.sourceforge.net/project/deep-wine-runner-wine-download/wine-staging-5.0-rc4/wine-staging-5.0-rc4.7z",
         [
             [
-                "amd64",
                 "/usr/lib/i386-linux-gnu/ld-linux.so.2",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
@@ -10129,7 +9778,6 @@
         "https://master.dl.sourceforge.net/project/deep-wine-runner-wine-download/Proton-4.6-GE-1/Proton-4.6-GE-1.7z",
         [
             [
-                "amd64",
                 "/usr/lib/i386-linux-gnu/ld-linux.so.2",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
@@ -10158,7 +9806,6 @@
         "https://master.dl.sourceforge.net/project/deep-wine-runner-wine-download/Proton-4.5-GE-Beta-1/Proton-4.5-GE-Beta-1.7z",
         [
             [
-                "amd64",
                 "/usr/lib/i386-linux-gnu/ld-linux.so.2",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
@@ -10187,7 +9834,6 @@
         "https://jihulab.com/gfdgd-xi/wine-mirrors/-/raw/main/wine-stable-4.0.4.7z",
         [
             [
-                "amd64",
                 "/usr/lib/i386-linux-gnu/ld-linux.so.2",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
@@ -10216,7 +9862,6 @@
         "https://master.dl.sourceforge.net/project/deep-wine-runner-wine-download/proton-4.2-i386/proton-4.2-i386.7z",
         [
             [
-                "i386",
                 "/usr/lib/i386-linux-gnu/ld-linux.so.2"
             ],
             "exagear",
@@ -10241,7 +9886,6 @@
         "https://master.dl.sourceforge.net/project/deep-wine-runner-wine-download/wine-staging-4.21/wine-staging-4.21.7z",
         [
             [
-                "amd64",
                 "/usr/lib/i386-linux-gnu/ld-linux.so.2",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
@@ -10270,7 +9914,6 @@
         "https://jihulab.com/gfdgd-xi/wine-mirrors/-/raw/main/wine-stable-3.0.5.7z",
         [
             [
-                "amd64",
                 "/usr/lib/i386-linux-gnu/ld-linux.so.2",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
@@ -10299,7 +9942,6 @@
         "https://master.dl.sourceforge.net/project/deep-wine-runner-wine-download/wine-stable-3.0.5-debian10-amd64/wine-stable-3.0.5-debian10-amd64.7z",
         [
             [
-                "amd64",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
             "exagear",
@@ -10324,7 +9966,6 @@
         "https://master.dl.sourceforge.net/project/deep-wine-runner-wine-download/proton-3.16-amd64/proton-3.16-amd64.7z",
         [
             [
-                "amd64",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
             "exagear",
@@ -10349,7 +9990,6 @@
         "https://master.dl.sourceforge.net/project/deep-wine-runner-wine-download/proton-3.16-i386/proton-3.16-i386.7z",
         [
             [
-                "i386",
                 "/usr/lib/i386-linux-gnu/ld-linux.so.2"
             ],
             "exagear",
@@ -10374,7 +10014,6 @@
         "https://master.dl.sourceforge.net/project/deep-wine-runner-wine-download/proton-3.7-i386/proton-3.7-i386.7z",
         [
             [
-                "i386",
                 "/usr/lib/i386-linux-gnu/ld-linux.so.2"
             ],
             "exagear",
@@ -10399,7 +10038,6 @@
         "https://master.dl.sourceforge.net/project/deep-wine-runner-wine-download/wine-staging-3.21/wine-staging-3.21.7z",
         [
             [
-                "amd64",
                 "/usr/lib/i386-linux-gnu/ld-linux.so.2",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
@@ -10428,7 +10066,6 @@
         "https://master.dl.sourceforge.net/project/deep-wine-runner-wine-download/wine-staging-3.1/wine-staging-3.1.7z",
         [
             [
-                "amd64",
                 "/usr/lib/i386-linux-gnu/ld-linux.so.2",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
@@ -10457,7 +10094,6 @@
         "https://master.dl.sourceforge.net/project/deep-wine-runner-wine-download/wine-staging-2.22/wine-staging-2.22.7z",
         [
             [
-                "amd64",
                 "/usr/lib/i386-linux-gnu/ld-linux.so.2",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
@@ -10486,7 +10122,6 @@
         "https://master.dl.sourceforge.net/project/deep-wine-runner-wine-download/wine-staging-2.18-amd64/wine-staging-2.18-amd64.7z",
         [
             [
-                "amd64",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
             "exagear",
@@ -10511,7 +10146,6 @@
         "https://master.dl.sourceforge.net/project/deep-wine-runner-wine-download/wine-staging-2.18/wine-staging-2.18.7z",
         [
             [
-                "amd64",
                 "/usr/lib/i386-linux-gnu/ld-linux.so.2",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
@@ -10540,7 +10174,6 @@
         "https://master.dl.sourceforge.net/project/deep-wine-runner-wine-download/wine-staging-0.9.29-i386/wine-staging-0.9.29-i386.7z",
         [
             [
-                "i386",
                 "/usr/lib/i386-linux-gnu/ld-linux.so.2"
             ],
             "exagear",
@@ -10565,7 +10198,6 @@
         "https://master.dl.sourceforge.net/project/deep-wine-runner-wine-download/wine-staging-7.19-debian10-amd64-demo/wine-staging-7.19-debian10-amd64-demo.7z",
         [
             [
-                "amd64",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
             "exagear",
@@ -10590,7 +10222,6 @@
         "https://master.dl.sourceforge.net/project/deep-wine-runner-wine-download/wine-staging-7.18-debian10-amd64/wine-staging-7.18-debian10-amd64.7z",
         [
             [
-                "amd64",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
             "exagear",
@@ -10615,7 +10246,6 @@
         "https://master.dl.sourceforge.net/project/deep-wine-runner-wine-download/wine-staging-7.18-debian10/wine-staging-7.18-debian10.7z",
         [
             [
-                "amd64",
                 "/usr/lib/i386-linux-gnu/ld-linux.so.2",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
@@ -10644,7 +10274,6 @@
         "https://master.dl.sourceforge.net/project/deep-wine-runner-wine-download/wine-staging-7.18-demo/wine-staging-7.18-demo.7z",
         [
             [
-                "amd64",
                 "/usr/lib/i386-linux-gnu/ld-linux.so.2",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
