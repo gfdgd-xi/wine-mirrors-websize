@@ -19,7 +19,7 @@
         [
             [
                 "arm64",
-                "2.28",
+                "2.27",
                 "/usr/lib/aarch64-linux-gnu/ld-linux-aarch64.so.1"
             ]
         ]
@@ -30,7 +30,7 @@
         [
             [
                 "riscv64",
-                "2.28",
+                "2.27",
                 "/usr/lib/riscv64-linux-gnu/ld-linux-riscv64-lp64d.so.1"
             ]
         ]
@@ -41,7 +41,7 @@
         [
             [
                 "amd64",
-                "2.28",
+                "2.27",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
             "exagear",
@@ -84,7 +84,7 @@
         [
             [
                 "x86_64",
-                "2.28",
+                "2.27",
                 "/usr/lib/i386-linux-gnu/ld-linux.so.2",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
@@ -114,7 +114,7 @@
         [
             [
                 "amd64",
-                "2.28",
+                "2.27",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
             "exagear",
@@ -140,7 +140,7 @@
         [
             [
                 "i386",
-                "2.28",
+                "2.27",
                 "/usr/lib/i386-linux-gnu/ld-linux.so.2"
             ],
             "exagear",
@@ -210,7 +210,7 @@
         [
             [
                 "arm64",
-                "2.28",
+                "2.27",
                 "/usr/lib/aarch64-linux-gnu/ld-linux-aarch64.so.1"
             ]
         ]
@@ -221,7 +221,7 @@
         [
             [
                 "riscv64",
-                "2.28",
+                "2.27",
                 "/usr/lib/riscv64-linux-gnu/ld-linux-riscv64-lp64d.so.1"
             ]
         ]
@@ -232,7 +232,7 @@
         [
             [
                 "amd64",
-                "2.28",
+                "2.27",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
             "exagear",
@@ -280,7 +280,7 @@
         [
             [
                 "x86_64",
-                "2.28",
+                "2.27",
                 "/usr/lib/i386-linux-gnu/ld-linux.so.2",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
@@ -314,7 +314,7 @@
         [
             [
                 "amd64",
-                "2.28",
+                "2.27",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
             "exagear",
@@ -344,7 +344,7 @@
         [
             [
                 "i386",
-                "2.28",
+                "2.27",
                 "/usr/lib/i386-linux-gnu/ld-linux.so.2"
             ],
             "exagear",
@@ -444,7 +444,7 @@
         [
             [
                 "riscv64",
-                "2.28",
+                "2.27",
                 "/usr/lib/riscv64-linux-gnu/ld-linux-riscv64-lp64d.so.1"
             ]
         ]
@@ -455,7 +455,7 @@
         [
             [
                 "arm64",
-                "2.28",
+                "2.27",
                 "/usr/lib/aarch64-linux-gnu/ld-linux-aarch64.so.1"
             ]
         ],
@@ -465,7 +465,7 @@
             [
                 [
                     "amd64",
-                    "2.28",
+                    "2.27",
                     "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
                 ],
                 "exagear",
@@ -510,7 +510,7 @@
         [
             [
                 "x86_64",
-                "2.28",
+                "2.27",
                 "/usr/lib/i386-linux-gnu/ld-linux.so.2",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
@@ -540,7 +540,7 @@
         [
             [
                 "amd64",
-                "2.28",
+                "2.27",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
             "exagear",
@@ -566,7 +566,7 @@
         [
             [
                 "i386",
-                "2.28",
+                "2.27",
                 "/usr/lib/i386-linux-gnu/ld-linux.so.2"
             ],
             "exagear",
@@ -592,7 +592,7 @@
         [
             [
                 "riscv64",
-                "2.28",
+                "2.27",
                 "/usr/lib/riscv64-linux-gnu/ld-linux-riscv64-lp64d.so.1"
             ]
         ]
@@ -603,7 +603,7 @@
         [
             [
                 "arm64",
-                "2.28",
+                "2.27",
                 "/usr/lib/aarch64-linux-gnu/ld-linux-aarch64.so.1"
             ]
         ]
@@ -672,7 +672,7 @@
         [
             [
                 "amd64",
-                "2.28",
+                "2.27",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
             "exagear",
@@ -716,7 +716,7 @@
         [
             [
                 "x86_64",
-                "2.28",
+                "2.27",
                 "/usr/lib/i386-linux-gnu/ld-linux.so.2",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
@@ -746,7 +746,7 @@
         [
             [
                 "amd64",
-                "2.28",
+                "2.27",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
             "exagear",
@@ -772,7 +772,7 @@
         [
             [
                 "i386",
-                "2.28",
+                "2.27",
                 "/usr/lib/i386-linux-gnu/ld-linux.so.2"
             ],
             "exagear",
@@ -827,7 +827,7 @@
         [
             [
                 "amd64",
-                "2.28",
+                "2.27",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
             "exagear",
@@ -871,7 +871,7 @@
         [
             [
                 "x86_64",
-                "2.28",
+                "2.27",
                 "/usr/lib/i386-linux-gnu/ld-linux.so.2",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
@@ -901,7 +901,7 @@
         [
             [
                 "amd64",
-                "2.28",
+                "2.27",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
             "exagear",
@@ -927,7 +927,7 @@
         [
             [
                 "i386",
-                "2.28",
+                "2.27",
                 "/usr/lib/i386-linux-gnu/ld-linux.so.2"
             ],
             "exagear",
@@ -953,7 +953,7 @@
         [
             [
                 "amd64",
-                "2.28",
+                "2.27",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
             "exagear",
@@ -1055,7 +1055,7 @@
         [
             [
                 "x86_64",
-                "2.28",
+                "2.27",
                 "/usr/lib/i386-linux-gnu/ld-linux.so.2",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
@@ -1085,7 +1085,7 @@
         [
             [
                 "amd64",
-                "2.28",
+                "2.27",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
             "exagear",
@@ -1111,7 +1111,7 @@
         [
             [
                 "i386",
-                "2.28",
+                "2.27",
                 "/usr/lib/i386-linux-gnu/ld-linux.so.2"
             ],
             "exagear",
@@ -1166,7 +1166,7 @@
         [
             [
                 "amd64",
-                "2.28",
+                "2.27",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
             "exagear",
@@ -1210,7 +1210,7 @@
         [
             [
                 "amd64",
-                "2.28",
+                "2.27",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
             "exagear",
@@ -1236,7 +1236,7 @@
         [
             [
                 "i386",
-                "2.28",
+                "2.27",
                 "/usr/lib/i386-linux-gnu/ld-linux.so.2"
             ],
             "exagear",
@@ -1302,7 +1302,7 @@
         [
             [
                 "amd64",
-                "2.28",
+                "2.27",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
             "exagear",
@@ -1346,7 +1346,7 @@
         [
             [
                 "x86_64",
-                "2.28",
+                "2.27",
                 "/usr/lib/i386-linux-gnu/ld-linux.so.2",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
@@ -1376,7 +1376,7 @@
         [
             [
                 "amd64",
-                "2.28",
+                "2.27",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
             "exagear",
@@ -1402,7 +1402,7 @@
         [
             [
                 "i386",
-                "2.28",
+                "2.27",
                 "/usr/lib/i386-linux-gnu/ld-linux.so.2"
             ],
             "exagear",
@@ -1428,7 +1428,7 @@
         [
             [
                 "amd64",
-                "2.28",
+                "2.27",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
             "exagear",
@@ -1472,7 +1472,7 @@
         [
             [
                 "x86_64",
-                "2.28",
+                "2.27",
                 "/usr/lib/i386-linux-gnu/ld-linux.so.2",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
@@ -1502,7 +1502,7 @@
         [
             [
                 "amd64",
-                "2.28",
+                "2.27",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
             "exagear",
@@ -1528,7 +1528,7 @@
         [
             [
                 "i386",
-                "2.28",
+                "2.27",
                 "/usr/lib/i386-linux-gnu/ld-linux.so.2"
             ],
             "exagear",
@@ -1612,7 +1612,7 @@
         [
             [
                 "amd64",
-                "2.28",
+                "2.27",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
             "exagear",
@@ -1656,7 +1656,7 @@
         [
             [
                 "x86_64",
-                "2.28",
+                "2.27",
                 "/usr/lib/i386-linux-gnu/ld-linux.so.2",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
@@ -1686,7 +1686,7 @@
         [
             [
                 "amd64",
-                "2.28",
+                "2.27",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
             "exagear",
@@ -1712,7 +1712,7 @@
         [
             [
                 "i386",
-                "2.28",
+                "2.27",
                 "/usr/lib/i386-linux-gnu/ld-linux.so.2"
             ],
             "exagear",
@@ -1738,7 +1738,7 @@
         [
             [
                 "amd64",
-                "2.28",
+                "2.27",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
             "exagear",
@@ -1782,7 +1782,7 @@
         [
             [
                 "x86_64",
-                "2.28",
+                "2.27",
                 "/usr/lib/i386-linux-gnu/ld-linux.so.2",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
@@ -1812,7 +1812,7 @@
         [
             [
                 "amd64",
-                "2.28",
+                "2.27",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
             "exagear",
@@ -1838,7 +1838,7 @@
         [
             [
                 "i386",
-                "2.28",
+                "2.27",
                 "/usr/lib/i386-linux-gnu/ld-linux.so.2"
             ],
             "exagear",
@@ -1951,7 +1951,7 @@
         [
             [
                 "amd64",
-                "2.28",
+                "2.27",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
             "exagear",
@@ -1995,7 +1995,7 @@
         [
             [
                 "x86_64",
-                "2.28",
+                "2.27",
                 "/usr/lib/i386-linux-gnu/ld-linux.so.2",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
@@ -2025,7 +2025,7 @@
         [
             [
                 "amd64",
-                "2.28",
+                "2.27",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
             "exagear",
@@ -2051,7 +2051,7 @@
         [
             [
                 "i386",
-                "2.28",
+                "2.27",
                 "/usr/lib/i386-linux-gnu/ld-linux.so.2"
             ],
             "exagear",
@@ -2164,7 +2164,7 @@
         [
             [
                 "amd64",
-                "2.28",
+                "2.27",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
             "exagear",
@@ -2208,7 +2208,7 @@
         [
             [
                 "x86_64",
-                "2.28",
+                "2.27",
                 "/usr/lib/i386-linux-gnu/ld-linux.so.2",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
@@ -2238,7 +2238,7 @@
         [
             [
                 "amd64",
-                "2.28",
+                "2.27",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
             "exagear",
@@ -2264,7 +2264,7 @@
         [
             [
                 "i386",
-                "2.28",
+                "2.27",
                 "/usr/lib/i386-linux-gnu/ld-linux.so.2"
             ],
             "exagear",
@@ -2460,7 +2460,7 @@
         [
             [
                 "x86_64",
-                "2.28",
+                "2.27",
                 "/usr/lib/i386-linux-gnu/ld-linux.so.2",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
@@ -2490,7 +2490,7 @@
         [
             [
                 "amd64",
-                "2.28",
+                "2.27",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
             "exagear",
@@ -2516,7 +2516,7 @@
         [
             [
                 "i386",
-                "2.28",
+                "2.27",
                 "/usr/lib/i386-linux-gnu/ld-linux.so.2"
             ],
             "exagear",
@@ -2577,7 +2577,7 @@
         [
             [
                 "amd64",
-                "2.28",
+                "2.27",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
             "exagear",
@@ -2621,7 +2621,7 @@
         [
             [
                 "amd64",
-                "2.28",
+                "2.27",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
             "exagear",
@@ -2647,7 +2647,7 @@
         [
             [
                 "i386",
-                "2.28",
+                "2.27",
                 "/usr/lib/i386-linux-gnu/ld-linux.so.2"
             ],
             "exagear",
@@ -2673,7 +2673,7 @@
         [
             [
                 "x86_64",
-                "2.28",
+                "2.27",
                 "/usr/lib/i386-linux-gnu/ld-linux.so.2",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
@@ -2732,7 +2732,7 @@
         [
             [
                 "x86_64",
-                "2.28",
+                "2.27",
                 "/usr/lib/i386-linux-gnu/ld-linux.so.2",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
@@ -2762,7 +2762,7 @@
         [
             [
                 "amd64",
-                "2.28",
+                "2.27",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
             "exagear",
@@ -2788,7 +2788,7 @@
         [
             [
                 "i386",
-                "2.28",
+                "2.27",
                 "/usr/lib/i386-linux-gnu/ld-linux.so.2"
             ],
             "exagear",
@@ -2814,7 +2814,7 @@
         [
             [
                 "amd64",
-                "2.28",
+                "2.27",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
             "exagear",
@@ -2952,7 +2952,7 @@
         [
             [
                 "amd64",
-                "2.28",
+                "2.27",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
             "exagear",
@@ -2996,7 +2996,7 @@
         [
             [
                 "x86_64",
-                "2.28",
+                "2.27",
                 "/usr/lib/i386-linux-gnu/ld-linux.so.2",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
@@ -3026,7 +3026,7 @@
         [
             [
                 "amd64",
-                "2.28",
+                "2.27",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
             "exagear",
@@ -3052,7 +3052,7 @@
         [
             [
                 "i386",
-                "2.28",
+                "2.27",
                 "/usr/lib/i386-linux-gnu/ld-linux.so.2"
             ],
             "exagear",
@@ -3529,7 +3529,7 @@
         [
             [
                 "amd64",
-                "2.28",
+                "2.27",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
             "exagear",
@@ -3573,7 +3573,7 @@
         [
             [
                 "x86_64",
-                "2.28",
+                "2.27",
                 "/usr/lib/i386-linux-gnu/ld-linux.so.2",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
@@ -3603,7 +3603,7 @@
         [
             [
                 "amd64",
-                "2.28",
+                "2.27",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
             "exagear",
@@ -3629,7 +3629,7 @@
         [
             [
                 "i386",
-                "2.28",
+                "2.27",
                 "/usr/lib/i386-linux-gnu/ld-linux.so.2"
             ],
             "exagear",
@@ -3738,7 +3738,7 @@
         [
             [
                 "amd64",
-                "2.28",
+                "2.27",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
             "exagear",
@@ -3782,7 +3782,7 @@
         [
             [
                 "x86_64",
-                "2.28",
+                "2.27",
                 "/usr/lib/i386-linux-gnu/ld-linux.so.2",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
@@ -3812,7 +3812,7 @@
         [
             [
                 "amd64",
-                "2.28",
+                "2.27",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
             "exagear",
@@ -3838,7 +3838,7 @@
         [
             [
                 "i386",
-                "2.28",
+                "2.27",
                 "/usr/lib/i386-linux-gnu/ld-linux.so.2"
             ],
             "exagear",
@@ -3971,7 +3971,7 @@
         [
             [
                 "amd64",
-                "2.28",
+                "2.27",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
             "exagear",
@@ -4015,7 +4015,7 @@
         [
             [
                 "x86_64",
-                "2.28",
+                "2.27",
                 "/usr/lib/i386-linux-gnu/ld-linux.so.2",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
@@ -4045,7 +4045,7 @@
         [
             [
                 "amd64",
-                "2.28",
+                "2.27",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
             "exagear",
@@ -4071,7 +4071,7 @@
         [
             [
                 "i386",
-                "2.28",
+                "2.27",
                 "/usr/lib/i386-linux-gnu/ld-linux.so.2"
             ],
             "exagear",
@@ -4252,7 +4252,7 @@
         [
             [
                 "i386",
-                "2.28",
+                "2.27",
                 "/usr/lib/i386-linux-gnu/ld-linux.so.2"
             ],
             "exagear",
@@ -4278,7 +4278,7 @@
         [
             [
                 "amd64",
-                "2.28",
+                "2.27",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
             "exagear",
@@ -4304,7 +4304,7 @@
         [
             [
                 "x86_64",
-                "2.28",
+                "2.27",
                 "/usr/lib/i386-linux-gnu/ld-linux.so.2",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
@@ -4334,7 +4334,7 @@
         [
             [
                 "amd64",
-                "2.28",
+                "2.27",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
             "exagear",
@@ -4407,7 +4407,7 @@
         [
             [
                 "amd64",
-                "2.28",
+                "2.27",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
             "exagear",
@@ -4451,7 +4451,7 @@
         [
             [
                 "x86_64",
-                "2.28",
+                "2.27",
                 "/usr/lib/i386-linux-gnu/ld-linux.so.2",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
@@ -4481,7 +4481,7 @@
         [
             [
                 "amd64",
-                "2.28",
+                "2.27",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
             "exagear",
@@ -4507,7 +4507,7 @@
         [
             [
                 "i386",
-                "2.28",
+                "2.27",
                 "/usr/lib/i386-linux-gnu/ld-linux.so.2"
             ],
             "exagear",
@@ -4533,7 +4533,7 @@
         [
             [
                 "amd64",
-                "2.28",
+                "2.27",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
             "exagear",
@@ -4577,7 +4577,7 @@
         [
             [
                 "x86_64",
-                "2.28",
+                "2.27",
                 "/usr/lib/i386-linux-gnu/ld-linux.so.2",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
@@ -4607,7 +4607,7 @@
         [
             [
                 "amd64",
-                "2.28",
+                "2.27",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
             "exagear",
@@ -4633,7 +4633,7 @@
         [
             [
                 "i386",
-                "2.28",
+                "2.27",
                 "/usr/lib/i386-linux-gnu/ld-linux.so.2"
             ],
             "exagear",
@@ -5036,7 +5036,7 @@
         [
             [
                 "x86_64",
-                "2.28",
+                "2.27",
                 "/usr/lib/i386-linux-gnu/ld-linux.so.2",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
@@ -5066,7 +5066,7 @@
         [
             [
                 "amd64",
-                "2.28",
+                "2.27",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
             "exagear",
@@ -5092,7 +5092,7 @@
         [
             [
                 "i386",
-                "2.28",
+                "2.27",
                 "/usr/lib/i386-linux-gnu/ld-linux.so.2"
             ],
             "exagear",
@@ -5118,7 +5118,7 @@
         [
             [
                 "x86_64",
-                "2.28",
+                "2.27",
                 "/usr/lib/i386-linux-gnu/ld-linux.so.2",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
@@ -5177,7 +5177,7 @@
         [
             [
                 "x86_64",
-                "2.28",
+                "2.27",
                 "/usr/lib/i386-linux-gnu/ld-linux.so.2",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
@@ -5207,7 +5207,7 @@
         [
             [
                 "amd64",
-                "2.28",
+                "2.27",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
             "exagear",
@@ -5251,7 +5251,7 @@
         [
             [
                 "x86_64",
-                "2.28",
+                "2.27",
                 "/usr/lib/i386-linux-gnu/ld-linux.so.2",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
@@ -5281,7 +5281,7 @@
         [
             [
                 "amd64",
-                "2.28",
+                "2.27",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
             "exagear",
@@ -5325,7 +5325,7 @@
         [
             [
                 "amd64",
-                "2.28",
+                "2.27",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
             "exagear",
@@ -5351,7 +5351,7 @@
         [
             [
                 "i386",
-                "2.28",
+                "2.27",
                 "/usr/lib/i386-linux-gnu/ld-linux.so.2"
             ],
             "exagear",
@@ -5406,7 +5406,7 @@
         [
             [
                 "amd64",
-                "2.28",
+                "2.27",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
             "exagear",
@@ -5432,7 +5432,7 @@
         [
             [
                 "i386",
-                "2.28",
+                "2.27",
                 "/usr/lib/i386-linux-gnu/ld-linux.so.2"
             ],
             "exagear",
@@ -5527,7 +5527,7 @@
         [
             [
                 "x86_64",
-                "2.28",
+                "2.27",
                 "/usr/lib/i386-linux-gnu/ld-linux.so.2",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
@@ -5557,7 +5557,7 @@
         [
             [
                 "amd64",
-                "2.28",
+                "2.27",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
             "exagear",
@@ -5601,7 +5601,7 @@
         [
             [
                 "amd64",
-                "2.28",
+                "2.27",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
             "exagear",
@@ -5627,7 +5627,7 @@
         [
             [
                 "i386",
-                "2.28",
+                "2.27",
                 "/usr/lib/i386-linux-gnu/ld-linux.so.2"
             ],
             "exagear",
@@ -5722,7 +5722,7 @@
         [
             [
                 "x86_64",
-                "2.28",
+                "2.27",
                 "/usr/lib/i386-linux-gnu/ld-linux.so.2",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
@@ -5752,7 +5752,7 @@
         [
             [
                 "amd64",
-                "2.28",
+                "2.27",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
             "exagear",
@@ -5796,7 +5796,7 @@
         [
             [
                 "amd64",
-                "2.28",
+                "2.27",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
             "exagear",
@@ -5822,7 +5822,7 @@
         [
             [
                 "i386",
-                "2.28",
+                "2.27",
                 "/usr/lib/i386-linux-gnu/ld-linux.so.2"
             ],
             "exagear",
@@ -5859,7 +5859,7 @@
         [
             [
                 "x86_64",
-                "2.28",
+                "2.27",
                 "/usr/lib/i386-linux-gnu/ld-linux.so.2",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
@@ -5889,7 +5889,7 @@
         [
             [
                 "amd64",
-                "2.28",
+                "2.27",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
             "exagear",
@@ -5991,7 +5991,7 @@
         [
             [
                 "amd64",
-                "2.28",
+                "2.27",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
             "exagear",
@@ -6017,7 +6017,7 @@
         [
             [
                 "i386",
-                "2.28",
+                "2.27",
                 "/usr/lib/i386-linux-gnu/ld-linux.so.2"
             ],
             "exagear",
@@ -6175,7 +6175,7 @@
         [
             [
                 "x86_64",
-                "2.28",
+                "2.27",
                 "/usr/lib/i386-linux-gnu/ld-linux.so.2",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
@@ -6205,7 +6205,7 @@
         [
             [
                 "amd64",
-                "2.28",
+                "2.27",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
             "exagear",
@@ -6231,7 +6231,7 @@
         [
             [
                 "i386",
-                "2.28",
+                "2.27",
                 "/usr/lib/i386-linux-gnu/ld-linux.so.2"
             ],
             "exagear",
@@ -6257,7 +6257,7 @@
         [
             [
                 "amd64",
-                "2.28",
+                "2.27",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
             "exagear",
@@ -6425,7 +6425,7 @@
         [
             [
                 "x86_64",
-                "2.28",
+                "2.27",
                 "/usr/lib/i386-linux-gnu/ld-linux.so.2",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
@@ -6542,7 +6542,7 @@
         [
             [
                 "amd64",
-                "2.28",
+                "2.27",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
             "exagear",
@@ -6586,7 +6586,7 @@
         [
             [
                 "amd64",
-                "2.28",
+                "2.27",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
             "exagear",
@@ -6612,7 +6612,7 @@
         [
             [
                 "i386",
-                "2.28",
+                "2.27",
                 "/usr/lib/i386-linux-gnu/ld-linux.so.2"
             ],
             "exagear",
@@ -6678,7 +6678,7 @@
         [
             [
                 "x86_64",
-                "2.28",
+                "2.27",
                 "/usr/lib/i386-linux-gnu/ld-linux.so.2",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
@@ -6708,7 +6708,7 @@
         [
             [
                 "amd64",
-                "2.28",
+                "2.27",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
             "exagear",
@@ -6734,7 +6734,7 @@
         [
             [
                 "i386",
-                "2.28",
+                "2.27",
                 "/usr/lib/i386-linux-gnu/ld-linux.so.2"
             ],
             "exagear",
@@ -6876,7 +6876,7 @@
         [
             [
                 "x86_64",
-                "2.28",
+                "2.27",
                 "/usr/lib/i386-linux-gnu/ld-linux.so.2",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
@@ -6906,7 +6906,7 @@
         [
             [
                 "amd64",
-                "2.28",
+                "2.27",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
             "exagear",
@@ -6950,7 +6950,7 @@
         [
             [
                 "amd64",
-                "2.28",
+                "2.27",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
             "exagear",
@@ -6976,7 +6976,7 @@
         [
             [
                 "i386",
-                "2.28",
+                "2.27",
                 "/usr/lib/i386-linux-gnu/ld-linux.so.2"
             ],
             "exagear",
@@ -7071,7 +7071,7 @@
         [
             [
                 "x86_64",
-                "2.28",
+                "2.27",
                 "/usr/lib/i386-linux-gnu/ld-linux.so.2",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
@@ -7101,7 +7101,7 @@
         [
             [
                 "amd64",
-                "2.28",
+                "2.27",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
             "exagear",
@@ -7127,7 +7127,7 @@
         [
             [
                 "i386",
-                "2.28",
+                "2.27",
                 "/usr/lib/i386-linux-gnu/ld-linux.so.2"
             ],
             "exagear",
@@ -7193,7 +7193,7 @@
         [
             [
                 "x86_64",
-                "2.28",
+                "2.27",
                 "/usr/lib/i386-linux-gnu/ld-linux.so.2",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
@@ -7223,7 +7223,7 @@
         [
             [
                 "amd64",
-                "2.28",
+                "2.27",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
             "exagear",
@@ -7249,7 +7249,7 @@
         [
             [
                 "i386",
-                "2.28",
+                "2.27",
                 "/usr/lib/i386-linux-gnu/ld-linux.so.2"
             ],
             "exagear",
@@ -7360,7 +7360,7 @@
         [
             [
                 "x86_64",
-                "2.28",
+                "2.27",
                 "/usr/lib/i386-linux-gnu/ld-linux.so.2",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
@@ -7390,7 +7390,7 @@
         [
             [
                 "amd64",
-                "2.28",
+                "2.27",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
             "exagear",
@@ -7416,7 +7416,7 @@
         [
             [
                 "i386",
-                "2.28",
+                "2.27",
                 "/usr/lib/i386-linux-gnu/ld-linux.so.2"
             ],
             "exagear",
@@ -7556,7 +7556,7 @@
         [
             [
                 "x86_64",
-                "2.28",
+                "2.27",
                 "/usr/lib/i386-linux-gnu/ld-linux.so.2",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
@@ -7586,7 +7586,7 @@
         [
             [
                 "amd64",
-                "2.28",
+                "2.27",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
             "exagear",
@@ -7612,7 +7612,7 @@
         [
             [
                 "i386",
-                "2.28",
+                "2.27",
                 "/usr/lib/i386-linux-gnu/ld-linux.so.2"
             ],
             "exagear",
@@ -7673,7 +7673,7 @@
         [
             [
                 "x86_64",
-                "2.28",
+                "2.27",
                 "/usr/lib/i386-linux-gnu/ld-linux.so.2",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
@@ -7703,7 +7703,7 @@
         [
             [
                 "amd64",
-                "2.28",
+                "2.27",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
             "exagear",
@@ -7729,7 +7729,7 @@
         [
             [
                 "i386",
-                "2.28",
+                "2.27",
                 "/usr/lib/i386-linux-gnu/ld-linux.so.2"
             ],
             "exagear",
@@ -7766,7 +7766,7 @@
         [
             [
                 "x86_64",
-                "2.28",
+                "2.27",
                 "/usr/lib/i386-linux-gnu/ld-linux.so.2",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
@@ -7796,7 +7796,7 @@
         [
             [
                 "amd64",
-                "2.28",
+                "2.27",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
             "exagear",
@@ -7822,7 +7822,7 @@
         [
             [
                 "i386",
-                "2.28",
+                "2.27",
                 "/usr/lib/i386-linux-gnu/ld-linux.so.2"
             ],
             "exagear",
@@ -7868,7 +7868,7 @@
         [
             [
                 "x86_64",
-                "2.28",
+                "2.27",
                 "/usr/lib/i386-linux-gnu/ld-linux.so.2",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
@@ -7898,7 +7898,7 @@
         [
             [
                 "amd64",
-                "2.28",
+                "2.27",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
             "exagear",
@@ -7924,7 +7924,7 @@
         [
             [
                 "i386",
-                "2.28",
+                "2.27",
                 "/usr/lib/i386-linux-gnu/ld-linux.so.2"
             ],
             "exagear",
@@ -8000,7 +8000,7 @@
         [
             [
                 "x86_64",
-                "2.28",
+                "2.27",
                 "/usr/lib/i386-linux-gnu/ld-linux.so.2",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
@@ -8030,7 +8030,7 @@
         [
             [
                 "i386",
-                "2.28",
+                "2.27",
                 "/usr/lib/i386-linux-gnu/ld-linux.so.2"
             ],
             "exagear",
@@ -8056,7 +8056,7 @@
         [
             [
                 "amd64",
-                "2.28",
+                "2.27",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
             "exagear",
@@ -8140,7 +8140,7 @@
         [
             [
                 "x86_64",
-                "2.28",
+                "2.27",
                 "/usr/lib/i386-linux-gnu/ld-linux.so.2",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
@@ -8170,7 +8170,7 @@
         [
             [
                 "amd64",
-                "2.28",
+                "2.27",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
             "exagear",
@@ -8196,7 +8196,7 @@
         [
             [
                 "i386",
-                "2.28",
+                "2.27",
                 "/usr/lib/i386-linux-gnu/ld-linux.so.2"
             ],
             "exagear",
@@ -8281,7 +8281,7 @@
         [
             [
                 "x86_64",
-                "2.28",
+                "2.27",
                 "/usr/lib/i386-linux-gnu/ld-linux.so.2",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
@@ -8311,7 +8311,7 @@
         [
             [
                 "amd64",
-                "2.28",
+                "2.27",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
             "exagear",
@@ -8337,7 +8337,7 @@
         [
             [
                 "i386",
-                "2.28",
+                "2.27",
                 "/usr/lib/i386-linux-gnu/ld-linux.so.2"
             ],
             "exagear",
@@ -8384,7 +8384,7 @@
         [
             [
                 "x86_64",
-                "2.28",
+                "2.27",
                 "/usr/lib/i386-linux-gnu/ld-linux.so.2",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
@@ -8414,7 +8414,7 @@
         [
             [
                 "amd64",
-                "2.28",
+                "2.27",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
             "exagear",
@@ -8440,7 +8440,7 @@
         [
             [
                 "i386",
-                "2.28",
+                "2.27",
                 "/usr/lib/i386-linux-gnu/ld-linux.so.2"
             ],
             "exagear",
@@ -8534,7 +8534,7 @@
         [
             [
                 "x86_64",
-                "2.28",
+                "2.27",
                 "/usr/lib/i386-linux-gnu/ld-linux.so.2",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
@@ -8564,7 +8564,7 @@
         [
             [
                 "amd64",
-                "2.28",
+                "2.27",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
             "exagear",
@@ -8590,7 +8590,7 @@
         [
             [
                 "i386",
-                "2.28",
+                "2.27",
                 "/usr/lib/i386-linux-gnu/ld-linux.so.2"
             ],
             "exagear",
@@ -8724,7 +8724,7 @@
         [
             [
                 "x86_64",
-                "2.28",
+                "2.27",
                 "/usr/lib/i386-linux-gnu/ld-linux.so.2",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
@@ -8754,7 +8754,7 @@
         [
             [
                 "i386",
-                "2.28",
+                "2.27",
                 "/usr/lib/i386-linux-gnu/ld-linux.so.2"
             ],
             "exagear",
@@ -8780,7 +8780,7 @@
         [
             [
                 "amd64",
-                "2.28",
+                "2.27",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
             "exagear",
@@ -8816,7 +8816,7 @@
         [
             [
                 "x86_64",
-                "2.28",
+                "2.27",
                 "/usr/lib/i386-linux-gnu/ld-linux.so.2",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
@@ -8875,7 +8875,7 @@
         [
             [
                 "x86_64",
-                "2.28",
+                "2.27",
                 "/usr/lib/i386-linux-gnu/ld-linux.so.2",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
@@ -8905,7 +8905,7 @@
         [
             [
                 "x86_64",
-                "2.28",
+                "2.27",
                 "/usr/lib/i386-linux-gnu/ld-linux.so.2",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
@@ -8935,7 +8935,7 @@
         [
             [
                 "x86_64",
-                "2.28",
+                "2.27",
                 "/usr/lib/i386-linux-gnu/ld-linux.so.2",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
@@ -8965,7 +8965,7 @@
         [
             [
                 "amd64",
-                "2.28",
+                "2.27",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
             "exagear",
@@ -9009,7 +9009,7 @@
         [
             [
                 "amd64",
-                "2.28",
+                "2.27",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
             "exagear",
@@ -9035,7 +9035,7 @@
         [
             [
                 "i386",
-                "2.28",
+                "2.27",
                 "/usr/lib/i386-linux-gnu/ld-linux.so.2"
             ],
             "exagear",
@@ -9148,7 +9148,7 @@
         [
             [
                 "x86_64",
-                "2.28",
+                "2.27",
                 "/usr/lib/i386-linux-gnu/ld-linux.so.2",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
@@ -9178,7 +9178,7 @@
         [
             [
                 "i386",
-                "2.28",
+                "2.27",
                 "/usr/lib/i386-linux-gnu/ld-linux.so.2"
             ],
             "exagear",
@@ -9204,7 +9204,7 @@
         [
             [
                 "x86_64",
-                "2.28",
+                "2.27",
                 "/usr/lib/i386-linux-gnu/ld-linux.so.2",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
@@ -9350,7 +9350,7 @@
         [
             [
                 "x86_64",
-                "2.28",
+                "2.27",
                 "/usr/lib/i386-linux-gnu/ld-linux.so.2",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
@@ -9409,7 +9409,7 @@
         [
             [
                 "x86_64",
-                "2.28",
+                "2.27",
                 "/usr/lib/i386-linux-gnu/ld-linux.so.2",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
@@ -10127,7 +10127,7 @@
         [
             [
                 "x86_64",
-                "2.28",
+                "2.27",
                 "/usr/lib/i386-linux-gnu/ld-linux.so.2",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
@@ -10157,7 +10157,7 @@
         [
             [
                 "amd64",
-                "2.28",
+                "2.27",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
             "exagear",
@@ -10183,7 +10183,7 @@
         [
             [
                 "i386",
-                "2.28",
+                "2.27",
                 "/usr/lib/i386-linux-gnu/ld-linux.so.2"
             ],
             "exagear",
@@ -10491,7 +10491,7 @@
         [
             [
                 "amd64",
-                "2.28",
+                "2.27",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
             "exagear",
@@ -10758,7 +10758,7 @@
         [
             [
                 "amd64",
-                "2.28",
+                "2.27",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
             "exagear",
@@ -10784,7 +10784,7 @@
         [
             [
                 "amd64",
-                "2.28",
+                "2.27",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
             "exagear",
