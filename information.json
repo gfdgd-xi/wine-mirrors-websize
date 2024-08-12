@@ -217,7 +217,6 @@
         "https://sourceforge.net/projects/deep-wine-runner-wine-download/files/wine-staging-9.15-debian10-x86_64.7z",
         [
             [
-                "x86_64",
                 "/usr/lib/i386-linux-gnu/ld-linux.so.2",
                 "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
             ],
