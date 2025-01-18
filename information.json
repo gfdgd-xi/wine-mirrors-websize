@@ -149,6 +149,34 @@
         ]
     ],
     [
+        "wine-staging-10.0-rc4-debian10-amd64",
+        "https://sourceforge.net/projects/deep-wine-runner-wine-download/files/wine-staging-10.0-rc4-debian10-amd64.7z",
+        [
+            [
+                "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
+            ],
+            "exagear",
+            [
+                "box64",
+                "binfmt",
+                "!loong64-kernel-8k-pagesize",
+                "!loong64-kernel-16k-pagesize",
+                "!loong64-kernel-32k-pagesize",
+                "!loong64-kernel-64k-pagesize"
+            ],
+            [
+                "lat",
+                "lat-amd64",
+                "binfmt"
+            ],
+            [
+                "qemu-user",
+                "qemu-user-amd64",
+                "binfmt"
+            ]
+        ]
+    ],
+    [
         "wine-staging-10.0-rc4-debian10-i386",
         "https://sourceforge.net/projects/deep-wine-runner-wine-download/files/wine-staging-10.0-rc4-debian10-i386.7z",
         [
