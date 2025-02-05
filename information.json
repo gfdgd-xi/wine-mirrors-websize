@@ -149,6 +149,30 @@
         ]
     ],
     [
+        "wine-stable-10.0-debian10-i386",
+        "https://sourceforge.net/projects/deep-wine-runner-wine-download/files/wine-stable-10.0-debian10-i386.7z",
+        [
+            [
+                "/usr/lib/i386-linux-gnu/ld-linux.so.2"
+            ],
+            "exagear",
+            [
+                "box86",
+                "binfmt"
+            ],
+            [
+                "lat",
+                "lat-i386",
+                "binfmt"
+            ],
+            [
+                "qemu-user",
+                "qemu-user-i386",
+                "binfmt"
+            ]
+        ]
+    ],
+    [
         "wine-staging-wow64-box64-10.0-rc5-debian10-riscv64",
         "https://sourceforge.net/projects/deep-wine-runner-wine-download/files/wine-staging-wow64-box64-10.0-rc5-debian10-riscv64.7z",
         [
