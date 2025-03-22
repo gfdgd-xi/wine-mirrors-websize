@@ -149,6 +149,15 @@
         ]
     ],
     [
+        "wine-staging-wow64-box64-10.4-debian10-riscv64",
+        "https://sourceforge.net/projects/deep-wine-runner-wine-download/files/wine-staging-wow64-box64-10.4-debian10-riscv64.7z",
+        [
+            [
+                "/usr/lib/riscv64-linux-gnu/ld-linux-riscv64-lp64d.so.1"
+            ]
+        ]
+    ],
+    [
         "wine-staging-wow64-box64-10.4-debian10-arm64",
         "https://sourceforge.net/projects/deep-wine-runner-wine-download/files/wine-staging-wow64-box64-10.4-debian10-arm64.7z",
         [
