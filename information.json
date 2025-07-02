@@ -149,6 +149,52 @@
         ]
     ],
     [
+        "wine-stable-wow64-10.9-debian10-amd64",
+        "https://sourceforge.net/projects/deep-wine-runner-wine-download/files/wine-stable-wow64-10.9-debian10-amd64.7z",
+        [
+            [
+                "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
+            ],
+            "exagear",
+            [
+                "box64",
+                "binfmt",
+                "!loong64-kernel-8k-pagesize",
+                "!loong64-kernel-16k-pagesize",
+                "!loong64-kernel-32k-pagesize",
+                "!loong64-kernel-64k-pagesize"
+            ],
+            [
+                "lat",
+                "lat-amd64",
+                "binfmt"
+            ],
+            [
+                "qemu-user",
+                "qemu-user-amd64",
+                "binfmt"
+            ],
+            [
+                "box64",
+                "!loong64-kernel-8k-pagesize",
+                "!loong64-kernel-16k-pagesize",
+                "!loong64-kernel-32k-pagesize",
+                "!loong64-kernel-64k-pagesize"
+            ],
+            "exagear",
+            [
+                "lat",
+                "lat-amd64",
+                "binfmt"
+            ],
+            [
+                "qemu-user",
+                "qemu-user-amd64",
+                "binfmt"
+            ]
+        ]
+    ],
+    [
         "wine-stable-wow64-box64-10.10-debian10-riscv64",
         "https://sourceforge.net/projects/deep-wine-runner-wine-download/files/wine-stable-wow64-box64-10.10-debian10-riscv64.7z",
         [
