@@ -149,6 +149,15 @@
         ]
     ],
     [
+        "wine-stable-wow64-box64-10.12-debian10-riscv64",
+        "https://sourceforge.net/projects/deep-wine-runner-wine-download/files/wine-stable-wow64-box64-10.12-debian10-riscv64.7z",
+        [
+            [
+                "/usr/lib/riscv64-linux-gnu/ld-linux-riscv64-lp64d.so.1"
+            ]
+        ]
+    ],
+    [
         "wine-stable-wow64-box64-10.12-debian10-arm64",
         "https://sourceforge.net/projects/deep-wine-runner-wine-download/files/wine-stable-wow64-box64-10.12-debian10-arm64.7z",
         [
